@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Qu'est-ce que le recyclage ?",
+      "answers": [
+        { "text": "Transformer des déchets en nouveaux produits", "correct": true },
+        { "text": "Jeter les déchets dans la nature", "correct": false },
+        { "text": "Brûler les déchets dans les rues", "correct": false },
+        { "text": "Enterrer des déchets non dégradables", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l'effet de la pollution sur l'air que nous respirons ?",
+      "answers": [
+        { "text": "Il peut être nocif pour la santé", "correct": true },
+        { "text": "Il devient plus frais", "correct": false },
+        { "text": "Il augmente l'oxygène", "correct": false },
+        { "text": "Il diminue les nuages", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel geste contribue à économiser l'eau ?",
+      "answers": [
+        { "text": "Fermer le robinet pendant le brossage des dents", "correct": true },
+        { "text": "Laisser le robinet ouvert", "correct": false },
+        { "text": "Arroser les plantes à toute heure", "correct": false },
+        { "text": "Remplir la baignoire complètement", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel moyen de transport est le plus écologique ?",
+      "answers": [
+        { "text": "Le vélo", "correct": true },
+        { "text": "La voiture à essence", "correct": false },
+        { "text": "L'avion", "correct": false },
+        { "text": "La moto", "correct": false }
+      ]
+    },
+    {
+      "question": "Que peut-on faire pour protéger les animaux ?",
+      "answers": [
+        { "text": "Préserver leurs habitats naturels", "correct": true },
+        { "text": "Polluer les rivières", "correct": false },
+        { "text": "Couper les arbres", "correct": false },
+        { "text": "Construire sur les forêts", "correct": false }
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Qu'est-ce qu'une espèce menacée ?",
+      "answers": [
+        { "text": "Une espèce qui risque de disparaître", "correct": true },
+        { "text": "Une espèce très commune", "correct": false },
+        { "text": "Une espèce qui migre", "correct": false },
+        { "text": "Une espèce domestique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz est majoritairement responsable du réchauffement climatique ?",
+      "answers": [
+        { "text": "Dioxyde de carbone", "correct": true },
+        { "text": "Oxygène", "correct": false },
+        { "text": "Azote", "correct": false },
+        { "text": "Hydrogène", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle pratique agricole peut nuire à l'environnement ?",
+      "answers": [
+        { "text": "L'utilisation excessive de pesticides", "correct": true },
+        { "text": "Le compostage", "correct": false },
+        { "text": "La rotation des cultures", "correct": false },
+        { "text": "La permaculture", "correct": false }
+      ]
+    },
+    {
+      "question": "Que signifie le terme 'biodiversité' ?",
+      "answers": [
+        { "text": "La variété des espèces dans un milieu", "correct": true },
+        { "text": "Le nombre de forêts dans le monde", "correct": false },
+        { "text": "La pollution des océans", "correct": false },
+        { "text": "La quantité de CO2 dans l'air", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel matériau est le plus facile à recycler ?",
+      "answers": [
+        { "text": "Le papier", "correct": true },
+        { "text": "Le plastique multi-couches", "correct": false },
+        { "text": "Le verre coloré mélangé", "correct": false },
+        { "text": "Les déchets organiques", "correct": false }
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Qu'est-ce qu'un corridor écologique ?",
+      "answers": [
+        { "text": "Un passage permettant aux espèces de migrer entre habitats", "correct": true },
+        { "text": "Une route pour voitures électriques", "correct": false },
+        { "text": "Un pipeline pour l'eau", "correct": false },
+        { "text": "Une zone urbaine protégée", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la principale cause de l'acidification des océans ?",
+      "answers": [
+        { "text": "Absorption du CO2 atmosphérique par l'eau", "correct": true },
+        { "text": "Le chlorure de sodium", "correct": false },
+        { "text": "Les marées", "correct": false },
+        { "text": "La salinité naturelle", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que la biomasse ?",
+      "answers": [
+        { "text": "La matière organique utilisée comme énergie", "correct": true },
+        { "text": "Les minéraux du sol", "correct": false },
+        { "text": "Le pétrole fossile", "correct": false },
+        { "text": "Les gaz à effet de serre", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel protocole international vise à protéger la biodiversité ?",
+      "answers": [
+        { "text": "Convention sur la biodiversité (CDB)", "correct": true },
+        { "text": "Protocole de Kyoto", "correct": false },
+        { "text": "Accord de Paris", "correct": false },
+        { "text": "Convention de Ramsar", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle méthode agricole favorise le sol et réduit la pollution ?",
+      "answers": [
+        { "text": "Agriculture biologique", "correct": true },
+        { "text": "Agriculture intensive", "correct": false },
+        { "text": "Monoculture", "correct": false },
+        { "text": "Déforestation", "correct": false }
+      ]
+    }
+  ]
+}

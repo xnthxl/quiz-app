@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Quel est le symbole chimique de l’eau ?",
+      "answers": [
+        { "text": "O2", "correct": false },
+        { "text": "H2O", "correct": true },
+        { "text": "HO", "correct": false },
+        { "text": "OH2", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le numéro atomique du carbone ?",
+      "answers": [
+        { "text": "6", "correct": true },
+        { "text": "12", "correct": false },
+        { "text": "8", "correct": false },
+        { "text": "10", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz est nécessaire à la respiration des êtres vivants ?",
+      "answers": [
+        { "text": "Dioxyde de carbone", "correct": false },
+        { "text": "Oxygène", "correct": true },
+        { "text": "Azote", "correct": false },
+        { "text": "Hydrogène", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le métal principal des canettes de soda ?",
+      "answers": [
+        { "text": "Fer", "correct": false },
+        { "text": "Aluminium", "correct": true },
+        { "text": "Cuivre", "correct": false },
+        { "text": "Zinc", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le gaz produit par la respiration cellulaire ?",
+      "answers": [
+        { "text": "Oxygène", "correct": false },
+        { "text": "Dioxyde de carbone", "correct": true },
+        { "text": "Azote", "correct": false },
+        { "text": "Hydrogène", "correct": false }
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quelle est la particule subatomique portant une charge négative ?",
+      "answers": [
+        { "text": "Proton", "correct": false },
+        { "text": "Neutron", "correct": false },
+        { "text": "Électron", "correct": true },
+        { "text": "Photon", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le pH de l’eau pure à 25°C ?",
+      "answers": [
+        { "text": "7", "correct": true },
+        { "text": "0", "correct": false },
+        { "text": "14", "correct": false },
+        { "text": "5", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz est utilisé pour gonfler les ballons car il est plus léger que l’air ?",
+      "answers": [
+        { "text": "Oxygène", "correct": false },
+        { "text": "Hydrogène", "correct": false },
+        { "text": "Hélium", "correct": true },
+        { "text": "Argon", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel acide est présent dans l’estomac humain ?",
+      "answers": [
+        { "text": "Acide citrique", "correct": false },
+        { "text": "Acide sulfurique", "correct": false },
+        { "text": "Acide chlorhydrique", "correct": true },
+        { "text": "Acide acétique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel prix Nobel a découvert la radioactivité naturelle ?",
+      "answers": [
+        { "text": "Albert Einstein", "correct": false },
+        { "text": "Henri Becquerel", "correct": true },
+        { "text": "Marie Curie", "correct": false },
+        { "text": "Niels Bohr", "correct": false }
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quel est l’élément chimique le plus abondant dans l’univers ?",
+      "answers": [
+        { "text": "Oxygène", "correct": false },
+        { "text": "Hydrogène", "correct": true },
+        { "text": "Carbone", "correct": false },
+        { "text": "Hélium", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi décrit la relation entre pression et volume d’un gaz à température constante ?",
+      "answers": [
+        { "text": "Loi de Charles", "correct": false },
+        { "text": "Loi de Boyle-Mariotte", "correct": true },
+        { "text": "Loi de Dalton", "correct": false },
+        { "text": "Loi d’Avogadro", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien de liaisons covalentes peut former un atome de carbone ?",
+      "answers": [
+        { "text": "2", "correct": false },
+        { "text": "3", "correct": false },
+        { "text": "4", "correct": true },
+        { "text": "5", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom de la constante qui correspond au nombre de particules dans une mole ?",
+      "answers": [
+        { "text": "Constante de Planck", "correct": false },
+        { "text": "Constante d’Avogadro", "correct": true },
+        { "text": "Constante de Boltzmann", "correct": false },
+        { "text": "Constante universelle des gaz", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel prix Nobel a découvert le polonium et le radium ?",
+      "answers": [
+        { "text": "Henri Becquerel", "correct": false },
+        { "text": "Marie Curie", "correct": true },
+        { "text": "Pierre Curie", "correct": false },
+        { "text": "Ernest Rutherford", "correct": false }
+      ]
+    }
+  ]
+}

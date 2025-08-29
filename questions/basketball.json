@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Combien de joueurs y a-t-il par équipe sur le terrain ?",
+      "answers": [
+        {"text": "5", "correct": true},
+        {"text": "6", "correct": false},
+        {"text": "7", "correct": false},
+        {"text": "4", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur est surnommé 'King James' ?",
+      "answers": [
+        {"text": "LeBron James", "correct": true},
+        {"text": "Michael Jordan", "correct": false},
+        {"text": "Kobe Bryant", "correct": false},
+        {"text": "Kevin Durant", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le plus de médailles d’or en basketball aux Jeux Olympiques ?",
+      "answers": [
+        {"text": "États-Unis", "correct": true},
+        {"text": "Espagne", "correct": false},
+        {"text": "Russie", "correct": false},
+        {"text": "France", "correct": false}
+      ]
+    },
+    {
+      "question": "Comment s'appelle le championnat professionnel nord-américain de basketball ?",
+      "answers": [
+        {"text": "NBA", "correct": true},
+        {"text": "NFL", "correct": false},
+        {"text": "MLB", "correct": false},
+        {"text": "MLS", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien de points vaut un panier marqué derrière la ligne des 3 points ?",
+      "answers": [
+        {"text": "3", "correct": true},
+        {"text": "2", "correct": false},
+        {"text": "1", "correct": false},
+        {"text": "4", "correct": false}
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quel joueur a remporté 6 titres NBA avec les Chicago Bulls ?",
+      "answers": [
+        {"text": "Michael Jordan", "correct": true},
+        {"text": "Scottie Pippen", "correct": false},
+        {"text": "Magic Johnson", "correct": false},
+        {"text": "Larry Bird", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur est surnommé 'Black Mamba' ?",
+      "answers": [
+        {"text": "Kobe Bryant", "correct": true},
+        {"text": "LeBron James", "correct": false},
+        {"text": "Stephen Curry", "correct": false},
+        {"text": "Kevin Durant", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe NBA joue ses matchs à Madison Square Garden ?",
+      "answers": [
+        {"text": "New York Knicks", "correct": true},
+        {"text": "Los Angeles Lakers", "correct": false},
+        {"text": "Chicago Bulls", "correct": false},
+        {"text": "Boston Celtics", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien de joueurs sont sur le banc lors d’un match NBA ?",
+      "answers": [
+        {"text": "7", "correct": true},
+        {"text": "5", "correct": false},
+        {"text": "6", "correct": false},
+        {"text": "8", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur est connu pour son tir à 3 points exceptionnel avec les Golden State Warriors ?",
+      "answers": [
+        {"text": "Stephen Curry", "correct": true},
+        {"text": "Klay Thompson", "correct": false},
+        {"text": "Draymond Green", "correct": false},
+        {"text": "Kevin Durant", "correct": false}
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quel joueur a été surnommé 'The Mailman' ?",
+      "answers": [
+        {"text": "Karl Malone", "correct": true},
+        {"text": "Charles Barkley", "correct": false},
+        {"text": "Hakeem Olajuwon", "correct": false},
+        {"text": "Patrick Ewing", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le record du plus grand nombre de points en un match NBA ?",
+      "answers": [
+        {"text": "100 points par Wilt Chamberlain", "correct": true},
+        {"text": "81 points par Kobe Bryant", "correct": false},
+        {"text": "73 points par David Thompson", "correct": false},
+        {"text": "91 points par Michael Jordan", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel entraîneur légendaire a dirigé les Chicago Bulls durant les années 90 ?",
+      "answers": [
+        {"text": "Phil Jackson", "correct": true},
+        {"text": "Pat Riley", "correct": false},
+        {"text": "Gregg Popovich", "correct": false},
+        {"text": "Red Auerbach", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur a remporté le titre de MVP NBA en 2014 ?",
+      "answers": [
+        {"text": "Kevin Durant", "correct": true},
+        {"text": "LeBron James", "correct": false},
+        {"text": "Stephen Curry", "correct": false},
+        {"text": "James Harden", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club espagnol est considéré comme le plus titré en EuroLeague ?",
+      "answers": [
+        {"text": "Real Madrid", "correct": true},
+        {"text": "FC Barcelone", "correct": false},
+        {"text": "CSKA Moscou", "correct": false},
+        {"text": "Panathinaikos", "correct": false}
+      ]
+    }
+  ]
+}

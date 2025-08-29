@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>QuizUp</title>
+</head>
+<body>
+    <header class="site-header">
+        <div class="logo">
+            <h2>Q</h2><p>u</p>
+        </div>
+        <nav class="nav-links">
+            <a href="home.html">Accueil</a>
+            <a href="quiz.html" class="active">Quiz</a>
+            <a href="about.html">A propos</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <main>
+    <div class="quiz-container">
+        <h1>Quiz de culture générale</h1>
+        <label id="difficulty-label" for="difficulty">Choisissez la difficulté :</label>
+        <select id="difficulty">
+            <option value="facile">Facile</option>
+            <option value="moyen">Moyen</option>
+            <option value="difficile">Difficile</option>
+        </select>
+        <button id="start-btn" class="btn-neon">Démarrer</button>
+
+        <div id="question-container" style="display:none">
+            <h2 id="question">Question ici</h2>
+            <div id="answer-buttons" class="btn-grid"></div>
+        </div>
+        <div id="controls" style="display:none;">
+            <button id="next-btn" class="btn">Suivant</button>
+        </div>
+        <p id="score" style="display: none;">Score: 0</p>
+    </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 QuizUp. Tous droits réservés.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+ 

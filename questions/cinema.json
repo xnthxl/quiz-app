@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Qui a réalisé 'Titanic' ?",
+      "answers": [
+        { "text": "James Cameron", "correct": true },
+        { "text": "Steven Spielberg", "correct": false },
+        { "text": "Christopher Nolan", "correct": false },
+        { "text": "Quentin Tarantino", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film met en scène des jouets qui prennent vie ?",
+      "answers": [
+        { "text": "Toy Story", "correct": true },
+        { "text": "Monstres & Cie", "correct": false },
+        { "text": "Cars", "correct": false },
+        { "text": "Shrek", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel acteur incarne Iron Man dans les films Marvel ?",
+      "answers": [
+        { "text": "Robert Downey Jr.", "correct": true },
+        { "text": "Chris Hemsworth", "correct": false },
+        { "text": "Chris Evans", "correct": false },
+        { "text": "Mark Ruffalo", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le pays d'origine du film 'Le Fabuleux Destin d'Amélie Poulain' ?",
+      "answers": [
+        { "text": "France", "correct": true },
+        { "text": "Belgique", "correct": false },
+        { "text": "Canada", "correct": false },
+        { "text": "Italie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le genre principal de 'Star Wars' ?",
+      "answers": [
+        { "text": "Science-fiction", "correct": true },
+        { "text": "Comédie", "correct": false },
+        { "text": "Drame", "correct": false },
+        { "text": "Horreur", "correct": false }
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quel film a remporté l’Oscar du meilleur film en 2020 ?",
+      "answers": [
+        { "text": "Parasite", "correct": true },
+        { "text": "Joker", "correct": false },
+        { "text": "1917", "correct": false },
+        { "text": "Once Upon a Time in Hollywood", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel réalisateur est célèbre pour les films 'Inception' et 'Interstellar' ?",
+      "answers": [
+        { "text": "Christopher Nolan", "correct": true },
+        { "text": "Steven Spielberg", "correct": false },
+        { "text": "Martin Scorsese", "correct": false },
+        { "text": "James Cameron", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film d’animation a été produit par Hayao Miyazaki et le Studio Ghibli ?",
+      "answers": [
+        { "text": "Le Voyage de Chihiro", "correct": true },
+        { "text": "Shrek", "correct": false },
+        { "text": "Kung Fu Panda", "correct": false },
+        { "text": "Ratatouille", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel acteur a joué le rôle de Jack Sparrow dans 'Pirates des Caraïbes' ?",
+      "answers": [
+        { "text": "Johnny Depp", "correct": true },
+        { "text": "Orlando Bloom", "correct": false },
+        { "text": "Leonardo DiCaprio", "correct": false },
+        { "text": "Brad Pitt", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel film entend-on la célèbre phrase 'Je suis ton père' ?",
+      "answers": [
+        { "text": "Star Wars : L’Empire contre-attaque", "correct": true },
+        { "text": "Star Trek", "correct": false },
+        { "text": "Avengers: Endgame", "correct": false },
+        { "text": "Matrix", "correct": false }
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quel film a été le premier à dépasser le milliard de dollars au box-office mondial ?",
+      "answers": [
+        { "text": "Titanic", "correct": true },
+        { "text": "Avatar", "correct": false },
+        { "text": "Jurassic Park", "correct": false },
+        { "text": "Harry Potter à l’école des sorciers", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui a remporté l’Oscar du meilleur réalisateur en 1994 pour 'Forrest Gump' ?",
+      "answers": [
+        { "text": "Robert Zemeckis", "correct": true },
+        { "text": "Steven Spielberg", "correct": false },
+        { "text": "Quentin Tarantino", "correct": false },
+        { "text": "James Cameron", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film de 1927 est considéré comme le premier film parlant ?",
+      "answers": [
+        { "text": "Le Chanteur de jazz", "correct": true },
+        { "text": "Metropolis", "correct": false },
+        { "text": "Nosferatu", "correct": false },
+        { "text": "King Kong", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel pays a été tourné le film 'Le Seigneur des Anneaux' ?",
+      "answers": [
+        { "text": "Nouvelle-Zélande", "correct": true },
+        { "text": "Australie", "correct": false },
+        { "text": "États-Unis", "correct": false },
+        { "text": "Angleterre", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel réalisateur français est célèbre pour le film 'Amélie Poulain' ?",
+      "answers": [
+        { "text": "Jean-Pierre Jeunet", "correct": true },
+        { "text": "Luc Besson", "correct": false },
+        { "text": "François Truffaut", "correct": false },
+        { "text": "Claude Chabrol", "correct": false }
+      ]
+    }
+  ]
+}

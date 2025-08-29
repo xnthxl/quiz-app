@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Qui a écrit 'Le Petit Prince' ?",
+      "answers": [
+        {"text": "Antoine de Saint-Exupéry", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Jules Verne", "correct": false},
+        {"text": "Albert Camus", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le personnage principal de 'Harry Potter' ?",
+      "answers": [
+        {"text": "Harry Potter", "correct": true},
+        {"text": "Hermione Granger", "correct": false},
+        {"text": "Ron Weasley", "correct": false},
+        {"text": "Draco Malfoy", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "answers": [
+        {"text": "Victor Hugo", "correct": true},
+        {"text": "Émile Zola", "correct": false},
+        {"text": "Gustave Flaubert", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle œuvre est attribuée à Jules Verne ?",
+      "answers": [
+        {"text": "Vingt Mille Lieues sous les mers", "correct": true},
+        {"text": "Madame Bovary", "correct": false},
+        {"text": "Le Rouge et le Noir", "correct": false},
+        {"text": "Candide", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel poète français a écrit 'Les Fleurs du mal' ?",
+      "answers": [
+        {"text": "Charles Baudelaire", "correct": true},
+        {"text": "Paul Verlaine", "correct": false},
+        {"text": "Arthur Rimbaud", "correct": false},
+        {"text": "Victor Hugo", "correct": false}
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Qui est l'auteur de 'Le Comte de Monte-Cristo' ?",
+      "answers": [
+        {"text": "Alexandre Dumas", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Émile Zola", "correct": false},
+        {"text": "Gustave Flaubert", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roman débute par 'Aujourd'hui, maman est morte.' ?",
+      "answers": [
+        {"text": "L'Étranger", "correct": true},
+        {"text": "Le Petit Prince", "correct": false},
+        {"text": "Germinal", "correct": false},
+        {"text": "Bel-Ami", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel écrivain a inventé le personnage de Sherlock Holmes ?",
+      "answers": [
+        {"text": "Arthur Conan Doyle", "correct": true},
+        {"text": "Agatha Christie", "correct": false},
+        {"text": "Edgar Allan Poe", "correct": false},
+        {"text": "Jules Verne", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans quelle pièce de théâtre apparaît le personnage de Hamlet ?",
+      "answers": [
+        {"text": "Hamlet", "correct": true},
+        {"text": "Macbeth", "correct": false},
+        {"text": "Othello", "correct": false},
+        {"text": "Roméo et Juliette", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel auteur français est associé au mouvement du naturalisme ?",
+      "answers": [
+        {"text": "Émile Zola", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Marcel Proust", "correct": false},
+        {"text": "Stendhal", "correct": false}
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Qui a écrit 'À la recherche du temps perdu' ?",
+      "answers": [
+        {"text": "Marcel Proust", "correct": true},
+        {"text": "Albert Camus", "correct": false},
+        {"text": "Paul Valéry", "correct": false},
+        {"text": "André Gide", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roman de Gustave Flaubert critique la bourgeoisie française ?",
+      "answers": [
+        {"text": "Madame Bovary", "correct": true},
+        {"text": "L'Éducation sentimentale", "correct": false},
+        {"text": "La Fortune des Rougon", "correct": false},
+        {"text": "Nana", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel poème de Rimbaud commence par 'Je est un autre' ?",
+      "answers": [
+        {"text": "Lettre du voyant", "correct": true},
+        {"text": "Le Bateau ivre", "correct": false},
+        {"text": "Sensation", "correct": false},
+        {"text": "Roman", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge français est connu pour 'Le Cid' ?",
+      "answers": [
+        {"text": "Pierre Corneille", "correct": true},
+        {"text": "Jean Racine", "correct": false},
+        {"text": "Molière", "correct": false},
+        {"text": "Voltaire", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roman d'Honoré de Balzac fait partie de 'La Comédie humaine' ?",
+      "answers": [
+        {"text": "Le Père Goriot", "correct": true},
+        {"text": "Les Rougon-Macquart", "correct": false},
+        {"text": "Germinal", "correct": false},
+        {"text": "Les Misérables", "correct": false}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Que signifie l'acronyme 'HTML' ?",
+      "answers": [
+        {"text": "HyperText Markup Language", "correct": true},
+        {"text": "HighText Machine Language", "correct": false},
+        {"text": "Hyperlinks and Text Markup Language", "correct": false},
+        {"text": "Home Tool Markup Language", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel périphérique permet de saisir du texte sur un ordinateur ?",
+      "answers": [
+        {"text": "Le clavier", "correct": true},
+        {"text": "La souris", "correct": false},
+        {"text": "L'écran", "correct": false},
+        {"text": "L'imprimante", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la couleur par défaut de fond d’une page HTML sans CSS ?",
+      "answers": [
+        {"text": "Blanc", "correct": true},
+        {"text": "Noir", "correct": false},
+        {"text": "Bleu", "correct": false},
+        {"text": "Gris", "correct": false}
+      ]
+    },
+    {
+      "question": "Que signifie l'acronyme 'CPU' ?",
+      "answers": [
+        {"text": "Central Processing Unit", "correct": true},
+        {"text": "Computer Personal Unit", "correct": false},
+        {"text": "Central Programming Unit", "correct": false},
+        {"text": "Computer Processing Unit", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel système d'exploitation est développé par Microsoft ?",
+      "answers": [
+        {"text": "Windows", "correct": true},
+        {"text": "Linux", "correct": false},
+        {"text": "macOS", "correct": false},
+        {"text": "Android", "correct": false}
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quel langage de programmation est principalement utilisé pour le développement web côté client ?",
+      "answers": [
+        {"text": "JavaScript", "correct": true},
+        {"text": "Python", "correct": false},
+        {"text": "C++", "correct": false},
+        {"text": "Java", "correct": false}
+      ]
+    },
+    {
+      "question": "Que signifie l'acronyme 'IP' dans 'adresse IP' ?",
+      "answers": [
+        {"text": "Internet Protocol", "correct": true},
+        {"text": "Internet Provider", "correct": false},
+        {"text": "Internal Process", "correct": false},
+        {"text": "Information Packet", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le rôle principal d’un pare-feu (firewall) ?",
+      "answers": [
+        {"text": "Protéger un réseau contre les intrusions", "correct": true},
+        {"text": "Augmenter la vitesse d’internet", "correct": false},
+        {"text": "Gérer les impressions", "correct": false},
+        {"text": "Stocker des données", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la principale différence entre RAM et ROM ?",
+      "answers": [
+        {"text": "La RAM est volatile, la ROM non", "correct": true},
+        {"text": "La RAM est plus lente que la ROM", "correct": false},
+        {"text": "La RAM stocke les fichiers, la ROM non", "correct": false},
+        {"text": "La ROM est amovible, la RAM non", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel protocole est utilisé pour sécuriser la navigation web (HTTPS) ?",
+      "answers": [
+        {"text": "SSL/TLS", "correct": true},
+        {"text": "FTP", "correct": false},
+        {"text": "SMTP", "correct": false},
+        {"text": "IPSec", "correct": false}
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "En informatique, que signifie 'open source' ?",
+      "answers": [
+        {"text": "Le code est librement accessible et modifiable", "correct": true},
+        {"text": "Le logiciel est gratuit uniquement", "correct": false},
+        {"text": "Le logiciel est sécurisé par défaut", "correct": false},
+        {"text": "Le logiciel ne nécessite pas d’installation", "correct": false}
+      ]
+    },
+    {
+      "question": "Qu'est-ce qu'une base de données relationnelle ?",
+      "answers": [
+        {"text": "Une base de données où les informations sont organisées en tables reliées entre elles", "correct": true},
+        {"text": "Une base de données non structurée", "correct": false},
+        {"text": "Un système de fichiers sur disque dur", "correct": false},
+        {"text": "Une interface utilisateur", "correct": false}
+      ]
+    },
+    {
+      "question": "Que fait un compilateur ?",
+      "answers": [
+        {"text": "Transforme le code source en code exécutable", "correct": true},
+        {"text": "Exécute directement le code source", "correct": false},
+        {"text": "Corrige les erreurs de logique", "correct": false},
+        {"text": "Stocke les données dans la mémoire", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la complexité algorithmique du tri par insertion dans le pire des cas ?",
+      "answers": [
+        {"text": "O(n²)", "correct": true},
+        {"text": "O(n log n)", "correct": false},
+        {"text": "O(n)", "correct": false},
+        {"text": "O(log n)", "correct": false}
+      ]
+    },
+    {
+      "question": "Que signifie 'API' en informatique ?",
+      "answers": [
+        {"text": "Application Programming Interface", "correct": true},
+        {"text": "Automated Program Integration", "correct": false},
+        {"text": "Application Process Identifier", "correct": false},
+        {"text": "Advanced Programming Input", "correct": false}
+      ]
+    }
+  ]
+}

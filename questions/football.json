@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Combien de joueurs y a-t-il dans une équipe de football sur le terrain ?",
+      "answers": [
+        {"text": "11", "correct": true},
+        {"text": "10", "correct": false},
+        {"text": "9", "correct": false},
+        {"text": "12", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+      "answers": [
+        {"text": "France", "correct": true},
+        {"text": "Croatie", "correct": false},
+        {"text": "Brésil", "correct": false},
+        {"text": "Allemagne", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur est surnommé 'CR7' ?",
+      "answers": [
+        {"text": "Cristiano Ronaldo", "correct": true},
+        {"text": "Lionel Messi", "correct": false},
+        {"text": "Neymar", "correct": false},
+        {"text": "Zlatan Ibrahimovic", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le plus de Coupes du Monde ?",
+      "answers": [
+        {"text": "Brésil", "correct": true},
+        {"text": "Allemagne", "correct": false},
+        {"text": "Italie", "correct": false},
+        {"text": "Argentine", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le rôle du gardien de but ?",
+      "answers": [
+        {"text": "Empêcher le ballon d’entrer dans le but", "correct": true},
+        {"text": "Marquer des buts", "correct": false},
+        {"text": "Diriger l’équipe", "correct": false},
+        {"text": "Distribuer les cartons", "correct": false}
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quel club est surnommé 'Les Red Devils' ?",
+      "answers": [
+        {"text": "Manchester United", "correct": true},
+        {"text": "Liverpool", "correct": false},
+        {"text": "Arsenal", "correct": false},
+        {"text": "Chelsea", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur a remporté le plus de Ballons d’Or ?",
+      "answers": [
+        {"text": "Lionel Messi", "correct": true},
+        {"text": "Cristiano Ronaldo", "correct": false},
+        {"text": "Michel Platini", "correct": false},
+        {"text": "Johan Cruyff", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club italien est surnommé 'La Vieille Dame' ?",
+      "answers": [
+        {"text": "Juventus", "correct": true},
+        {"text": "AC Milan", "correct": false},
+        {"text": "Inter Milan", "correct": false},
+        {"text": "AS Roma", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur français a remporté la Ligue des Champions avec le Real Madrid en 2018 ?",
+      "answers": [
+        {"text": "Karim Benzema", "correct": true},
+        {"text": "Kylian Mbappé", "correct": false},
+        {"text": "Paul Pogba", "correct": false},
+        {"text": "Antoine Griezmann", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans quel championnat joue le club FC Barcelone ?",
+      "answers": [
+        {"text": "La Liga", "correct": true},
+        {"text": "Premier League", "correct": false},
+        {"text": "Serie A", "correct": false},
+        {"text": "Bundesliga", "correct": false}
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Qui est le meilleur buteur de l’histoire de la Coupe du Monde ?",
+      "answers": [
+        {"text": "Miroslav Klose", "correct": true},
+        {"text": "Ronaldo Nazário", "correct": false},
+        {"text": "Pele", "correct": false},
+        {"text": "Gerd Müller", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club a remporté la première Ligue des Champions (C1) en 1956 ?",
+      "answers": [
+        {"text": "Real Madrid", "correct": true},
+        {"text": "AC Milan", "correct": false},
+        {"text": "Benfica", "correct": false},
+        {"text": "Barcelona", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur est surnommé 'El Fenómeno' ?",
+      "answers": [
+        {"text": "Ronaldo Nazário", "correct": true},
+        {"text": "Lionel Messi", "correct": false},
+        {"text": "Cristiano Ronaldo", "correct": false},
+        {"text": "Ronaldinho", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club anglais est surnommé 'The Gunners' ?",
+      "answers": [
+        {"text": "Arsenal", "correct": true},
+        {"text": "Manchester United", "correct": false},
+        {"text": "Liverpool", "correct": false},
+        {"text": "Chelsea", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur français a remporté le Ballon d’Or en 1998 ?",
+      "answers": [
+        {"text": "Zinedine Zidane", "correct": true},
+        {"text": "Thierry Henry", "correct": false},
+        {"text": "Michel Platini", "correct": false},
+        {"text": "David Trezeguet", "correct": false}
+      ]
+    }
+  ]
+}

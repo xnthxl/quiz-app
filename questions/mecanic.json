@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Quel pilote est surnommé 'The Doctor' en MotoGP ?",
+      "answers": [
+        {"text": "Valentino Rossi", "correct": true},
+        {"text": "Marc Márquez", "correct": false},
+        {"text": "Jorge Lorenzo", "correct": false},
+        {"text": "Dani Pedrosa", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la compétition automobile la plus célèbre au monde ?",
+      "answers": [
+        {"text": "Formule 1", "correct": true},
+        {"text": "NASCAR", "correct": false},
+        {"text": "WRC", "correct": false},
+        {"text": "IndyCar", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel circuit accueille le Grand Prix de Monaco ?",
+      "answers": [
+        {"text": "Circuit de Monaco", "correct": true},
+        {"text": "Silverstone", "correct": false},
+        {"text": "Monza", "correct": false},
+        {"text": "Spa-Francorchamps", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle marque est célèbre pour son logo avec un cheval cabré ?",
+      "answers": [
+        {"text": "Ferrari", "correct": true},
+        {"text": "Lamborghini", "correct": false},
+        {"text": "Porsche", "correct": false},
+        {"text": "Maserati", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans quelle discipline sportive utilise-t-on un casque et un kart ?",
+      "answers": [
+        {"text": "Karting", "correct": true},
+        {"text": "MotoGP", "correct": false},
+        {"text": "Rallye", "correct": false},
+        {"text": "Formule E", "correct": false}
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Qui a remporté le championnat du monde de Formule 1 en 2021 ?",
+      "answers": [
+        {"text": "Max Verstappen", "correct": true},
+        {"text": "Lewis Hamilton", "correct": false},
+        {"text": "Sebastian Vettel", "correct": false},
+        {"text": "Valtteri Bottas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote français a remporté 4 fois les 24 Heures du Mans ?",
+      "answers": [
+        {"text": "Stéphane Sarrazin", "correct": false},
+        {"text": "Alain Prost", "correct": false},
+        {"text": "Yannick Dalmas", "correct": true},
+        {"text": "Jean Alesi", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel type de moteur est utilisé en MotoGP ?",
+      "answers": [
+        {"text": "Moteur 4 temps", "correct": true},
+        {"text": "Moteur 2 temps", "correct": false},
+        {"text": "Moteur électrique", "correct": false},
+        {"text": "Moteur rotatif", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans le rallye, comment s'appelle la personne qui guide le pilote avec des instructions ?",
+      "answers": [
+        {"text": "Le copilote", "correct": true},
+        {"text": "Le mécano", "correct": false},
+        {"text": "L’ingénieur", "correct": false},
+        {"text": "Le commissaire", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel constructeur japonais est célèbre pour sa Formule 1 et ses motos ?",
+      "answers": [
+        {"text": "Honda", "correct": true},
+        {"text": "Yamaha", "correct": false},
+        {"text": "Suzuki", "correct": false},
+        {"text": "Kawasaki", "correct": false}
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quel pilote a remporté le plus de championnats du monde en Formule 1 ?",
+      "answers": [
+        {"text": "Michael Schumacher", "correct": true},
+        {"text": "Lewis Hamilton", "correct": false},
+        {"text": "Juan Manuel Fangio", "correct": false},
+        {"text": "Sebastian Vettel", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel circuit de MotoGP est surnommé 'The Cathedral' ?",
+      "answers": [
+        {"text": "Circuit de Assen", "correct": true},
+        {"text": "Circuit de Mugello", "correct": false},
+        {"text": "Circuit de Silverstone", "correct": false},
+        {"text": "Circuit de Phillip Island", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe a remporté le championnat du monde des constructeurs F1 en 2020 ?",
+      "answers": [
+        {"text": "Mercedes", "correct": true},
+        {"text": "Red Bull", "correct": false},
+        {"text": "Ferrari", "correct": false},
+        {"text": "McLaren", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote légendaire a été surnommé 'The Iceman' ?",
+      "answers": [
+        {"text": "Kimi Räikkönen", "correct": true},
+        {"text": "Valentino Rossi", "correct": false},
+        {"text": "Ayrton Senna", "correct": false},
+        {"text": "Fernando Alonso", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel type de pneus est utilisé en F1 pour la pluie intense ?",
+      "answers": [
+        {"text": "Pneus pluie (wet)", "correct": true},
+        {"text": "Pneus tendres", "correct": false},
+        {"text": "Pneus durs", "correct": false},
+        {"text": "Pneus slicks", "correct": false}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "facile": [
+    {
+      "question": "Quelle est la langue la plus parlée dans le monde (par nombre de locuteurs natifs) ?",
+      "answers": [
+        { "text": "Le mandarin", "correct": true },
+        { "text": "L’anglais", "correct": false },
+        { "text": "L’espagnol", "correct": false },
+        { "text": "L’arabe", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment dit-on 'bonjour' en espagnol ?",
+      "answers": [
+        { "text": "Hola", "correct": true },
+        { "text": "Adiós", "correct": false },
+        { "text": "Gracias", "correct": false },
+        { "text": "Amigo", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée principalement au Brésil ?",
+      "answers": [
+        { "text": "Le portugais", "correct": true },
+        { "text": "L’espagnol", "correct": false },
+        { "text": "Le français", "correct": false },
+        { "text": "L’italien", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’alphabet utilisé en Russie ?",
+      "answers": [
+        { "text": "Cyrillique", "correct": true },
+        { "text": "Latin", "correct": false },
+        { "text": "Grec", "correct": false },
+        { "text": "Arabe", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment dit-on 'merci' en allemand ?",
+      "answers": [
+        { "text": "Danke", "correct": true },
+        { "text": "Bitte", "correct": false },
+        { "text": "Hallo", "correct": false },
+        { "text": "Tschüss", "correct": false }
+      ]
+    }
+  ],
+
+  "moyen": [
+    {
+      "question": "Quelle langue est à l’origine du mot 'alphabet' ?",
+      "answers": [
+        { "text": "Le grec", "correct": true },
+        { "text": "Le latin", "correct": false },
+        { "text": "L’hébreu", "correct": false },
+        { "text": "Le sanskrit", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le mot le plus long de la langue française reconnu par l’Académie française ?",
+      "answers": [
+        { "text": "Anticonstitutionnellement", "correct": true },
+        { "text": "Intergouvernementalisations", "correct": false },
+        { "text": "Incomprehensibilités", "correct": false },
+        { "text": "Surintendant", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a le plus grand nombre de langues officielles reconnues ?",
+      "answers": [
+        { "text": "Afrique du Sud", "correct": true },
+        { "text": "Inde", "correct": false },
+        { "text": "Suisse", "correct": false },
+        { "text": "Belgique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la langue officielle de l’Iran ?",
+      "answers": [
+        { "text": "Le persan (farsi)", "correct": true },
+        { "text": "L’arabe", "correct": false },
+        { "text": "Le kurde", "correct": false },
+        { "text": "Le turc", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’autre nom donné à la langue néerlandaise en Belgique ?",
+      "answers": [
+        { "text": "Le flamand", "correct": true },
+        { "text": "Le wallon", "correct": false },
+        { "text": "Le brabançon", "correct": false },
+        { "text": "Le picard", "correct": false }
+      ]
+    }
+  ],
+
+  "difficile": [
+    {
+      "question": "Combien de cas grammaticaux possède la langue allemande ?",
+      "answers": [
+        { "text": "4", "correct": true },
+        { "text": "3", "correct": false },
+        { "text": "5", "correct": false },
+        { "text": "6", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue ancienne est considérée comme la 'mère' du sanskrit, du latin et du grec ?",
+      "answers": [
+        { "text": "L’indo-européen", "correct": true },
+        { "text": "L’akkadien", "correct": false },
+        { "text": "Le sumérien", "correct": false },
+        { "text": "Le hittite", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue utilise les caractères appelés 'kanji' ?",
+      "answers": [
+        { "text": "Le japonais", "correct": true },
+        { "text": "Le chinois", "correct": false },
+        { "text": "Le coréen", "correct": false },
+        { "text": "Le vietnamien", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la langue officielle de la Papouasie-Nouvelle-Guinée parmi plus de 800 langues locales ?",
+      "answers": [
+        { "text": "Le tok pisin", "correct": true },
+        { "text": "Le pidgin english", "correct": false },
+        { "text": "Le papou", "correct": false },
+        { "text": "Le melpa", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est écrite de droite à gauche parmi les suivantes ?",
+      "answers": [
+        { "text": "L’arabe", "correct": true },
+        { "text": "Le hindi", "correct": false },
+        { "text": "Le grec", "correct": false },
+        { "text": "Le thaï", "correct": false }
+      ]
+    }
+  ]
+}

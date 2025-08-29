@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Quelle est la planète la plus proche du Soleil ?",
+      "answers": [
+        { "text": "Mercure", "correct": true },
+        { "text": "Vénus", "correct": false },
+        { "text": "Terre", "correct": false },
+        { "text": "Mars", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la planète sur laquelle nous vivons ?",
+      "answers": [
+        { "text": "Terre", "correct": true },
+        { "text": "Mars", "correct": false },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Vénus", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la plus grande planète du système solaire ?",
+      "answers": [
+        { "text": "Jupiter", "correct": true },
+        { "text": "Saturne", "correct": false },
+        { "text": "Neptune", "correct": false },
+        { "text": "Mars", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle étoile est la plus proche de la Terre ?",
+      "answers": [
+        { "text": "Le Soleil", "correct": true },
+        { "text": "Proxima du Centaure", "correct": false },
+        { "text": "Sirius", "correct": false },
+        { "text": "Bételgeuse", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom de notre galaxie ?",
+      "answers": [
+        { "text": "Voie Lactée", "correct": true },
+        { "text": "Andromède", "correct": false },
+        { "text": "Sombrero", "correct": false },
+        { "text": "Tarantule", "correct": false }
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quelle planète est surnommée la planète rouge ?",
+      "answers": [
+        { "text": "Mars", "correct": true },
+        { "text": "Vénus", "correct": false },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Saturne", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la planète connue pour ses anneaux visibles ?",
+      "answers": [
+        { "text": "Saturne", "correct": true },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Uranus", "correct": false },
+        { "text": "Neptune", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène est à l’origine des éclipses solaires ?",
+      "answers": [
+        { "text": "La Lune passe entre le Soleil et la Terre", "correct": true },
+        { "text": "La Terre passe entre le Soleil et la Lune", "correct": false },
+        { "text": "Jupiter passe devant le Soleil", "correct": false },
+        { "text": "Une étoile bloque le Soleil", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la durée approximative d’une année sur Mars ?",
+      "answers": [
+        { "text": "687 jours", "correct": true },
+        { "text": "365 jours", "correct": false },
+        { "text": "225 jours", "correct": false },
+        { "text": "88 jours", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom de la plus grande lune de Jupiter ?",
+      "answers": [
+        { "text": "Ganymède", "correct": true },
+        { "text": "Europe", "correct": false },
+        { "text": "Io", "correct": false },
+        { "text": "Callisto", "correct": false }
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quelle est l’étoile la plus massive connue dans notre galaxie ?",
+      "answers": [
+        { "text": "R136a1", "correct": true },
+        { "text": "Sirius", "correct": false },
+        { "text": "Bételgeuse", "correct": false },
+        { "text": "Rigel", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle planète est inclinée sur son axe à environ 98° ?",
+      "answers": [
+        { "text": "Uranus", "correct": true },
+        { "text": "Neptune", "correct": false },
+        { "text": "Saturne", "correct": false },
+        { "text": "Mars", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom de la mission qui a permis à l’homme de marcher sur la Lune ?",
+      "answers": [
+        { "text": "Apollo 11", "correct": true },
+        { "text": "Voyager 1", "correct": false },
+        { "text": "Apollo 13", "correct": false },
+        { "text": "Gemini 8", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment appelle-t-on le point de l’orbite terrestre le plus proche du Soleil ?",
+      "answers": [
+        { "text": "Périhélie", "correct": true },
+        { "text": "Aphelie", "correct": false },
+        { "text": "Nœud ascendant", "correct": false },
+        { "text": "Solstice", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type de galaxie est la Voie Lactée ?",
+      "answers": [
+        { "text": "Spirale barrée", "correct": true },
+        { "text": "Elliptique", "correct": false },
+        { "text": "Lenticulaire", "correct": false },
+        { "text": "Irrégulière", "correct": false }
+      ]
+    }
+  ]
+}

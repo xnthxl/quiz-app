@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Je suis toujours devant vous mais on ne peut jamais m'atteindre. Qui suis-je ?",
+      "answers": [
+        {"text": "Le futur", "correct": true},
+        {"text": "Le passé", "correct": false},
+        {"text": "Le présent", "correct": false},
+        {"text": "Le temps", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel nombre complète la suite : 2, 4, 6, 8, ... ?",
+      "answers": [
+        {"text": "10", "correct": true},
+        {"text": "12", "correct": false},
+        {"text": "9", "correct": false},
+        {"text": "11", "correct": false}
+      ]
+    },
+    {
+      "question": "Si je bois, je meurs. Si je mange, je grandis. Qui suis-je ?",
+      "answers": [
+        {"text": "Le feu", "correct": true},
+        {"text": "L'eau", "correct": false},
+        {"text": "La plante", "correct": false},
+        {"text": "Le vent", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel mot devient plus court lorsqu’on y ajoute deux lettres ?",
+      "answers": [
+        {"text": "Court", "correct": true},
+        {"text": "Petit", "correct": false},
+        {"text": "Long", "correct": false},
+        {"text": "Grand", "correct": false}
+      ]
+    },
+    {
+      "question": "Je commence par un E, je finis par un E, mais je ne contiens qu’une lettre. Qui suis-je ?",
+      "answers": [
+        {"text": "Une enveloppe", "correct": true},
+        {"text": "Une ère", "correct": false},
+        {"text": "Une étoile", "correct": false},
+        {"text": "Une échelle", "correct": false}
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quel nombre complète la suite : 1, 4, 9, 16, 25, ... ?",
+      "answers": [
+        {"text": "36", "correct": true},
+        {"text": "30", "correct": false},
+        {"text": "35", "correct": false},
+        {"text": "40", "correct": false}
+      ]
+    },
+    {
+      "question": "Vous me voyez une fois en juin, deux fois en novembre, et jamais en mai. Qui suis-je ?",
+      "answers": [
+        {"text": "La lettre 'e'", "correct": true},
+        {"text": "Le soleil", "correct": false},
+        {"text": "La lune", "correct": false},
+        {"text": "Le vent", "correct": false}
+      ]
+    },
+    {
+      "question": "Plus tu en prends, plus tu laisses derrière toi. Qu’est-ce ?",
+      "answers": [
+        {"text": "Des pas", "correct": true},
+        {"text": "Du sable", "correct": false},
+        {"text": "De l’eau", "correct": false},
+        {"text": "Du vent", "correct": false}
+      ]
+    },
+    {
+      "question": "Si cinq machines mettent cinq minutes pour fabriquer cinq objets, combien de temps mettront 100 machines pour fabriquer 100 objets ?",
+      "answers": [
+        {"text": "5 minutes", "correct": true},
+        {"text": "100 minutes", "correct": false},
+        {"text": "50 minutes", "correct": false},
+        {"text": "10 minutes", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis léger comme une plume, mais même le plus fort des hommes ne peut me tenir longtemps. Qui suis-je ?",
+      "answers": [
+        {"text": "Le souffle", "correct": true},
+        {"text": "Le vent", "correct": false},
+        {"text": "Le temps", "correct": false},
+        {"text": "L’air", "correct": false}
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Je suis pris avant que vous ne puissiez me donner. Qui suis-je ?",
+      "answers": [
+        {"text": "Une photo", "correct": true},
+        {"text": "Un secret", "correct": false},
+        {"text": "Une décision", "correct": false},
+        {"text": "Un souffle", "correct": false}
+      ]
+    },
+    {
+      "question": "Une île a trois maisons rouges, trois bleues et trois vertes. Chaque maison doit être peinte d’une couleur différente de ses voisines immédiates. Combien de façons différentes peut-on les peindre ?",
+      "answers": [
+        {"text": "12", "correct": true},
+        {"text": "9", "correct": false},
+        {"text": "27", "correct": false},
+        {"text": "18", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis un nombre. Multipliez-moi par 3, ajoutez 12, divisez par 2 et vous obtenez 30. Qui suis-je ?",
+      "answers": [
+        {"text": "16", "correct": true},
+        {"text": "12", "correct": false},
+        {"text": "18", "correct": false},
+        {"text": "20", "correct": false}
+      ]
+    },
+    {
+      "question": "Un père et son fils ont 30 ans de différence. Dans 10 ans, le père aura deux fois l’âge du fils. Quel âge ont-ils actuellement ?",
+      "answers": [
+        {"text": "Père: 40, fils: 10", "correct": true},
+        {"text": "Père: 50, fils: 20", "correct": false},
+        {"text": "Père: 45, fils: 15", "correct": false},
+        {"text": "Père: 60, fils: 30", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis un mot de 5 lettres et si vous enlevez deux lettres, je reste le même. Qui suis-je ?",
+      "answers": [
+        {"text": "Vide", "correct": true},
+        {"text": "Sonne", "correct": false},
+        {"text": "Épée", "correct": false},
+        {"text": "Rien", "correct": false}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Quel artiste est surnommé le 'King of Pop' ?",
+      "answers": [
+        { "text": "Michael Jackson", "correct": true },
+        { "text": "Elvis Presley", "correct": false },
+        { "text": "Prince", "correct": false },
+        { "text": "Madonna", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel groupe a chanté 'Bohemian Rhapsody' ?",
+      "answers": [
+        { "text": "Queen", "correct": true },
+        { "text": "The Beatles", "correct": false },
+        { "text": "Led Zeppelin", "correct": false },
+        { "text": "Pink Floyd", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument a quatre cordes et se joue souvent avec un archet ?",
+      "answers": [
+        { "text": "Le violon", "correct": true },
+        { "text": "La guitare", "correct": false },
+        { "text": "Le piano", "correct": false },
+        { "text": "La flûte", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle chanteuse est connue pour 'Rolling in the Deep' ?",
+      "answers": [
+        { "text": "Adele", "correct": true },
+        { "text": "Beyoncé", "correct": false },
+        { "text": "Lady Gaga", "correct": false },
+        { "text": "Rihanna", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel groupe britannique a été formé à Liverpool en 1960 ?",
+      "answers": [
+        { "text": "The Beatles", "correct": true },
+        { "text": "The Rolling Stones", "correct": false },
+        { "text": "Queen", "correct": false },
+        { "text": "Pink Floyd", "correct": false }
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Qui est le compositeur de la 'Symphonie n°9' ?",
+      "answers": [
+        { "text": "Ludwig van Beethoven", "correct": true },
+        { "text": "Johann Sebastian Bach", "correct": false },
+        { "text": "Wolfgang Amadeus Mozart", "correct": false },
+        { "text": "Franz Schubert", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument est appelé le 'roi des instruments' ?",
+      "answers": [
+        { "text": "Le piano", "correct": true },
+        { "text": "L'orgue", "correct": false },
+        { "text": "La guitare", "correct": false },
+        { "text": "Le violon", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel chanteur est connu pour 'Purple Rain' ?",
+      "answers": [
+        { "text": "Prince", "correct": true },
+        { "text": "David Bowie", "correct": false },
+        { "text": "Michael Jackson", "correct": false },
+        { "text": "Elton John", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel genre musical est associé à Bob Marley ?",
+      "answers": [
+        { "text": "Reggae", "correct": true },
+        { "text": "Rock", "correct": false },
+        { "text": "Jazz", "correct": false },
+        { "text": "Blues", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur est célèbre pour 'Le Lac des Cygnes' ?",
+      "answers": [
+        { "text": "Piotr Ilitch Tchaïkovski", "correct": true },
+        { "text": "Johann Strauss", "correct": false },
+        { "text": "Frédéric Chopin", "correct": false },
+        { "text": "Gustav Mahler", "correct": false }
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quel musicien est à l’origine du style 'bebop' en jazz ?",
+      "answers": [
+        { "text": "Charlie Parker", "correct": true },
+        { "text": "Louis Armstrong", "correct": false },
+        { "text": "Dizzy Gillespie", "correct": false },
+        { "text": "Thelonious Monk", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur romantique a écrit 'Tristesse' pour piano ?",
+      "answers": [
+        { "text": "Frédéric Chopin", "correct": true },
+        { "text": "Franz Liszt", "correct": false },
+        { "text": "Robert Schumann", "correct": false },
+        { "text": "Johannes Brahms", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel groupe est à l’origine de l’album 'Dark Side of the Moon' ?",
+      "answers": [
+        { "text": "Pink Floyd", "correct": true },
+        { "text": "Led Zeppelin", "correct": false },
+        { "text": "The Rolling Stones", "correct": false },
+        { "text": "Genesis", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur est surnommé 'Le roi de la valse' ?",
+      "answers": [
+        { "text": "Johann Strauss II", "correct": true },
+        { "text": "Franz Schubert", "correct": false },
+        { "text": "Frédéric Chopin", "correct": false },
+        { "text": "Ludwig van Beethoven", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel musicien est considéré comme le pionnier de la musique électronique avec l’album 'Oxygène' ?",
+      "answers": [
+        { "text": "Jean-Michel Jarre", "correct": true },
+        { "text": "Kraftwerk", "correct": false },
+        { "text": "Vangelis", "correct": false },
+        { "text": "Brian Eno", "correct": false }
+      ]
+    }
+  ]
+}

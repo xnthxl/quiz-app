@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Quelle est la molécule qui transporte l’oxygène dans le sang ?",
+      "answers": [
+        { "text": "Insuline", "correct": false },
+        { "text": "Hémoglobine", "correct": true },
+        { "text": "Chlorophylle", "correct": false },
+        { "text": "Glucose", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel organe filtre le sang chez l’être humain ?",
+      "answers": [
+        { "text": "Le foie", "correct": false },
+        { "text": "Les reins", "correct": true },
+        { "text": "Les poumons", "correct": false },
+        { "text": "L’intestin", "correct": false }
+      ]
+    },
+    {
+      "question": "De combien d’os est constitué le squelette humain adulte ?",
+      "answers": [
+        { "text": "206", "correct": true },
+        { "text": "180", "correct": false },
+        { "text": "250", "correct": false },
+        { "text": "300", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel organe permet de pomper le sang dans tout le corps ?",
+      "answers": [
+        { "text": "Le cœur", "correct": true },
+        { "text": "Le cerveau", "correct": false },
+        { "text": "Les poumons", "correct": false },
+        { "text": "L’estomac", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment appelle-t-on l’unité de base de la vie ?",
+      "answers": [
+        { "text": "La molécule", "correct": false },
+        { "text": "La cellule", "correct": true },
+        { "text": "L’atome", "correct": false },
+        { "text": "Le chromosome", "correct": false }
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quel est l’acide nucléique qui code l’information génétique ?",
+      "answers": [
+        { "text": "ARN", "correct": false },
+        { "text": "ADN", "correct": true },
+        { "text": "Protéine", "correct": false },
+        { "text": "Enzyme", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’organe le plus volumineux du corps humain ?",
+      "answers": [
+        { "text": "Le cerveau", "correct": false },
+        { "text": "La peau", "correct": true },
+        { "text": "Le foie", "correct": false },
+        { "text": "Les poumons", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment appelle-t-on la transformation du glucose en énergie par les cellules ?",
+      "answers": [
+        { "text": "Photosynthèse", "correct": false },
+        { "text": "Respiration cellulaire", "correct": true },
+        { "text": "Fermentation", "correct": false },
+        { "text": "Transpiration", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel groupe d’animaux possède une colonne vertébrale ?",
+      "answers": [
+        { "text": "Les invertébrés", "correct": false },
+        { "text": "Les vertébrés", "correct": true },
+        { "text": "Les arthropodes", "correct": false },
+        { "text": "Les mollusques", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle molécule est à la base de l’énergie cellulaire (ATP) ?",
+      "answers": [
+        { "text": "Adénosine triphosphate", "correct": true },
+        { "text": "Adénosine diphosphate", "correct": false },
+        { "text": "Glucose", "correct": false },
+        { "text": "Acide lactique", "correct": false }
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quelle est l’hormone régulant la glycémie produite par le pancréas ?",
+      "answers": [
+        { "text": "Adrénaline", "correct": false },
+        { "text": "Insuline", "correct": true },
+        { "text": "Cortisol", "correct": false },
+        { "text": "Testostérone", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle partie de la cellule contient l’ADN ?",
+      "answers": [
+        { "text": "Cytoplasme", "correct": false },
+        { "text": "Noyau", "correct": true },
+        { "text": "Mitochondrie", "correct": false },
+        { "text": "Ribosome", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type de liaison relie les bases azotées dans l’ADN ?",
+      "answers": [
+        { "text": "Liaison ionique", "correct": false },
+        { "text": "Liaison hydrogène", "correct": true },
+        { "text": "Liaison covalente", "correct": false },
+        { "text": "Pont disulfure", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment appelle-t-on les organismes capables de produire leur propre nourriture ?",
+      "answers": [
+        { "text": "Hétérotrophes", "correct": false },
+        { "text": "Autotrophes", "correct": true },
+        { "text": "Parasites", "correct": false },
+        { "text": "Décomposeurs", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel scientifique est connu comme le père de la génétique moderne ?",
+      "answers": [
+        { "text": "Charles Darwin", "correct": false },
+        { "text": "Gregor Mendel", "correct": true },
+        { "text": "Louis Pasteur", "correct": false },
+        { "text": "Robert Koch", "correct": false }
+      ]
+    }
+  ]
+}

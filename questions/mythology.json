@@ -1,0 +1,145 @@
+{
+  "facile": [
+    {
+      "question": "Qui est le dieu grec de la foudre et du ciel ?",
+      "answers": [
+        { "text": "Zeus", "correct": true },
+        { "text": "Hadès", "correct": false },
+        { "text": "Poséidon", "correct": false },
+        { "text": "Apollon", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie égyptienne, qui est le dieu du soleil ?",
+      "answers": [
+        { "text": "Rê", "correct": true },
+        { "text": "Osiris", "correct": false },
+        { "text": "Anubis", "correct": false },
+        { "text": "Horus", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie nordique, qui brandit le marteau Mjöllnir ?",
+      "answers": [
+        { "text": "Thor", "correct": true },
+        { "text": "Odin", "correct": false },
+        { "text": "Loki", "correct": false },
+        { "text": "Freyr", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle créature mythologique a une tête de lion, un corps de chèvre et une queue de serpent ?",
+      "answers": [
+        { "text": "Chimère", "correct": true },
+        { "text": "Sphinx", "correct": false },
+        { "text": "Hydre", "correct": false },
+        { "text": "Griffon", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est la déesse grecque de la sagesse et de la guerre stratégique ?",
+      "answers": [
+        { "text": "Athéna", "correct": true },
+        { "text": "Aphrodite", "correct": false },
+        { "text": "Artémis", "correct": false },
+        { "text": "Héra", "correct": false }
+      ]
+    }
+  ],
+
+  "moyen": [
+    {
+      "question": "Quel héros grec a tué le Minotaure ?",
+      "answers": [
+        { "text": "Thésée", "correct": true },
+        { "text": "Héraclès", "correct": false },
+        { "text": "Achille", "correct": false },
+        { "text": "Persée", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie nordique, comment s’appelle le monde des morts dirigé par la déesse Hel ?",
+      "answers": [
+        { "text": "Helheim", "correct": true },
+        { "text": "Asgard", "correct": false },
+        { "text": "Midgard", "correct": false },
+        { "text": "Niflheim", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui a ouvert la fameuse boîte libérant tous les maux de l’humanité ?",
+      "answers": [
+        { "text": "Pandore", "correct": true },
+        { "text": "Héra", "correct": false },
+        { "text": "Gaïa", "correct": false },
+        { "text": "Déméter", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie égyptienne, qui pèse le cœur des défunts ?",
+      "answers": [
+        { "text": "Anubis", "correct": true },
+        { "text": "Osiris", "correct": false },
+        { "text": "Isis", "correct": false },
+        { "text": "Thot", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom du cheval ailé né du sang de Méduse ?",
+      "answers": [
+        { "text": "Pégase", "correct": true },
+        { "text": "Arion", "correct": false },
+        { "text": "Sleipnir", "correct": false },
+        { "text": "Bucéphale", "correct": false }
+      ]
+    }
+  ],
+
+  "difficile": [
+    {
+      "question": "Quel titan grec a été condamné à porter le ciel sur ses épaules ?",
+      "answers": [
+        { "text": "Atlas", "correct": true },
+        { "text": "Cronos", "correct": false },
+        { "text": "Prométhée", "correct": false },
+        { "text": "Océanos", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie nordique, comment s’appelle le loup géant qui doit tuer Odin lors du Ragnarök ?",
+      "answers": [
+        { "text": "Fenrir", "correct": true },
+        { "text": "Jörmungand", "correct": false },
+        { "text": "Sköll", "correct": false },
+        { "text": "Hati", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel héros grec a accompli douze travaux imposés par Eurysthée ?",
+      "answers": [
+        { "text": "Héraclès", "correct": true },
+        { "text": "Achille", "correct": false },
+        { "text": "Jason", "correct": false },
+        { "text": "Ulysse", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment s’appelle le navire des Argonautes ?",
+      "answers": [
+        { "text": "Argo", "correct": true },
+        { "text": "Olympia", "correct": false },
+        { "text": "Nautilus", "correct": false },
+        { "text": "Titanis", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie égyptienne, quel dieu est associé au chaos et au désert ?",
+      "answers": [
+        { "text": "Seth", "correct": true },
+        { "text": "Rê", "correct": false },
+        { "text": "Sobek", "correct": false },
+        { "text": "Ptah", "correct": false }
+      ]
+    }
+  ]
+}

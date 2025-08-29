@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Qui a peint la Joconde ?",
+      "answers": [
+        {"text": "Léonard de Vinci", "correct": true},
+        {"text": "Vincent Van Gogh", "correct": false},
+        {"text": "Pablo Picasso", "correct": false},
+        {"text": "Claude Monet", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est célèbre pour ses tournesols ?",
+      "answers": [
+        {"text": "Vincent Van Gogh", "correct": true},
+        {"text": "Paul Cézanne", "correct": false},
+        {"text": "Salvador Dalí", "correct": false},
+        {"text": "Edvard Munch", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "answers": [
+        {"text": "Vincent Van Gogh", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Edgar Degas", "correct": false},
+        {"text": "Paul Gauguin", "correct": false}
+      ]
+    },
+    {
+      "question": "Lequel de ces artistes est un peintre impressionniste ?",
+      "answers": [
+        {"text": "Claude Monet", "correct": true},
+        {"text": "Leonardo da Vinci", "correct": false},
+        {"text": "Pablo Picasso", "correct": false},
+        {"text": "Salvador Dalí", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'Le Cri' ?",
+      "answers": [
+        {"text": "Edvard Munch", "correct": true},
+        {"text": "Vincent Van Gogh", "correct": false},
+        {"text": "Paul Cézanne", "correct": false},
+        {"text": "Henri Matisse", "correct": false}
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quel artiste est associé au cubisme ?",
+      "answers": [
+        {"text": "Pablo Picasso", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Salvador Dalí", "correct": false},
+        {"text": "Edvard Munch", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'Les Nymphéas' ?",
+      "answers": [
+        {"text": "Claude Monet", "correct": true},
+        {"text": "Paul Cézanne", "correct": false},
+        {"text": "Vincent Van Gogh", "correct": false},
+        {"text": "Henri Rousseau", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre hollandais est connu pour ses autoportraits et ses paysages ?",
+      "answers": [
+        {"text": "Rembrandt", "correct": true},
+        {"text": "Van Gogh", "correct": false},
+        {"text": "Vermeer", "correct": false},
+        {"text": "Escher", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l'auteur de 'Guernica' ?",
+      "answers": [
+        {"text": "Pablo Picasso", "correct": true},
+        {"text": "Salvador Dalí", "correct": false},
+        {"text": "Henri Matisse", "correct": false},
+        {"text": "Marc Chagall", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est célèbre pour ses ballerines ?",
+      "answers": [
+        {"text": "Edgar Degas", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Henri Rousseau", "correct": false},
+        {"text": "Paul Cézanne", "correct": false}
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quel artiste espagnol est connu pour son mouvement surréaliste ?",
+      "answers": [
+        {"text": "Salvador Dalí", "correct": true},
+        {"text": "Pablo Picasso", "correct": false},
+        {"text": "Joan Miró", "correct": false},
+        {"text": "Francisco Goya", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'La Liberté guidant le peuple' ?",
+      "answers": [
+        {"text": "Eugène Delacroix", "correct": true},
+        {"text": "Jean-Auguste-Dominique Ingres", "correct": false},
+        {"text": "Jacques-Louis David", "correct": false},
+        {"text": "Édouard Manet", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est associé au fauvisme ?",
+      "answers": [
+        {"text": "Henri Matisse", "correct": true},
+        {"text": "Paul Cézanne", "correct": false},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Vincent Van Gogh", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'La Jeune Fille à la perle' ?",
+      "answers": [
+        {"text": "Johannes Vermeer", "correct": true},
+        {"text": "Rembrandt", "correct": false},
+        {"text": "Edgar Degas", "correct": false},
+        {"text": "Pablo Picasso", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel artiste italien de la Renaissance est aussi un architecte et inventeur célèbre ?",
+      "answers": [
+        {"text": "Léonard de Vinci", "correct": true},
+        {"text": "Michel-Ange", "correct": false},
+        {"text": "Raphaël", "correct": false},
+        {"text": "Donatello", "correct": false}
+      ]
+    }
+  ]
+}

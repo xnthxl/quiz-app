@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Quel jeu met en scène des blocs et des constructions ?",
+      "answers": [
+        { "text": "Minecraft", "correct": true },
+        { "text": "Fortnite", "correct": false },
+        { "text": "Roblox", "correct": false },
+        { "text": "Tetris", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel plombier est le personnage principal de nombreux jeux Nintendo ?",
+      "answers": [
+        { "text": "Mario", "correct": true },
+        { "text": "Luigi", "correct": false },
+        { "text": "Wario", "correct": false },
+        { "text": "Toad", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel jeu combat-on des zombies dans une ville ?",
+      "answers": [
+        { "text": "Resident Evil", "correct": true },
+        { "text": "Call of Duty", "correct": false },
+        { "text": "Assassin’s Creed", "correct": false },
+        { "text": "Halo", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu est connu pour ses batailles royales et le bâtiment rapide ?",
+      "answers": [
+        { "text": "Fortnite", "correct": true },
+        { "text": "PUBG", "correct": false },
+        { "text": "Apex Legends", "correct": false },
+        { "text": "Overwatch", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu Pokémon a été le premier sur Game Boy ?",
+      "answers": [
+        { "text": "Pokémon Rouge et Bleu", "correct": true },
+        { "text": "Pokémon Jaune", "correct": false },
+        { "text": "Pokémon Or et Argent", "correct": false },
+        { "text": "Pokémon Rubis et Saphir", "correct": false }
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quel studio développe la série 'The Legend of Zelda' ?",
+      "answers": [
+        { "text": "Nintendo", "correct": true },
+        { "text": "Capcom", "correct": false },
+        { "text": "Sega", "correct": false },
+        { "text": "Square Enix", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel jeu peut-on utiliser le 'Master Sword' ?",
+      "answers": [
+        { "text": "The Legend of Zelda", "correct": true },
+        { "text": "Final Fantasy", "correct": false },
+        { "text": "Dark Souls", "correct": false },
+        { "text": "Dragon Quest", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu met en scène des champions dans des combats en arène, MOBA ?",
+      "answers": [
+        { "text": "League of Legends", "correct": true },
+        { "text": "Dota 2", "correct": false },
+        { "text": "Smite", "correct": false },
+        { "text": "Heroes of the Storm", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est le créateur de la série 'Metal Gear' ?",
+      "answers": [
+        { "text": "Hideo Kojima", "correct": true },
+        { "text": "Shigeru Miyamoto", "correct": false },
+        { "text": "Gabe Newell", "correct": false },
+        { "text": "Yu Suzuki", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel jeu incarne-t-on un personnage nommé Geralt de Riv ?",
+      "answers": [
+        { "text": "The Witcher", "correct": true },
+        { "text": "Skyrim", "correct": false },
+        { "text": "Dragon Age", "correct": false },
+        { "text": "Dark Souls", "correct": false }
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quel jeu indépendant a popularisé le genre 'Metroidvania' récemment ?",
+      "answers": [
+        { "text": "Hollow Knight", "correct": true },
+        { "text": "Ori and the Blind Forest", "correct": false },
+        { "text": "Dead Cells", "correct": false },
+        { "text": "Celeste", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel studio est derrière la série 'Dark Souls' ?",
+      "answers": [
+        { "text": "FromSoftware", "correct": true },
+        { "text": "Bandai Namco", "correct": false },
+        { "text": "Capcom", "correct": false },
+        { "text": "Bethesda", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel jeu peut-on visiter la cité de Rapture ?",
+      "answers": [
+        { "text": "Bioshock", "correct": true },
+        { "text": "Dishonored", "correct": false },
+        { "text": "Deus Ex", "correct": false },
+        { "text": "Fallout", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo est inspiré de l’œuvre 'Neuromancer' de William Gibson ?",
+      "answers": [
+        { "text": "Shadowrun", "correct": true },
+        { "text": "Cyberpunk 2077", "correct": false },
+        { "text": "Deus Ex", "correct": false },
+        { "text": "System Shock", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu a popularisé le personnage 'Samus Aran' ?",
+      "answers": [
+        { "text": "Metroid", "correct": true },
+        { "text": "Mega Man", "correct": false },
+        { "text": "Castlevania", "correct": false },
+        { "text": "Star Fox", "correct": false }
+      ]
+    }
+  ]
+}

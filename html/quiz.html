@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>QuizUp</title>
+</head>
+<body>
+    <header class="site-header">
+        <div class="logo">
+            <h2>Q</h2><p>u</p>
+        </div>
+
+        <button class="hamburger" aria-label="Menu">☰</button>
+        <div class="theme-toggle-container">
+            <label class="switch">
+                <input type="checkbox" id="theme-toggle">
+                <span class="slider round"></span>
+            </label>
+        </div>
+    </header>
+
+    <nav class="nav-links">
+        <a href="/html/home.html">Accueil</a>
+        <a href="/html/quiz.html"class="active">Quiz</a>
+        <a href="/html/about.html">A propos</a>
+        <a href="/html/contact.html">Contact</a>
+        
+    </nav>
+
+    <main class="home-container">
+        <h1>Choisissez votre quiz</h1>
+        <div class="quiz-genre">
+            <h2>Culture & Société</h2>
+            <div class="quiz-selection">
+                <button class=" quiz-card" data-quiz="history">Histoire</button>
+                <button class="quiz-card" data-quiz="geography">Géographie</button>
+                <button class=" quiz-card" data-quiz="mythology">Mythologie</button>
+                <button class=" quiz-card" data-quiz="language">Langue</button>
+                <button class=" quiz-card" data-quiz="actuality">Actualité</button>
+            </div>
+        </div>
+        <div class="quiz-genre">
+            <h2>Siences & Nature</h2>
+            <div class="quiz-selection">
+                <button class=" quiz-card" data-quiz="science">Sciences (Générale)</button>
+                <button class="quiz-card" data-quiz="biology">Biologie</button>
+                <button class=" quiz-card" data-quiz="chemistry">Chimie</button>
+                <button class=" quiz-card" data-quiz="physical">Physique</button>
+                <button class=" quiz-card" data-quiz="astronomy">Astronomie</button>
+                <button class=" quiz-card" data-quiz="environment">Environnement</button>
+                <button class=" quiz-card" data-quiz="ecology">Écologie</button>
+            </div>
+        </div>
+        <div class="quiz-genre">
+            <h2>Arts & Loisirs</h2>
+            <div class="quiz-selection">
+                <button class=" quiz-card" data-quiz="cinema">Cinéma</button>
+                <button class="quiz-card" data-quiz="tv-shows">Série TV</button>
+                <button class=" quiz-card" data-quiz="music">Musique</button>
+                <button class=" quiz-card" data-quiz="game">Jeux Vidéo</button>
+                <button class=" quiz-card" data-quiz="art">Arts</button>
+                <button class=" quiz-card" data-quiz="literature">Littérature</button>
+                <button class=" quiz-card" data-quiz="theater">Théâtre</button>
+            </div>
+        </div>
+        <div class="quiz-genre">
+            <h2>Sports</h2>
+            <div class="quiz-selection">
+                <button class=" quiz-card" data-quiz="sport">Sport (Général)</button>
+                <button class=" quiz-card" data-quiz="football">Football</button>
+                <button class="quiz-card" data-quiz="basketball">Basketball</button>
+                <button class=" quiz-card" data-quiz="olympic">Sports Olympiques</button>
+                <button class=" quiz-card" data-quiz="mecanic">Sports Mécaniques</button> 
+        </div>
+        <div class="quiz-genre">
+            <h2>Logique & Cerveau</h2>
+            <div class="quiz-selection">
+                <button class=" quiz-card" data-quiz="maths">Mathématiques</button>
+                <button class="quiz-card" data-quiz="puzzle">Casse-têtes & Enigmes</button>
+                <button class=" quiz-card" data-quiz="culture">Culture Générale (Mélange)</button>
+                <button class=" quiz-card" data-quiz="tech">Informatique & Tech</button>
+            </div>
+        </div>
+
+    </main>
+    <footer>
+        <p>&copy; 2025 QuizUp. Tous droits réservés.</p>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        document.querySelectorAll(".quiz-card").forEach(btn => {
+            btn.addEventListener("click", () => {
+                const quizType = btn.getAttribute("data-quiz");
+                localStorage.setItem("selectedQuiz", quizType); 
+                window.location.href = "start-quiz.html";
+            });
+        });
+    </script>
+    <script src="/js/theme.js"></script>
+    <script src="/js/menu.js"></script>
+</body>
+</html>
+ 

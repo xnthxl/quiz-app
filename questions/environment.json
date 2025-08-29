@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Quel gaz est majoritairement présent dans l’air que nous respirons ?",
+      "answers": [
+        { "text": "Azote", "correct": true },
+        { "text": "Oxygène", "correct": false },
+        { "text": "Dioxyde de carbone", "correct": false },
+        { "text": "Hélium", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le principal moteur du cycle de l’eau sur Terre ?",
+      "answers": [
+        { "text": "Le Soleil", "correct": true },
+        { "text": "La Lune", "correct": false },
+        { "text": "Les volcans", "correct": false },
+        { "text": "Le vent", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la principale source d’énergie renouvelable utilisée dans le monde ?",
+      "answers": [
+        { "text": "Hydroélectricité", "correct": true },
+        { "text": "Charbon", "correct": false },
+        { "text": "Pétrole", "correct": false },
+        { "text": "Gaz naturel", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’effet principal de la déforestation ?",
+      "answers": [
+        { "text": "Perte de biodiversité", "correct": true },
+        { "text": "Augmentation des pluies", "correct": false },
+        { "text": "Diminution de la pollution", "correct": false },
+        { "text": "Création de volcans", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel animal est souvent utilisé comme indicateur de la santé d’un écosystème aquatique ?",
+      "answers": [
+        { "text": "Poisson", "correct": true },
+        { "text": "Chien", "correct": false },
+        { "text": "Chat", "correct": false },
+        { "text": "Cheval", "correct": false }
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quel gaz à effet de serre est le plus abondant dans l’atmosphère ?",
+      "answers": [
+        { "text": "Dioxyde de carbone", "correct": true },
+        { "text": "Méthane", "correct": false },
+        { "text": "Oxygène", "correct": false },
+        { "text": "Ozone", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle couche de la Terre protège des rayons UV du Soleil ?",
+      "answers": [
+        { "text": "Ozone", "correct": true },
+        { "text": "Troposphère", "correct": false },
+        { "text": "Stratosphère", "correct": false },
+        { "text": "Lithosphère", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type de pollution est principalement causé par les voitures et les usines ?",
+      "answers": [
+        { "text": "Pollution de l’air", "correct": true },
+        { "text": "Pollution de l’eau", "correct": false },
+        { "text": "Pollution sonore", "correct": false },
+        { "text": "Pollution lumineuse", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays est le plus grand émetteur de CO2 actuellement ?",
+      "answers": [
+        { "text": "Chine", "correct": true },
+        { "text": "États-Unis", "correct": false },
+        { "text": "Inde", "correct": false },
+        { "text": "Russie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le principal gaz émis par les volcans ?",
+      "answers": [
+        { "text": "Vapeur d’eau", "correct": true },
+        { "text": "Dioxyde de carbone", "correct": false },
+        { "text": "Méthane", "correct": false },
+        { "text": "Oxygène", "correct": false }
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quel protocole international vise à réduire les émissions de gaz à effet de serre ?",
+      "answers": [
+        { "text": "Protocole de Kyoto", "correct": true },
+        { "text": "Accord de Paris", "correct": false },
+        { "text": "Protocole de Montréal", "correct": false },
+        { "text": "Accord de Rio", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène climatique correspond à un réchauffement anormal de l’océan Pacifique ?",
+      "answers": [
+        { "text": "El Niño", "correct": true },
+        { "text": "La Nina", "correct": false },
+        { "text": "La mousson", "correct": false },
+        { "text": "La tempête solaire", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le principal composant des pluies acides ?",
+      "answers": [
+        { "text": "Acide sulfurique et acide nitrique", "correct": true },
+        { "text": "Acide chlorhydrique", "correct": false },
+        { "text": "Acide citrique", "correct": false },
+        { "text": "Acide acétique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’objectif principal de la COP (Conférence des Parties) ?",
+      "answers": [
+        { "text": "Limiter le changement climatique", "correct": true },
+        { "text": "Protéger la couche d’ozone", "correct": false },
+        { "text": "Réduire la pollution plastique", "correct": false },
+        { "text": "Interdire la déforestation", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz est principalement responsable de l’effet de serre naturel sur Terre ?",
+      "answers": [
+        { "text": "Vapeur d’eau", "correct": true },
+        { "text": "Méthane", "correct": false },
+        { "text": "Oxygène", "correct": false },
+        { "text": "Azote", "correct": false }
+      ]
+    }
+  ]
+}

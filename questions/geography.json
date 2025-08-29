@@ -1,0 +1,145 @@
+{
+  "facile": [
+    {
+      "question": "Quelle est la capitale de l’Espagne ?",
+      "answers": [
+        { "text": "Madrid", "correct": true },
+        { "text": "Barcelone", "correct": false },
+        { "text": "Séville", "correct": false },
+        { "text": "Valence", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand océan du monde ?",
+      "answers": [
+        { "text": "Atlantique", "correct": false },
+        { "text": "Pacifique", "correct": true },
+        { "text": "Indien", "correct": false },
+        { "text": "Arctique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a pour drapeau une feuille d’érable rouge ?",
+      "answers": [
+        { "text": "Canada", "correct": true },
+        { "text": "États-Unis", "correct": false },
+        { "text": "Australie", "correct": false },
+        { "text": "Royaume-Uni", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de l’Italie ?",
+      "answers": [
+        { "text": "Venise", "correct": false },
+        { "text": "Rome", "correct": true },
+        { "text": "Milan", "correct": false },
+        { "text": "Naples", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand continent ?",
+      "answers": [
+        { "text": "Afrique", "correct": false },
+        { "text": "Asie", "correct": true },
+        { "text": "Amérique", "correct": false },
+        { "text": "Europe", "correct": false }
+      ]
+    }
+  ],
+
+  "moyen": [
+    {
+      "question": "Quel désert est le plus grand du monde ?",
+      "answers": [
+        { "text": "Sahara", "correct": false },
+        { "text": "Antarctique", "correct": true },
+        { "text": "Gobi", "correct": false },
+        { "text": "Kalahari", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus long fleuve d’Afrique ?",
+      "answers": [
+        { "text": "Nil", "correct": true },
+        { "text": "Congo", "correct": false },
+        { "text": "Zambèze", "correct": false },
+        { "text": "Niger", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays est à cheval sur l’Europe et l’Asie ?",
+      "answers": [
+        { "text": "Russie", "correct": true },
+        { "text": "Turquie", "correct": false },
+        { "text": "Kazakhstan", "correct": false },
+        { "text": "Iran", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède le plus grand nombre d’îles ?",
+      "answers": [
+        { "text": "Norvège", "correct": false },
+        { "text": "Suède", "correct": true },
+        { "text": "Philippines", "correct": false },
+        { "text": "Indonésie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de l’Australie ?",
+      "answers": [
+        { "text": "Sydney", "correct": false },
+        { "text": "Canberra", "correct": true },
+        { "text": "Melbourne", "correct": false },
+        { "text": "Brisbane", "correct": false }
+      ]
+    }
+  ],
+
+  "difficile": [
+    {
+      "question": "Quel est le point le plus bas sur Terre (hors océans) ?",
+      "answers": [
+        { "text": "Mer Morte", "correct": true },
+        { "text": "Vallée de la Mort", "correct": false },
+        { "text": "Dépression de l’Afar", "correct": false },
+        { "text": "Lac Assal", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays enclavé d’Amérique du Sud a deux capitales officielles ?",
+      "answers": [
+        { "text": "Bolivie", "correct": true },
+        { "text": "Paraguay", "correct": false },
+        { "text": "Équateur", "correct": false },
+        { "text": "Colombie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus haut sommet de l’Afrique ?",
+      "answers": [
+        { "text": "Mont Kilimandjaro", "correct": true },
+        { "text": "Mont Kenya", "correct": false },
+        { "text": "Rwenzori", "correct": false },
+        { "text": "Simien", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel pays se trouve le lac Baïkal ?",
+      "answers": [
+        { "text": "Russie", "correct": true },
+        { "text": "Mongolie", "correct": false },
+        { "text": "Kazakhstan", "correct": false },
+        { "text": "Chine", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le pays africain le plus peuplé ?",
+      "answers": [
+        { "text": "Nigéria", "correct": true },
+        { "text": "Égypte", "correct": false },
+        { "text": "Éthiopie", "correct": false },
+        { "text": "Afrique du Sud", "correct": false }
+      ]
+    }
+  ]
+}

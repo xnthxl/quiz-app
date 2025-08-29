@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Quelle planète est surnommée la planète bleue ?",
+      "answers": [
+        { "text": "Mars", "correct": false },
+        { "text": "La Terre", "correct": true },
+        { "text": "Vénus", "correct": false },
+        { "text": "Jupiter", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’état de l’eau à 100°C sous pression atmosphérique normale ?",
+      "answers": [
+        { "text": "Solide", "correct": false },
+        { "text": "Liquide", "correct": false },
+        { "text": "Gaz (vapeur)", "correct": true },
+        { "text": "Plasma", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien de pattes a une araignée ?",
+      "answers": [
+        { "text": "6", "correct": false },
+        { "text": "8", "correct": true },
+        { "text": "10", "correct": false },
+        { "text": "12", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est l’étoile la plus proche de la Terre ?",
+      "answers": [
+        { "text": "Proxima du Centaure", "correct": false },
+        { "text": "Sirius", "correct": false },
+        { "text": "Le Soleil", "correct": true },
+        { "text": "Bételgeuse", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz respirons-nous principalement ?",
+      "answers": [
+        { "text": "Oxygène", "correct": false },
+        { "text": "Azote", "correct": true },
+        { "text": "Dioxyde de carbone", "correct": false },
+        { "text": "Hydrogène", "correct": false }
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quel est l’organe qui pompe le sang dans le corps humain ?",
+      "answers": [
+        { "text": "Les poumons", "correct": false },
+        { "text": "Le cerveau", "correct": false },
+        { "text": "Le cœur", "correct": true },
+        { "text": "Le foie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel scientifique a proposé la théorie de la relativité ?",
+      "answers": [
+        { "text": "Isaac Newton", "correct": false },
+        { "text": "Albert Einstein", "correct": true },
+        { "text": "Galilée", "correct": false },
+        { "text": "Charles Darwin", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la formule chimique de l’eau ?",
+      "answers": [
+        { "text": "CO2", "correct": false },
+        { "text": "H2O", "correct": true },
+        { "text": "O2", "correct": false },
+        { "text": "NaCl", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien de chromosomes possède normalement l’être humain ?",
+      "answers": [
+        { "text": "23", "correct": false },
+        { "text": "46", "correct": true },
+        { "text": "64", "correct": false },
+        { "text": "92", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle unité mesure l’intensité électrique ?",
+      "answers": [
+        { "text": "Volt", "correct": false },
+        { "text": "Ohm", "correct": false },
+        { "text": "Ampère", "correct": true },
+        { "text": "Watt", "correct": false }
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quelle particule subatomique a une charge négative ?",
+      "answers": [
+        { "text": "Proton", "correct": false },
+        { "text": "Neutron", "correct": false },
+        { "text": "Électron", "correct": true },
+        { "text": "Quark", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’élément chimique de symbole Fe ?",
+      "answers": [
+        { "text": "Fluor", "correct": false },
+        { "text": "Fer", "correct": true },
+        { "text": "Francium", "correct": false },
+        { "text": "Fermium", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la vitesse de la lumière dans le vide ?",
+      "answers": [
+        { "text": "300 000 km/s", "correct": true },
+        { "text": "150 000 km/s", "correct": false },
+        { "text": "30 000 km/s", "correct": false },
+        { "text": "3 000 km/s", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel scientifique est connu comme le père de la classification des espèces ?",
+      "answers": [
+        { "text": "Gregor Mendel", "correct": false },
+        { "text": "Carl von Linné", "correct": true },
+        { "text": "Jean-Baptiste Lamarck", "correct": false },
+        { "text": "Charles Darwin", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène explique pourquoi le ciel est bleu ?",
+      "answers": [
+        { "text": "Diffusion de Rayleigh", "correct": true },
+        { "text": "Réfraction", "correct": false },
+        { "text": "Effet Doppler", "correct": false },
+        { "text": "Polarisation", "correct": false }
+      ]
+    }
+  ]
+}

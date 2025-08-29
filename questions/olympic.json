@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques de 2021 ?",
+      "answers": [
+        {"text": "Japon", "correct": true},
+        {"text": "Chine", "correct": false},
+        {"text": "Brésil", "correct": false},
+        {"text": "Royaume-Uni", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien de joueurs y a-t-il dans une équipe de football olympique ?",
+      "answers": [
+        {"text": "11", "correct": true},
+        {"text": "10", "correct": false},
+        {"text": "12", "correct": false},
+        {"text": "9", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport utilise des arceaux et un ballon ?",
+      "answers": [
+        {"text": "Basketball", "correct": true},
+        {"text": "Handball", "correct": false},
+        {"text": "Volley-ball", "correct": false},
+        {"text": "Rugby", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le plus de médailles d’or aux Jeux Olympiques d’été de tous les temps ?",
+      "answers": [
+        {"text": "États-Unis", "correct": true},
+        {"text": "Russie", "correct": false},
+        {"text": "Allemagne", "correct": false},
+        {"text": "Chine", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport se pratique sur la glace avec des patins et un palet ?",
+      "answers": [
+        {"text": "Hockey sur glace", "correct": true},
+        {"text": "Curling", "correct": false},
+        {"text": "Patinage artistique", "correct": false},
+        {"text": "Bobsleigh", "correct": false}
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Combien de disciplines principales composent les Jeux Olympiques modernes ?",
+      "answers": [
+        {"text": "33", "correct": true},
+        {"text": "28", "correct": false},
+        {"text": "25", "correct": false},
+        {"text": "40", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle athlète américaine est surnommée 'la gazelle volante' pour ses exploits en athlétisme ?",
+      "answers": [
+        {"text": "Florence Griffith-Joyner", "correct": true},
+        {"text": "Allyson Felix", "correct": false},
+        {"text": "Jackie Joyner-Kersee", "correct": false},
+        {"text": "Gabby Douglas", "correct": false}
+      ]
+    },
+    {
+      "question": "En quelle année les premiers Jeux Olympiques modernes ont-ils eu lieu ?",
+      "answers": [
+        {"text": "1896", "correct": true},
+        {"text": "1900", "correct": false},
+        {"text": "1888", "correct": false},
+        {"text": "1920", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport combine ski de fond et tir à la carabine ?",
+      "answers": [
+        {"text": "Biathlon", "correct": true},
+        {"text": "Combiné nordique", "correct": false},
+        {"text": "Ski alpin", "correct": false},
+        {"text": "Saut à ski", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays est surnommé 'l’usine à médailles' pour sa domination aux JO d’été récents ?",
+      "answers": [
+        {"text": "Chine", "correct": true},
+        {"text": "États-Unis", "correct": false},
+        {"text": "Russie", "correct": false},
+        {"text": "Japon", "correct": false}
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Qui détient le record du plus grand nombre de médailles olympiques toutes disciplines confondues ?",
+      "answers": [
+        {"text": "Michael Phelps", "correct": true},
+        {"text": "Larisa Latynina", "correct": false},
+        {"text": "Usain Bolt", "correct": false},
+        {"text": "Mark Spitz", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’hiver en 1998 ?",
+      "answers": [
+        {"text": "Japon", "correct": true},
+        {"text": "Norvège", "correct": false},
+        {"text": "France", "correct": false},
+        {"text": "Canada", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique se pratique avec des rames sur l’eau ?",
+      "answers": [
+        {"text": "Aviron", "correct": true},
+        {"text": "Canoë-kayak", "correct": false},
+        {"text": "Voile", "correct": false},
+        {"text": "Natation", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le tournoi de basketball masculin aux JO de 2008 ?",
+      "answers": [
+        {"text": "États-Unis", "correct": true},
+        {"text": "Espagne", "correct": false},
+        {"text": "Argentine", "correct": false},
+        {"text": "Grèce", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport a été ajouté aux Jeux Olympiques d’hiver en 1992 et consiste à glisser sur une planche sur la neige ?",
+      "answers": [
+        {"text": "Snowboard", "correct": true},
+        {"text": "Ski acrobatique", "correct": false},
+        {"text": "Luge", "correct": false},
+        {"text": "Skeleton", "correct": false}
+      ]
+    }
+  ]
+}

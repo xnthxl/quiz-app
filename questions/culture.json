@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Quel est l’océan le plus vaste de la planète ?",
+      "answers": [
+        {"text": "Pacifique", "correct": true},
+        {"text": "Atlantique", "correct": false},
+        {"text": "Indien", "correct": false},
+        {"text": "Arctique", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle boisson est obtenue par fermentation du raisin ?",
+      "answers": [
+        {"text": "Vin", "correct": true},
+        {"text": "Bière", "correct": false},
+        {"text": "Cidre", "correct": false},
+        {"text": "Vodka", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien de côtés a un triangle ?",
+      "answers": [
+        {"text": "3", "correct": true},
+        {"text": "4", "correct": false},
+        {"text": "5", "correct": false},
+        {"text": "6", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle planète est surnommée la planète rouge ?",
+      "answers": [
+        {"text": "Mars", "correct": true},
+        {"text": "Vénus", "correct": false},
+        {"text": "Jupiter", "correct": false},
+        {"text": "Mercure", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est l’animal le plus rapide du monde ?",
+      "answers": [
+        {"text": "Guépard", "correct": true},
+        {"text": "Aigle", "correct": false},
+        {"text": "Antilope", "correct": false},
+        {"text": "Lion", "correct": false}
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Dans quel pays se trouve la ville de Marrakech ?",
+      "answers": [
+        {"text": "Maroc", "correct": true},
+        {"text": "Algérie", "correct": false},
+        {"text": "Égypte", "correct": false},
+        {"text": "Tunisie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle langue parle-t-on en Autriche ?",
+      "answers": [
+        {"text": "Allemand", "correct": true},
+        {"text": "Autrichien", "correct": false},
+        {"text": "Anglais", "correct": false},
+        {"text": "Italien", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de 'Harry Potter' ?",
+      "answers": [
+        {"text": "J.K. Rowling", "correct": true},
+        {"text": "Stephen King", "correct": false},
+        {"text": "George R.R. Martin", "correct": false},
+        {"text": "Tolkien", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Canada ?",
+      "answers": [
+        {"text": "Ottawa", "correct": true},
+        {"text": "Toronto", "correct": false},
+        {"text": "Vancouver", "correct": false},
+        {"text": "Montréal", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le plus grand désert du monde ?",
+      "answers": [
+        {"text": "Sahara", "correct": false},
+        {"text": "Antarctique", "correct": true},
+        {"text": "Gobi", "correct": false},
+        {"text": "Kalahari", "correct": false}
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quel pays est surnommé 'le pays du matin calme' ?",
+      "answers": [
+        {"text": "Corée du Sud", "correct": true},
+        {"text": "Japon", "correct": false},
+        {"text": "Chine", "correct": false},
+        {"text": "Thaïlande", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la monnaie officielle du Mexique ?",
+      "answers": [
+        {"text": "Peso", "correct": true},
+        {"text": "Real", "correct": false},
+        {"text": "Dollar", "correct": false},
+        {"text": "Colon", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel écrivain a reçu le prix Nobel de littérature en 1957 ?",
+      "answers": [
+        {"text": "Albert Camus", "correct": true},
+        {"text": "Jean-Paul Sartre", "correct": false},
+        {"text": "André Gide", "correct": false},
+        {"text": "François Mauriac", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le plus long fleuve du monde ?",
+      "answers": [
+        {"text": "Nil", "correct": false},
+        {"text": "Amazone", "correct": true},
+        {"text": "Yangtsé", "correct": false},
+        {"text": "Mississippi", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle ville est appelée 'la ville aux cent clochers' ?",
+      "answers": [
+        {"text": "Prague", "correct": true},
+        {"text": "Rome", "correct": false},
+        {"text": "Vienne", "correct": false},
+        {"text": "Bruxelles", "correct": false}
+      ]
+    }
+  ]
+}

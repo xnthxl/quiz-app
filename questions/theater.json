@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Qui a écrit 'Roméo et Juliette' ?",
+      "answers": [
+        {"text": "William Shakespeare", "correct": true},
+        {"text": "Molière", "correct": false},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Jean Racine", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel genre théâtral met souvent en scène des situations comiques ?",
+      "answers": [
+        {"text": "Comédie", "correct": true},
+        {"text": "Tragédie", "correct": false},
+        {"text": "Drame", "correct": false},
+        {"text": "Farce", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel auteur français est célèbre pour ses comédies comme 'Le Misanthrope' ?",
+      "answers": [
+        {"text": "Molière", "correct": true},
+        {"text": "Jean Racine", "correct": false},
+        {"text": "Corneille", "correct": false},
+        {"text": "Voltaire", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans le théâtre classique, combien d’unités sont généralement respectées ?",
+      "answers": [
+        {"text": "Trois (action, temps, lieu)", "correct": true},
+        {"text": "Deux (action, personnage)", "correct": false},
+        {"text": "Quatre (action, temps, lieu, thème)", "correct": false},
+        {"text": "Cinq (scène, acte, personnage, lieu, temps)", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel personnage principal est dans 'Phèdre' de Racine ?",
+      "answers": [
+        {"text": "Phèdre", "correct": true},
+        {"text": "Hippolyte", "correct": false},
+        {"text": "Thésée", "correct": false},
+        {"text": "Andromaque", "correct": false}
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quel dramaturge a écrit 'Cyrano de Bergerac' ?",
+      "answers": [
+        {"text": "Edmond Rostand", "correct": true},
+        {"text": "Molière", "correct": false},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Corneille", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel terme désigne la réplique brève et spirituelle dans une comédie classique ?",
+      "answers": [
+        {"text": "Trait", "correct": true},
+        {"text": "Monologue", "correct": false},
+        {"text": "Didascalie", "correct": false},
+        {"text": "Aparté", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel théâtre parisien est célèbre pour ses spectacles de boulevard ?",
+      "answers": [
+        {"text": "Théâtre de la Comédie-Française", "correct": true},
+        {"text": "Odéon-Théâtre", "correct": false},
+        {"text": "Théâtre du Châtelet", "correct": false},
+        {"text": "Théâtre Mogador", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Tartuffe' ?",
+      "answers": [
+        {"text": "Molière", "correct": true},
+        {"text": "Racine", "correct": false},
+        {"text": "Corneille", "correct": false},
+        {"text": "Beaumarchais", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel mouvement théâtral est associé à l’absurde et à Beckett ?",
+      "answers": [
+        {"text": "Théâtre de l’absurde", "correct": true},
+        {"text": "Théâtre classique", "correct": false},
+        {"text": "Comédie romantique", "correct": false},
+        {"text": "Tragédie moderne", "correct": false}
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quel dramaturge espagnol est connu pour 'La vie est un songe' ?",
+      "answers": [
+        {"text": "Pedro Calderón de la Barca", "correct": true},
+        {"text": "Lope de Vega", "correct": false},
+        {"text": "Tirso de Molina", "correct": false},
+        {"text": "Federico García Lorca", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans le théâtre élisabéthain, quel acteur jouait généralement les rôles féminins ?",
+      "answers": [
+        {"text": "Un homme", "correct": true},
+        {"text": "Une femme", "correct": false},
+        {"text": "Un enfant", "correct": false},
+        {"text": "Un esclave", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Andromaque' ?",
+      "answers": [
+        {"text": "Jean Racine", "correct": true},
+        {"text": "Molière", "correct": false},
+        {"text": "Corneille", "correct": false},
+        {"text": "Voltaire", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge russe est célèbre pour 'La Mouette' et 'Oncle Vania' ?",
+      "answers": [
+        {"text": "Anton Tchekhov", "correct": true},
+        {"text": "Maxim Gorki", "correct": false},
+        {"text": "Nikolai Gogol", "correct": false},
+        {"text": "Boris Pasternak", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel courant théâtral met l’accent sur le réalisme psychologique et social ?",
+      "answers": [
+        {"text": "Théâtre réaliste", "correct": true},
+        {"text": "Théâtre de l’absurde", "correct": false},
+        {"text": "Théâtre classique", "correct": false},
+        {"text": "Comédie de boulevard", "correct": false}
+      ]
+    }
+  ]
+}

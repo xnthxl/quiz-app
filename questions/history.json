@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Qui était le premier président de la République française ?",
+      "answers": [
+        {"text": "Louis-Napoléon Bonaparte", "correct": true},
+        {"text": "Charles de Gaulle", "correct": false},
+        {"text": "Napoléon Ier", "correct": false},
+        {"text": "François Mitterrand", "correct": false}
+      ]
+    },
+    {
+      "question": "En quelle année a commencé la Première Guerre mondiale ?",
+      "answers": [
+        {"text": "1914", "correct": true},
+        {"text": "1918", "correct": false},
+        {"text": "1939", "correct": false},
+        {"text": "1920", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui était Cléopâtre ?",
+      "answers": [
+        {"text": "Reine d’Égypte", "correct": true},
+        {"text": "Impératrice romaine", "correct": false},
+        {"text": "Reine de Perse", "correct": false},
+        {"text": "Philosophe grecque", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel mur est tombé en 1989 ?",
+      "answers": [
+        {"text": "Mur de Berlin", "correct": true},
+        {"text": "Mur d’Hadrien", "correct": false},
+        {"text": "Muraille de Chine", "correct": false},
+        {"text": "Mur des lamentations", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roi de France fut surnommé 'le Roi Soleil' ?",
+      "answers": [
+        {"text": "Louis XIV", "correct": true},
+        {"text": "Louis XVI", "correct": false},
+        {"text": "Louis XV", "correct": false},
+        {"text": "François Ier", "correct": false}
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Qui a découvert l’Amérique en 1492 ?",
+      "answers": [
+        {"text": "Christophe Colomb", "correct": true},
+        {"text": "Vasco de Gama", "correct": false},
+        {"text": "Magellan", "correct": false},
+        {"text": "James Cook", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel empire était dirigé par Gengis Khan ?",
+      "answers": [
+        {"text": "Empire mongol", "correct": true},
+        {"text": "Empire ottoman", "correct": false},
+        {"text": "Empire romain", "correct": false},
+        {"text": "Empire perse", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a été le premier homme à marcher sur la Lune ?",
+      "answers": [
+        {"text": "Neil Armstrong", "correct": true},
+        {"text": "Buzz Aldrin", "correct": false},
+        {"text": "Youri Gagarine", "correct": false},
+        {"text": "Alan Shepard", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans quel pays a eu lieu la Révolution d’octobre 1917 ?",
+      "answers": [
+        {"text": "Russie", "correct": true},
+        {"text": "France", "correct": false},
+        {"text": "Chine", "correct": false},
+        {"text": "Allemagne", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui était le chef de l’Allemagne nazie ?",
+      "answers": [
+        {"text": "Adolf Hitler", "correct": true},
+        {"text": "Joseph Staline", "correct": false},
+        {"text": "Benito Mussolini", "correct": false},
+        {"text": "Winston Churchill", "correct": false}
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Quelle civilisation a construit Machu Picchu ?",
+      "answers": [
+        {"text": "Incas", "correct": true},
+        {"text": "Aztèques", "correct": false},
+        {"text": "Mayas", "correct": false},
+        {"text": "Olmèques", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
+      "answers": [
+        {"text": "Traité de Versailles", "correct": true},
+        {"text": "Traité de Tordesillas", "correct": false},
+        {"text": "Traité de Vienne", "correct": false},
+        {"text": "Traité de Paris", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui était l’épouse de Louis XVI guillotinée pendant la Révolution française ?",
+      "answers": [
+        {"text": "Marie-Antoinette", "correct": true},
+        {"text": "Catherine de Médicis", "correct": false},
+        {"text": "Anne d’Autriche", "correct": false},
+        {"text": "Marguerite de Valois", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roi macédonien a créé l’un des plus grands empires de l’Antiquité ?",
+      "answers": [
+        {"text": "Alexandre le Grand", "correct": true},
+        {"text": "César", "correct": false},
+        {"text": "Darius Ier", "correct": false},
+        {"text": "Hannibal", "correct": false}
+      ]
+    },
+    {
+      "question": "En quelle année a eu lieu la Révolution française ?",
+      "answers": [
+        {"text": "1789", "correct": true},
+        {"text": "1792", "correct": false},
+        {"text": "1776", "correct": false},
+        {"text": "1804", "correct": false}
+      ]
+    }
+  ]
+}

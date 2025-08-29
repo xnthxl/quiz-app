@@ -1,0 +1,143 @@
+{
+  "facile": [
+    {
+      "question": "Quelle série met en scène la famille Simpson ?",
+      "answers": [
+        { "text": "Les Simpson", "correct": true },
+        { "text": "Family Guy", "correct": false },
+        { "text": "Futurama", "correct": false },
+        { "text": "South Park", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quelle série trouve-t-on les personnages Walter White et Jesse Pinkman ?",
+      "answers": [
+        { "text": "Breaking Bad", "correct": true },
+        { "text": "Better Call Saul", "correct": false },
+        { "text": "Narcos", "correct": false },
+        { "text": "The Wire", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Stranger Things', dans quelle ville se déroule l’action ?",
+      "answers": [
+        { "text": "Hawkins", "correct": true },
+        { "text": "Springfield", "correct": false },
+        { "text": "Sunnydale", "correct": false },
+        { "text": "Mystic Falls", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle série met en scène des zombies dans un monde post-apocalyptique ?",
+      "answers": [
+        { "text": "The Walking Dead", "correct": true },
+        { "text": "Game of Thrones", "correct": false },
+        { "text": "Vikings", "correct": false },
+        { "text": "The 100", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quelle série Rachel Green est-elle un personnage principal ?",
+      "answers": [
+        { "text": "Friends", "correct": true },
+        { "text": "How I Met Your Mother", "correct": false },
+        { "text": "Gossip Girl", "correct": false },
+        { "text": "The Big Bang Theory", "correct": false }
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "question": "Quel est le métier principal de Sheldon Cooper dans 'The Big Bang Theory' ?",
+      "answers": [
+        { "text": "Physicien théoricien", "correct": true },
+        { "text": "Ingénieur informatique", "correct": false },
+        { "text": "Médecin", "correct": false },
+        { "text": "Professeur de mathématiques", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Game of Thrones', qui est surnommé 'la Mère des Dragons' ?",
+      "answers": [
+        { "text": "Daenerys Targaryen", "correct": true },
+        { "text": "Cersei Lannister", "correct": false },
+        { "text": "Sansa Stark", "correct": false },
+        { "text": "Arya Stark", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle série suit les enquêtes de Sherlock Holmes dans le Londres moderne ?",
+      "answers": [
+        { "text": "Sherlock", "correct": true },
+        { "text": "Elementary", "correct": false },
+        { "text": "Luther", "correct": false },
+        { "text": "House", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Breaking Bad', quelle est la profession de Walter White avant de fabriquer de la méthamphétamine ?",
+      "answers": [
+        { "text": "Professeur de chimie", "correct": true },
+        { "text": "Avocat", "correct": false },
+        { "text": "Médecin", "correct": false },
+        { "text": "Policier", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel personnage est interprété par Emilia Clarke dans 'Game of Thrones' ?",
+      "answers": [
+        { "text": "Daenerys Targaryen", "correct": true },
+        { "text": "Cersei Lannister", "correct": false },
+        { "text": "Sansa Stark", "correct": false },
+        { "text": "Brienne de Tarth", "correct": false }
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "question": "Dans 'Lost', comment s’appelle l’île mystérieuse ?",
+      "answers": [
+        { "text": "L'île du crash", "correct": false },
+        { "text": "L'île mystérieuse", "correct": false },
+        { "text": "L'île de l'Océan Pacifique", "correct": false },
+        { "text": "L'île sans nom", "correct": true }
+      ]
+    },
+    {
+      "question": "Quelle est la véritable identité de 'Heisenberg' dans 'Breaking Bad' ?",
+      "answers": [
+        { "text": "Walter White", "correct": true },
+        { "text": "Jesse Pinkman", "correct": false },
+        { "text": "Saul Goodman", "correct": false },
+        { "text": "Gustavo Fring", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Stranger Things', quel est le nom de la dimension parallèle peuplée de monstres ?",
+      "answers": [
+        { "text": "Le Monde à l'Envers", "correct": true },
+        { "text": "Le Monde Caché", "correct": false },
+        { "text": "La Zone", "correct": false },
+        { "text": "L'Au-delà", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'The Office' version US, qui devient manager de Dunder Mifflin Scranton après Michael Scott ?",
+      "answers": [
+        { "text": "Andy Bernard", "correct": true },
+        { "text": "Jim Halpert", "correct": false },
+        { "text": "Dwight Schrute", "correct": false },
+        { "text": "Ryan Howard", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Westworld', quel acteur joue le rôle du Dr Robert Ford ?",
+      "answers": [
+        { "text": "Anthony Hopkins", "correct": true },
+        { "text": "Jeffrey Wright", "correct": false },
+        { "text": "Ed Harris", "correct": false },
+        { "text": "James Marsden", "correct": false }
+      ]
+    }
+  ]
+}
