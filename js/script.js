@@ -1,5 +1,18 @@
 document.addEventListener("DOMContentLoaded", () => {
 
+    const currentQuizElement = document.getElementById("current-quiz");
+    const selectedQuizName = localStorage.getItem("selectedQuizName");
+    const currentDifficultyElement = document.getElementById("current-difficulty");
+    const currentQuizInfo = document.getElementById("current-quiz-info");
+
+    if (currentQuizElement && selectedQuizName) {
+        currentQuizElement.textContent = selectedQuizName;
+    }
+
+    if (currentQuizInfo) {
+        currentQuizInfo.style.display = "block";
+    }
+
     const startButton = document.getElementById("start-btn");
 
     if (startButton) {
@@ -8,6 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
         let score = 0;
 
         const questionElement = document.getElementById("question");
+        const endScore = document.getElementById("end-score")
         const answerButtons = document.getElementById("answer-buttons");
         const nextButton = document.getElementById("next-btn");
         const scoreElement = document.getElementById("score");
@@ -17,35 +31,55 @@ document.addEventListener("DOMContentLoaded", () => {
         const questionContainer = document.getElementById("question-container");
         const controlsContainer = document.getElementById("controls");
         const startContainer = document.getElementById("start-container");
+        const questionNumberElement = document.getElementById("question-number");
+
 
         async function startQuiz() {
-            const difficulty = difficultySelect.value;
-            const selectedQuiz = localStorage.getItem("selectedQuiz");
+    const difficulty = difficultySelect.value; // Niveau choisi
+    const selectedQuiz = localStorage.getItem("selectedQuiz");
+    const selectedQuizName = localStorage.getItem("selectedQuizName");
 
-            try {
-                const response = await fetch(`../questions/${selectedQuiz}.json`);
-                const data = await response.json();
+    // Afficher le nom du quiz
+    if (currentQuizElement && selectedQuizName) {
+        currentQuizElement.textContent = selectedQuizName;
+    }
 
-                questions = data[difficulty];
-                currentQuestionIndex = 0;
-                score = 0;
-                scoreElement.textContent = "Score: " + score;
+    // Afficher la difficulté choisie
+    if (currentDifficultyElement && difficulty) {
+        const formattedDifficulty = difficulty.charAt(0).toUpperCase() + difficulty.slice(1);
+        currentDifficultyElement.textContent = formattedDifficulty;
+    }
 
-                // Affichage/masquage des éléments
-                questionContainer.style.display = "block";
-                controlsContainer.style.display = "flex";
-                scoreElement.style.display = "block";
+    // Afficher le container complet du quiz
+    if (currentQuizInfo) {
+        currentQuizInfo.style.display = "block";
+    }
 
-                difficultySelect.style.display = "none";
-                difficultyLabel.style.display = "none";
-                startButton.style.display = "none";
-                startContainer.style.display = "none";
+    try {
+        const response = await fetch(`../questions/${selectedQuiz}.json`);
+        const data = await response.json();
 
-                showQuestion();
-            } catch (error) {
-                console.error("Erreur lors du chargement des questions:", error);
-            }
-        }
+        questions = data[difficulty];
+        currentQuestionIndex = 0;
+        score = 0;
+        scoreElement.textContent = "Score: " + score;
+
+        // Affichage/masquage des éléments
+        questionContainer.style.display = "block";
+        controlsContainer.style.display = "flex";
+        scoreElement.style.display = "none";
+
+        difficultySelect.style.display = "none";
+        difficultyLabel.style.display = "none";
+        startButton.style.display = "none";
+        startContainer.style.display = "none";
+
+        showQuestion();
+    } catch (error) {
+        console.error("Erreur lors du chargement des questions:", error);
+    }
+}
+
 
         function shuffleArray(array) {
             for (let i = array.length - 1; i > 0; i--) {
@@ -58,6 +92,10 @@ document.addEventListener("DOMContentLoaded", () => {
         function showQuestion() {
             resetState();
             let currentQuestion = questions[currentQuestionIndex];
+            
+            questionNumberElement.textContent = `Question ${currentQuestionIndex + 1} / ${questions.length}`;
+            questionNumberElement.style.display = "block";
+
             questionElement.textContent = currentQuestion.question;
 
             const shuffledAnswers = shuffleArray([...currentQuestion.answers]);
@@ -113,11 +151,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
         function showScore() {
             resetState();
-            questionElement.textContent = `Quiz terminé! Votre score est ${score}/${questions.length}.`;
+
+            questionNumberElement.style.display = "none";
+            questionElement.style.display = "none";
+
+
+            endScore.style.display = "block";
+            endScore.textContent = `Quiz terminé! Votre score est ${score}/${questions.length}.`;
 
             const returnBtn = document.createElement("button");
             returnBtn.textContent = "Retour à la sélection des quiz";
-            returnBtn.classList.add("btn-neon"); 
+            returnBtn.classList.add("btn-neon", "return-btn"); 
             returnBtn.addEventListener("click", () => {
                 window.location.href = "../html/quiz.html"; 
             });

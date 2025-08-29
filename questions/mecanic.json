@@ -44,6 +44,141 @@
         {"text": "Rallye", "correct": false},
         {"text": "Formule E", "correct": false}
       ]
+    },
+    {
+      "question": "Quel pilote a gagné le championnat MotoGP en 2022 ?",
+      "answers": [
+        {"text": "Francesco Bagnaia", "correct": true},
+        {"text": "Valentino Rossi", "correct": false},
+        {"text": "Marc Márquez", "correct": false},
+        {"text": "Joan Mir", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle marque automobile fabrique la voiture la plus rapide du monde ?",
+      "answers": [
+        {"text": "Bugatti", "correct": true},
+        {"text": "Ferrari", "correct": false},
+        {"text": "McLaren", "correct": false},
+        {"text": "Lamborghini", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la durée classique d'un Grand Prix de F1 ?",
+      "answers": [
+        {"text": "Environ 2 heures", "correct": true},
+        {"text": "30 minutes", "correct": false},
+        {"text": "4 heures", "correct": false},
+        {"text": "6 heures", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel constructeur produit la moto YZF-R1 ?",
+      "answers": [
+        {"text": "Yamaha", "correct": true},
+        {"text": "Honda", "correct": false},
+        {"text": "Suzuki", "correct": false},
+        {"text": "Kawasaki", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans quelle discipline utilise-t-on des rallyes et des spéciales chronométrées ?",
+      "answers": [
+        {"text": "Rallye", "correct": true},
+        {"text": "Formule 1", "correct": false},
+        {"text": "MotoGP", "correct": false},
+        {"text": "Karting", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté les 24 Heures du Mans en 2021 ?",
+      "answers": [
+        {"text": "Toyota Gazoo Racing", "correct": true},
+        {"text": "Ferrari", "correct": false},
+        {"text": "Porsche", "correct": false},
+        {"text": "Audi", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays accueille le Grand Prix de Silverstone ?",
+      "answers": [
+        {"text": "Royaume-Uni", "correct": true},
+        {"text": "France", "correct": false},
+        {"text": "Italie", "correct": false},
+        {"text": "Espagne", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote est célèbre pour ses exploits en NASCAR ?",
+      "answers": [
+        {"text": "Dale Earnhardt", "correct": true},
+        {"text": "Lewis Hamilton", "correct": false},
+        {"text": "Ayrton Senna", "correct": false},
+        {"text": "Valentino Rossi", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel constructeur fabrique les voitures de la F1 Red Bull Racing ?",
+      "answers": [
+        {"text": "Red Bull", "correct": true},
+        {"text": "Mercedes", "correct": false},
+        {"text": "Ferrari", "correct": false},
+        {"text": "McLaren", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote italien est célèbre pour ses victoires en MotoGP ?",
+      "answers": [
+        {"text": "Valentino Rossi", "correct": true},
+        {"text": "Marc Márquez", "correct": false},
+        {"text": "Jorge Lorenzo", "correct": false},
+        {"text": "Andrea Dovizioso", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel type de course est le Rallye Dakar ?",
+      "answers": [
+        {"text": "Raid tout-terrain", "correct": true},
+        {"text": "Course sur circuit", "correct": false},
+        {"text": "Course de dragster", "correct": false},
+        {"text": "Endurance moto", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le championnat du monde MotoGP en 2019 ?",
+      "answers": [
+        {"text": "Marc Márquez", "correct": true},
+        {"text": "Valentino Rossi", "correct": false},
+        {"text": "Andrea Dovizioso", "correct": false},
+        {"text": "Maverick Viñales", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle marque produit les voitures de sport 911 ?",
+      "answers": [
+        {"text": "Porsche", "correct": true},
+        {"text": "Ferrari", "correct": false},
+        {"text": "Lamborghini", "correct": false},
+        {"text": "Aston Martin", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote est surnommé 'Iceman' en F1 ?",
+      "answers": [
+        {"text": "Kimi Räikkönen", "correct": true},
+        {"text": "Sebastian Vettel", "correct": false},
+        {"text": "Lewis Hamilton", "correct": false},
+        {"text": "Fernando Alonso", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel circuit italien accueille le Grand Prix de F1 ?",
+      "answers": [
+        {"text": "Monza", "correct": true},
+        {"text": "Imola", "correct": false},
+        {"text": "Mugello", "correct": false},
+        {"text": "Vallelunga", "correct": false}
+      ]
     }
   ],
   "moyen": [
@@ -59,9 +194,9 @@
     {
       "question": "Quel pilote français a remporté 4 fois les 24 Heures du Mans ?",
       "answers": [
-        {"text": "Stéphane Sarrazin", "correct": false},
-        {"text": "Alain Prost", "correct": false},
         {"text": "Yannick Dalmas", "correct": true},
+        {"text": "Alain Prost", "correct": false},
+        {"text": "Stéphane Sarrazin", "correct": false},
         {"text": "Jean Alesi", "correct": false}
       ]
     },
@@ -90,6 +225,141 @@
         {"text": "Yamaha", "correct": false},
         {"text": "Suzuki", "correct": false},
         {"text": "Kawasaki", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le championnat du monde de F1 en 2020 ?",
+      "answers": [
+        {"text": "Lewis Hamilton", "correct": true},
+        {"text": "Max Verstappen", "correct": false},
+        {"text": "Valtteri Bottas", "correct": false},
+        {"text": "Sebastian Vettel", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a été champion du monde de MotoGP en 2018 ?",
+      "answers": [
+        {"text": "Marc Márquez", "correct": true},
+        {"text": "Valentino Rossi", "correct": false},
+        {"text": "Andrea Dovizioso", "correct": false},
+        {"text": "Jorge Lorenzo", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel constructeur a remporté le championnat du monde des constructeurs F1 en 2019 ?",
+      "answers": [
+        {"text": "Mercedes", "correct": true},
+        {"text": "Ferrari", "correct": false},
+        {"text": "Red Bull", "correct": false},
+        {"text": "McLaren", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le Grand Prix de Monaco F1 en 2019 ?",
+      "answers": [
+        {"text": "Lewis Hamilton", "correct": true},
+        {"text": "Sebastian Vettel", "correct": false},
+        {"text": "Max Verstappen", "correct": false},
+        {"text": "Valtteri Bottas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle moto est pilotée par Valentino Rossi en 2015 ?",
+      "answers": [
+        {"text": "Yamaha YZR-M1", "correct": true},
+        {"text": "Honda RC213V", "correct": false},
+        {"text": "Ducati Desmosedici", "correct": false},
+        {"text": "Suzuki GSX-RR", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le championnat du monde de rallye WRC en 2021 ?",
+      "answers": [
+        {"text": "Kalle Rovanperä", "correct": true},
+        {"text": "Sébastien Ogier", "correct": false},
+        {"text": "Thierry Neuville", "correct": false},
+        {"text": "Ott Tänak", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel circuit accueille le Grand Prix d'Italie de MotoGP ?",
+      "answers": [
+        {"text": "Mugello", "correct": true},
+        {"text": "Misano", "correct": false},
+        {"text": "Monza", "correct": false},
+        {"text": "Imola", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote français a couru en F1 pour l'écurie Renault ?",
+      "answers": [
+        {"text": "Alain Prost", "correct": true},
+        {"text": "Jean Alesi", "correct": false},
+        {"text": "Romain Grosjean", "correct": false},
+        {"text": "Pierre Gasly", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel constructeur produit la moto Ducati Panigale ?",
+      "answers": [
+        {"text": "Ducati", "correct": true},
+        {"text": "Honda", "correct": false},
+        {"text": "Yamaha", "correct": false},
+        {"text": "Suzuki", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le championnat du monde de F1 en 2016 ?",
+      "answers": [
+        {"text": "Nico Rosberg", "correct": true},
+        {"text": "Lewis Hamilton", "correct": false},
+        {"text": "Sebastian Vettel", "correct": false},
+        {"text": "Max Verstappen", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel type de moteur est utilisé en Formule E ?",
+      "answers": [
+        {"text": "Électrique", "correct": true},
+        {"text": "Essence", "correct": false},
+        {"text": "Diesel", "correct": false},
+        {"text": "Hydrogène", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote japonais a couru en F1 pour Toyota ?",
+      "answers": [
+        {"text": "Kazuki Nakajima", "correct": true},
+        {"text": "Kamui Kobayashi", "correct": false},
+        {"text": "Takuma Sato", "correct": false},
+        {"text": "Yuki Tsunoda", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel constructeur fabrique la moto Ninja ?",
+      "answers": [
+        {"text": "Kawasaki", "correct": true},
+        {"text": "Honda", "correct": false},
+        {"text": "Yamaha", "correct": false},
+        {"text": "Suzuki", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le championnat du monde de MotoGP en 2016 ?",
+      "answers": [
+        {"text": "Marc Márquez", "correct": true},
+        {"text": "Valentino Rossi", "correct": false},
+        {"text": "Jorge Lorenzo", "correct": false},
+        {"text": "Andrea Dovizioso", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le Grand Prix de France de F1 en 2022 ?",
+      "answers": [
+        {"text": "Max Verstappen", "correct": true},
+        {"text": "Charles Leclerc", "correct": false},
+        {"text": "Lewis Hamilton", "correct": false},
+        {"text": "Carlos Sainz", "correct": false}
       ]
     }
   ],
@@ -137,6 +407,141 @@
         {"text": "Pneus tendres", "correct": false},
         {"text": "Pneus durs", "correct": false},
         {"text": "Pneus slicks", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le Grand Prix de Monaco F1 en 2021 ?",
+      "answers": [
+        {"text": "Max Verstappen", "correct": true},
+        {"text": "Lewis Hamilton", "correct": false},
+        {"text": "Valtteri Bottas", "correct": false},
+        {"text": "Sebastian Vettel", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel constructeur a remporté le championnat du monde de rallye WRC en 2021 ?",
+      "answers": [
+        {"text": "Toyota", "correct": true},
+        {"text": "Hyundai", "correct": false},
+        {"text": "Ford", "correct": false},
+        {"text": "Citroën", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le championnat du monde de MotoGP en 2020 ?",
+      "answers": [
+        {"text": "Joan Mir", "correct": true},
+        {"text": "Marc Márquez", "correct": false},
+        {"text": "Valentino Rossi", "correct": false},
+        {"text": "Fabio Quartararo", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel circuit allemand accueille le Grand Prix de F1 ?",
+      "answers": [
+        {"text": "Hockenheim", "correct": true},
+        {"text": "Nürburgring", "correct": false},
+        {"text": "Sachsenring", "correct": false},
+        {"text": "Motodrom", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le championnat du monde de F1 en 2012 ?",
+      "answers": [
+        {"text": "Sebastian Vettel", "correct": true},
+        {"text": "Fernando Alonso", "correct": false},
+        {"text": "Lewis Hamilton", "correct": false},
+        {"text": "Jenson Button", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe a remporté le championnat du monde de F1 en 2016 ?",
+      "answers": [
+        {"text": "Mercedes", "correct": true},
+        {"text": "Ferrari", "correct": false},
+        {"text": "Red Bull", "correct": false},
+        {"text": "Williams", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le championnat du monde de F1 en 2008 ?",
+      "answers": [
+        {"text": "Lewis Hamilton", "correct": true},
+        {"text": "Felipe Massa", "correct": false},
+        {"text": "Kimi Räikkönen", "correct": false},
+        {"text": "Fernando Alonso", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel constructeur a remporté le championnat du monde MotoGP en 2021 ?",
+      "answers": [
+        {"text": "Ducati", "correct": true},
+        {"text": "Yamaha", "correct": false},
+        {"text": "Honda", "correct": false},
+        {"text": "Suzuki", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a été champion du monde de rallye WRC en 2019 ?",
+      "answers": [
+        {"text": "Ott Tänak", "correct": true},
+        {"text": "Sébastien Ogier", "correct": false},
+        {"text": "Thierry Neuville", "correct": false},
+        {"text": "Elfyn Evans", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel circuit accueille le Grand Prix des États-Unis de F1 ?",
+      "answers": [
+        {"text": "Circuit of the Americas", "correct": true},
+        {"text": "Indianapolis", "correct": false},
+        {"text": "Sebring", "correct": false},
+        {"text": "Daytona", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le championnat du monde de F1 en 2004 ?",
+      "answers": [
+        {"text": "Michael Schumacher", "correct": true},
+        {"text": "Rubens Barrichello", "correct": false},
+        {"text": "Fernando Alonso", "correct": false},
+        {"text": "Kimi Räikkönen", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle moto est pilotée par Marc Márquez en MotoGP ?",
+      "answers": [
+        {"text": "Honda RC213V", "correct": true},
+        {"text": "Yamaha YZR-M1", "correct": false},
+        {"text": "Ducati Desmosedici", "correct": false},
+        {"text": "Suzuki GSX-RR", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote a remporté le championnat du monde de F1 en 1998 ?",
+      "answers": [
+        {"text": "Mika Häkkinen", "correct": true},
+        {"text": "Michael Schumacher", "correct": false},
+        {"text": "David Coulthard", "correct": false},
+        {"text": "Jacques Villeneuve", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel constructeur a remporté le championnat du monde de F1 en 2010 ?",
+      "answers": [
+        {"text": "Red Bull", "correct": true},
+        {"text": "Ferrari", "correct": false},
+        {"text": "McLaren", "correct": false},
+        {"text": "Mercedes", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pilote est surnommé 'Baby Schumi' en F1 ?",
+      "answers": [
+        {"text": "Sebastian Vettel", "correct": true},
+        {"text": "Lewis Hamilton", "correct": false},
+        {"text": "Kimi Räikkönen", "correct": false},
+        {"text": "Fernando Alonso", "correct": false}
       ]
     }
   ]

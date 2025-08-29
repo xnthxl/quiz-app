@@ -44,6 +44,141 @@
         { "text": "Couper les arbres", "correct": false },
         { "text": "Construire sur les forêts", "correct": false }
       ]
+    },
+    {
+      "question": "Qu'est-ce que le compost ?",
+      "answers": [
+        { "text": "Un mélange de déchets organiques décomposés utilisé comme fertilisant", "correct": true },
+        { "text": "Un plastique biodégradable", "correct": false },
+        { "text": "Un produit chimique pour blanchir l'eau", "correct": false },
+        { "text": "Un type d'insecte bénéfique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz les plantes utilisent-elles pour la photosynthèse ?",
+      "answers": [
+        { "text": "Dioxyde de carbone (CO2)", "correct": true },
+        { "text": "Oxygène (O2)", "correct": false },
+        { "text": "Azote (N2)", "correct": false },
+        { "text": "Hydrogène (H2)", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel geste réduit la consommation de plastique jetable ?",
+      "answers": [
+        { "text": "Utiliser une bouteille réutilisable", "correct": true },
+        { "text": "Acheter toujours en sachets individuels", "correct": false },
+        { "text": "Jeter les plastiques dans la nature", "correct": false },
+        { "text": "Brûler les déchets plastiques", "correct": false }
+      ]
+    },
+    {
+      "question": "Où faut-il déposer une pile usagée ?",
+      "answers": [
+        { "text": "Dans un point de collecte / recyclage spécialisé", "correct": true },
+        { "text": "Dans la poubelle organique", "correct": false },
+        { "text": "Dans le bac à verre", "correct": false },
+        { "text": "Dans la nature", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce qu'une décharge ?",
+      "answers": [
+        { "text": "Un emplacement où les déchets sont stockés", "correct": true },
+        { "text": "Un parc naturel protégé", "correct": false },
+        { "text": "Une usine de recyclage du verre", "correct": false },
+        { "text": "Un type d'énergie renouvelable", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle source d'énergie provient directement du soleil ?",
+      "answers": [
+        { "text": "L'énergie solaire", "correct": true },
+        { "text": "L'énergie fossile", "correct": false },
+        { "text": "L'énergie nucléaire", "correct": false },
+        { "text": "L'énergie géothermique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel insecte joue un rôle essentiel dans la pollinisation des fleurs ?",
+      "answers": [
+        { "text": "L'abeille", "correct": true },
+        { "text": "Le ver de terre", "correct": false },
+        { "text": "La chenille", "correct": false },
+        { "text": "La mouche domestique", "correct": false }
+      ]
+    },
+    {
+      "question": "Que signifie l'expression 'zéro déchet' ?",
+      "answers": [
+        { "text": "Réduire, réutiliser et recycler pour produire le moins de déchets possible", "correct": true },
+        { "text": "Interdire tout emballage", "correct": false },
+        { "text": "Brûler tous les déchets", "correct": false },
+        { "text": "Enterrer les déchets", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel matériau met très longtemps à se décomposer dans la nature ?",
+      "answers": [
+        { "text": "Le plastique", "correct": true },
+        { "text": "Le papier", "correct": false },
+        { "text": "Le marc de café", "correct": false },
+        { "text": "Les déchets alimentaires", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle substance recouvre environ 70 % de la surface de la Terre ?",
+      "answers": [
+        { "text": "L'eau", "correct": true },
+        { "text": "Le sable", "correct": false },
+        { "text": "La végétation", "correct": false },
+        { "text": "La glace", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel appareil domestique fonctionne en continu et consomme souvent beaucoup d'énergie ?",
+      "answers": [
+        { "text": "Le réfrigérateur", "correct": true },
+        { "text": "La perceuse", "correct": false },
+        { "text": "La tondeuse manuelle", "correct": false },
+        { "text": "La brosse à dents manuelle", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel geste simple réduit la consommation d'électricité à la maison ?",
+      "answers": [
+        { "text": "Éteindre les lumières en quittant une pièce", "correct": true },
+        { "text": "Laisser toutes les lumières allumées", "correct": false },
+        { "text": "Augmenter le chauffage au maximum", "correct": false },
+        { "text": "Laisser la télé en veille 24h/24", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle source d'énergie produit peu d'émissions de CO2 pendant son fonctionnement ?",
+      "answers": [
+        { "text": "L'énergie éolienne", "correct": true },
+        { "text": "Le charbon", "correct": false },
+        { "text": "Le pétrole", "correct": false },
+        { "text": "Le gaz naturel", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce qu'une forêt ?",
+      "answers": [
+        { "text": "Une grande zone couverte d'arbres et d'arbustes", "correct": true },
+        { "text": "Un grand lac", "correct": false },
+        { "text": "Une zone urbaine", "correct": false },
+        { "text": "Une plage", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel geste évite de gaspiller de la nourriture ?",
+      "answers": [
+        { "text": "Planifier les repas et conserver les restes", "correct": true },
+        { "text": "Acheter toujours en grande quantité sans plan", "correct": false },
+        { "text": "Jeter les restes immédiatement", "correct": false },
+        { "text": "Cuire des portions très grandes systématiquement", "correct": false }
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         { "text": "Le verre coloré mélangé", "correct": false },
         { "text": "Les déchets organiques", "correct": false }
       ]
+    },
+    {
+      "question": "Qu'est-ce que la déforestation ?",
+      "answers": [
+        { "text": "La disparition des forêts due à l'exploitation ou au changement d'usage des sols", "correct": true },
+        { "text": "La plantation d'arbres", "correct": false },
+        { "text": "La protection des forêts", "correct": false },
+        { "text": "L'irrigation des cultures", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que l'effet de serre ?",
+      "answers": [
+        { "text": "Le piégeage de la chaleur par certains gaz dans l'atmosphère", "correct": true },
+        { "text": "La formation des nuages uniquement", "correct": false },
+        { "text": "La baisse de la température globale", "correct": false },
+        { "text": "Une explosion volcanique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle source d'énergie utilise la force du vent ?",
+      "answers": [
+        { "text": "L'énergie éolienne", "correct": true },
+        { "text": "L'énergie solaire", "correct": false },
+        { "text": "Le gaz naturel", "correct": false },
+        { "text": "Le charbon", "correct": false }
+      ]
+    },
+    {
+      "question": "Que désigne l'empreinte carbone ?",
+      "answers": [
+        { "text": "La quantité de gaz à effet de serre émise par une activité ou un individu", "correct": true },
+        { "text": "La taille d'une forêt", "correct": false },
+        { "text": "La quantité d'eau consommée", "correct": false },
+        { "text": "Le nombre d'espèces dans un écosystème", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel habitat naturel filtre l'eau et protège des inondations ?",
+      "answers": [
+        { "text": "Les zones humides (marais, tourbières)", "correct": true },
+        { "text": "Le désert", "correct": false },
+        { "text": "La toundra", "correct": false },
+        { "text": "La banquise", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle pratique agricole réduit l'érosion du sol ?",
+      "answers": [
+        { "text": "La couverture végétale (engrais verts, paillage)", "correct": true },
+        { "text": "La monoculture intensive", "correct": false },
+        { "text": "Le brûlis", "correct": false },
+        { "text": "L'extraction minière", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel polluant est souvent associé aux pluies acides ?",
+      "answers": [
+        { "text": "Dioxyde de soufre (SO2)", "correct": true },
+        { "text": "Oxygène (O2)", "correct": false },
+        { "text": "Argon (Ar)", "correct": false },
+        { "text": "Hélium (He)", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l'objectif principal de l'Agenda 2030 ?",
+      "answers": [
+        { "text": "Promouvoir le développement durable à l'échelle mondiale", "correct": true },
+        { "text": "Organiser des Jeux olympiques", "correct": false },
+        { "text": "Augmenter la production de charbon", "correct": false },
+        { "text": "Réduire la population mondiale", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle organisation publie la Liste rouge des espèces menacées ?",
+      "answers": [
+        { "text": "IUCN (Union internationale pour la conservation de la nature)", "correct": true },
+        { "text": "ONU", "correct": false },
+        { "text": "OMC", "correct": false },
+        { "text": "FIFA", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel avantage présente le transport en commun par rapport à la voiture individuelle ?",
+      "answers": [
+        { "text": "Moins d'émissions de gaz à effet de serre par passager", "correct": true },
+        { "text": "Consommation d'eau accrue", "correct": false },
+        { "text": "Plus de pollution sonore exclusivement", "correct": false },
+        { "text": "Augmentation de la circulation privée", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle pratique agricole associe arbres et cultures pour améliorer la biodiversité ?",
+      "answers": [
+        { "text": "L'agroforesterie", "correct": true },
+        { "text": "La monoculture", "correct": false },
+        { "text": "Le labour intensif", "correct": false },
+        { "text": "Le défrichement", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelles sont les énergies fossiles ?",
+      "answers": [
+        { "text": "Charbon, pétrole, gaz naturel", "correct": true },
+        { "text": "Solaire, éolienne, hydraulique", "correct": false },
+        { "text": "Nucléaire uniquement", "correct": false },
+        { "text": "La biomasse uniquement", "correct": false }
+      ]
+    },
+    {
+      "question": "Que désigne l'économie circulaire ?",
+      "answers": [
+        { "text": "Un système qui vise à réutiliser et valoriser les ressources pour réduire les déchets", "correct": true },
+        { "text": "Une économie basée sur l'extraction continue de ressources", "correct": false },
+        { "text": "Un type de croissance illimitée", "correct": false },
+        { "text": "Une monnaie alternative", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle technologie produit de l'électricité en captant la lumière du soleil ?",
+      "answers": [
+        { "text": "Les panneaux photovoltaïques (solaire)", "correct": true },
+        { "text": "Les chaudières à charbon", "correct": false },
+        { "text": "Les moteurs diesel", "correct": false },
+        { "text": "Les turbines à gaz", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle pratique agricole consiste à réduire ou éliminer le labour pour préserver la structure du sol et limiter l'érosion ?",
+      "answers": [
+        { "text": "Agriculture de conservation (agriculture sans labour)", "correct": true },
+        { "text": "Monoculture intensive", "correct": false },
+        { "text": "Irrigation goutte-à-goutte", "correct": false },
+        { "text": "Rotation des cultures", "correct": false }
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         { "text": "Agriculture intensive", "correct": false },
         { "text": "Monoculture", "correct": false },
         { "text": "Déforestation", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que la séquestration du carbone ?",
+      "answers": [
+        { "text": "Le stockage du carbone dans les sols, les forêts ou les océans", "correct": true },
+        { "text": "L'émission de CO2", "correct": false },
+        { "text": "La production de plastique", "correct": false },
+        { "text": "Une forme d'énergie fossile", "correct": false }
+      ]
+    },
+    {
+      "question": "Que signifie l'eutrophisation d'un plan d'eau ?",
+      "answers": [
+        { "text": "L'enrichissement excessif en nutriments provoquant des proliférations d'algues", "correct": true },
+        { "text": "La montée du niveau de la mer", "correct": false },
+        { "text": "La disparition des poissons due à la pêche", "correct": false },
+        { "text": "La solidification de la glace", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel accord international énonce l'objectif de maintenir le réchauffement 'bien en dessous de 2°C' ?",
+      "answers": [
+        { "text": "L'Accord de Paris", "correct": true },
+        { "text": "Le Protocole de Kyoto", "correct": false },
+        { "text": "La Convention de Stockholm", "correct": false },
+        { "text": "La Convention de Genève", "correct": false }
+      ]
+    },
+    {
+      "question": "Que mesure la diversité génétique au sein d'une espèce ?",
+      "answers": [
+        { "text": "La variation des gènes entre individus de la même espèce", "correct": true },
+        { "text": "Le nombre d'espèces dans un écosystème", "correct": false },
+        { "text": "La superficie d'une forêt", "correct": false },
+        { "text": "La quantité d'eau disponible", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que la bioaccumulation ?",
+      "answers": [
+        { "text": "L'accumulation progressive de substances toxiques dans les organismes vivants", "correct": true },
+        { "text": "La dispersion des graines par le vent", "correct": false },
+        { "text": "La régénération d'un sol", "correct": false },
+        { "text": "La migration saisonnière des oiseaux", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l'objectif principal du mécanisme REDD+ ?",
+      "answers": [
+        { "text": "Réduire les émissions liées à la déforestation et à la dégradation des forêts", "correct": true },
+        { "text": "Promouvoir l'extraction de bois", "correct": false },
+        { "text": "Financer les industries charbonnières", "correct": false },
+        { "text": "Augmenter l'usage de pesticides", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle technologie exploite la montée et la descente de la marée pour produire de l'énergie ?",
+      "answers": [
+        { "text": "L'énergie marémotrice", "correct": true },
+        { "text": "L'énergie solaire", "correct": false },
+        { "text": "L'énergie géothermique", "correct": false },
+        { "text": "La biomasse", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel terme désigne un seuil écologique au-delà duquel un écosystème bascule vers un nouvel état ?",
+      "answers": [
+        { "text": "Point de basculement (tipping point)", "correct": true },
+        { "text": "Capacité de charge", "correct": false },
+        { "text": "Biodiversité", "correct": false },
+        { "text": "Équilibre écologique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel groupe de gaz fluorés est connu pour son très fort pouvoir de réchauffement climatique ?",
+      "answers": [
+        { "text": "HFC (hydrofluorocarbures)", "correct": true },
+        { "text": "O2 (oxygène)", "correct": false },
+        { "text": "N2 (azote)", "correct": false },
+        { "text": "He (hélium)", "correct": false }
+      ]
+    },
+    {
+      "question": "Que signifie la 'capacité de charge' d'un écosystème ?",
+      "answers": [
+        { "text": "Le nombre maximal d'individus d'une espèce que l'environnement peut soutenir durablement", "correct": true },
+        { "text": "La vitesse de croissance d'une population", "correct": false },
+        { "text": "La surface totale d'un habitat", "correct": false },
+        { "text": "Le taux d'extinction d'une espèce", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel protocole visait la réduction des émissions avec des objectifs contraignants pour certains pays ?",
+      "answers": [
+        { "text": "Le Protocole de Kyoto", "correct": true },
+        { "text": "La Convention de Ramsar", "correct": false },
+        { "text": "La Déclaration de Rio", "correct": false },
+        { "text": "L'Accord de Montréal", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle pratique agricole aide à stocker du carbone dans le sol ?",
+      "answers": [
+        { "text": "L'agroforesterie et les pratiques de conservation des sols", "correct": true },
+        { "text": "Le labour profond fréquent", "correct": false },
+        { "text": "L'usage intensif d'engrais chimiques", "correct": false },
+        { "text": "La déforestation pour l'agriculture", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que la bioremédiation ?",
+      "answers": [
+        { "text": "L'utilisation d'organismes vivants pour dépolluer des milieux contaminés", "correct": true },
+        { "text": "La construction de barrages", "correct": false },
+        { "text": "La synthèse de nouveaux engrais", "correct": false },
+        { "text": "La culture intensive en serres", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel indicateur isole la concentration de particules fines dans l'air (pollution) ?",
+      "answers": [
+        { "text": "PM2.5", "correct": true },
+        { "text": "CO2", "correct": false },
+        { "text": "O3", "correct": false },
+        { "text": "NO2", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est une conséquence majeure de la fonte du permafrost ?",
+      "answers": [
+        { "text": "Libération de méthane et de CO2 stockés, accentuant le réchauffement", "correct": true },
+        { "text": "Augmentation immédiate de la biodiversité arctique", "correct": false },
+        { "text": "Diminution du niveau de la mer", "correct": false },
+        { "text": "Augmentation de la couverture neigeuse", "correct": false }
       ]
     }
   ]

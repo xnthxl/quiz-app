@@ -44,6 +44,141 @@
         { "text": "Fox Morning", "correct": false },
         { "text": "Washington Post Édition", "correct": false }
       ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’hiver en 2022 ?",
+      "answers": [
+        { "text": "Chine", "correct": true },
+        { "text": "Japon", "correct": false },
+        { "text": "Corée du Sud", "correct": false },
+        { "text": "Canada", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle organisation internationale coordonne la lutte contre le changement climatique ?",
+      "answers": [
+        { "text": "ONU (Organisation des Nations unies)", "correct": true },
+        { "text": "OMS", "correct": false },
+        { "text": "FMI", "correct": false },
+        { "text": "UE", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été le premier à légaliser le mariage homosexuel en 2001 ?",
+      "answers": [
+        { "text": "Pays-Bas", "correct": true },
+        { "text": "Suède", "correct": false },
+        { "text": "Canada", "correct": false },
+        { "text": "Belgique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel média français est connu pour son journal satirique hebdomadaire ?",
+      "answers": [
+        { "text": "Charlie Hebdo", "correct": true },
+        { "text": "Le Monde", "correct": false },
+        { "text": "Le Figaro", "correct": false },
+        { "text": "Libération", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle ville a été élue Capitale européenne de la culture en 2023 ?",
+      "answers": [
+        { "text": "Timișoara (Roumanie)", "correct": true },
+        { "text": "Lisbonne (Portugal)", "correct": false },
+        { "text": "Marseille (France)", "correct": false },
+        { "text": "Athènes (Grèce)", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a quitté officiellement l’Union européenne en 2020 ?",
+      "answers": [
+        { "text": "Royaume-Uni", "correct": true },
+        { "text": "Norvège", "correct": false },
+        { "text": "Suisse", "correct": false },
+        { "text": "Islande", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel réseau social a été racheté par Elon Musk en 2022 ?",
+      "answers": [
+        { "text": "Twitter", "correct": true },
+        { "text": "Facebook", "correct": false },
+        { "text": "Instagram", "correct": false },
+        { "text": "Snapchat", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel accord mondial vise à réduire les émissions de gaz à effet de serre ?",
+      "answers": [
+        { "text": "Accord de Paris", "correct": true },
+        { "text": "Traité de Kyoto", "correct": false },
+        { "text": "Accord de Montréal", "correct": false },
+        { "text": "Charte de Rio", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a remporté l’Euro de football masculin en 2020 (joué en 2021) ?",
+      "answers": [
+        { "text": "Italie", "correct": true },
+        { "text": "Angleterre", "correct": false },
+        { "text": "France", "correct": false },
+        { "text": "Allemagne", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel événement a marqué la pandémie de COVID-19 en 2020 ?",
+      "answers": [
+        { "text": "Confinement mondial", "correct": true },
+        { "text": "JO de Tokyo annulés", "correct": false },
+        { "text": "Élection présidentielle US reportée", "correct": false },
+        { "text": "Brexit effectif", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle entreprise est devenue la première à atteindre une capitalisation de 3 000 milliards de dollars en 2023 ?",
+      "answers": [
+        { "text": "Apple", "correct": true },
+        { "text": "Microsoft", "correct": false },
+        { "text": "Amazon", "correct": false },
+        { "text": "Tesla", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a organisé la Coupe du monde de rugby en 2023 ?",
+      "answers": [
+        { "text": "France", "correct": true },
+        { "text": "Nouvelle-Zélande", "correct": false },
+        { "text": "Australie", "correct": false },
+        { "text": "Angleterre", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été le plus touché par l’ouragan Ian en 2022 ?",
+      "answers": [
+        { "text": "États-Unis", "correct": true },
+        { "text": "Cuba", "correct": false },
+        { "text": "Mexique", "correct": false },
+        { "text": "Haïti", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel prix a été attribué à Karine Jean-Pierre en 2022 ?",
+      "answers": [
+        { "text": "Porte-parole de la Maison Blanche", "correct": true },
+        { "text": "Prix Nobel de la paix", "correct": false },
+        { "text": "Prix Pulitzer", "correct": false },
+        { "text": "Prix Goncourt", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été élu au Conseil de sécurité de l’ONU en 2021 pour 2 ans ?",
+      "answers": [
+        { "text": "Inde", "correct": true },
+        { "text": "Italie", "correct": false },
+        { "text": "Brésil", "correct": false },
+        { "text": "Japon", "correct": false }
+      ]
     }
   ],
 
@@ -92,9 +227,143 @@
         { "text": "États-Unis", "correct": false },
         { "text": "Brésil", "correct": false }
       ]
+    },
+    {
+      "question": "Quel pays a été le premier à approuver un vaccin à ARNm contre la COVID-19 en 2020 ?",
+      "answers": [
+        { "text": "Royaume-Uni", "correct": true },
+        { "text": "États-Unis", "correct": false },
+        { "text": "Allemagne", "correct": false },
+        { "text": "Chine", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été suspendu du Conseil des droits de l’Homme de l’ONU en 2022 ?",
+      "answers": [
+        { "text": "Russie", "correct": true },
+        { "text": "Chine", "correct": false },
+        { "text": "Biélorussie", "correct": false },
+        { "text": "Corée du Nord", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel traité international vise à interdire les armes nucléaires ?",
+      "answers": [
+        { "text": "Traité sur l’interdiction des armes nucléaires (TIAN)", "correct": true },
+        { "text": "Traité de non-prolifération nucléaire", "correct": false },
+        { "text": "Traité START", "correct": false },
+        { "text": "Traité INF", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a organisé la COP26 en 2021 ?",
+      "answers": [
+        { "text": "Royaume-Uni", "correct": true },
+        { "text": "Écosse", "correct": false },
+        { "text": "France", "correct": false },
+        { "text": "Italie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a lancé le premier satellite entièrement commercial en 2021 ?",
+      "answers": [
+        { "text": "États-Unis", "correct": true },
+        { "text": "Chine", "correct": false },
+        { "text": "Inde", "correct": false },
+        { "text": "Émirats arabes unis", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a remporté l’élection présidentielle américaine en 2020 ?",
+      "answers": [
+        { "text": "Joe Biden", "correct": true },
+        { "text": "Donald Trump", "correct": false },
+        { "text": "Kamala Harris", "correct": false },
+        { "text": "Bernie Sanders", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été le premier à légaliser le cannabis récréatif sur tout son territoire ?",
+      "answers": [
+        { "text": "Canada", "correct": true },
+        { "text": "Uruguay", "correct": false },
+        { "text": "Pays-Bas", "correct": false },
+        { "text": "États-Unis", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli l’Expo 2020, retardée à 2021 ?",
+      "answers": [
+        { "text": "Émirats arabes unis (Dubaï)", "correct": true },
+        { "text": "Japon", "correct": false },
+        { "text": "Chine", "correct": false },
+        { "text": "Singapour", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été le premier à atteindre la neutralité carbone prévue pour 2050 ?",
+      "answers": [
+        { "text": "Royaume-Uni", "correct": true },
+        { "text": "France", "correct": false },
+        { "text": "Allemagne", "correct": false },
+        { "text": "Norvège", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a reconnu officiellement l’indépendance de l’Ukraine en 1991 ?",
+      "answers": [
+        { "text": "Russie", "correct": true },
+        { "text": "États-Unis", "correct": false },
+        { "text": "France", "correct": false },
+        { "text": "Allemagne", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été frappé par un important tremblement de terre à Haïti en 2021 ?",
+      "answers": [
+        { "text": "Haïti", "correct": true },
+        { "text": "Japon", "correct": false },
+        { "text": "Indonésie", "correct": false },
+        { "text": "Chili", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été le premier à déployer un vaccin contre la variole en 1796 ?",
+      "answers": [
+        { "text": "Royaume-Uni", "correct": true },
+        { "text": "France", "correct": false },
+        { "text": "Allemagne", "correct": false },
+        { "text": "États-Unis", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été à l’origine de la crise énergétique mondiale en 2021 avec l’augmentation des prix du gaz ?",
+      "answers": [
+        { "text": "Russie", "correct": true },
+        { "text": "États-Unis", "correct": false },
+        { "text": "Chine", "correct": false },
+        { "text": "Arabie Saoudite", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a coprésidé la COP28 en 2023 ?",
+      "answers": [
+        { "text": "Émirats arabes unis", "correct": true },
+        { "text": "France", "correct": false },
+        { "text": "Inde", "correct": false },
+        { "text": "Canada", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a lancé un programme spatial pour envoyer des humains sur Mars dans les années 2020 ?",
+      "answers": [
+        { "text": "États-Unis", "correct": true },
+        { "text": "Chine", "correct": false },
+        { "text": "Inde", "correct": false },
+        { "text": "Russie", "correct": false }
+      ]
     }
   ],
-
   "difficile": [
     {
       "question": "Quel pays a lancé le programme spatial Artemis pour retourner sur la Lune ?",
@@ -139,6 +408,141 @@
         { "text": "Alignement francophone", "correct": false },
         { "text": "Forum francophone", "correct": false },
         { "text": "Conseil francophone", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le plus grand nombre de médailles aux Jeux Olympiques de Tokyo 2020 ?",
+      "answers": [
+        { "text": "États-Unis", "correct": true },
+        { "text": "Chine", "correct": false },
+        { "text": "Japon", "correct": false },
+        { "text": "Russie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel traité international a été signé en 2015 pour limiter le commerce des armes conventionnelles ?",
+      "answers": [
+        { "text": "Traité sur le commerce des armes (TCA)", "correct": true },
+        { "text": "Traité de non-prolifération nucléaire", "correct": false },
+        { "text": "Traité INF", "correct": false },
+        { "text": "Traité START", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle entreprise a racheté le réseau social Twitter en 2022 ?",
+      "answers": [
+        { "text": "Elon Musk (Tesla/SpaceX)", "correct": true },
+        { "text": "Mark Zuckerberg (Meta)", "correct": false },
+        { "text": "Jeff Bezos (Amazon)", "correct": false },
+        { "text": "Sundar Pichai (Google)", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été le premier à vacciner massivement contre la COVID-19 avec un vaccin à ARNm ?",
+      "answers": [
+        { "text": "Royaume-Uni", "correct": true },
+        { "text": "États-Unis", "correct": false },
+        { "text": "Chine", "correct": false },
+        { "text": "Israël", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été le premier à autoriser l’utilisation d’un vaccin à ARN messager contre la COVID-19 ?",
+      "answers": [
+        { "text": "Royaume-Uni", "correct": true },
+        { "text": "Allemagne", "correct": false },
+        { "text": "États-Unis", "correct": false },
+        { "text": "Chine", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été le premier à commercialiser des voitures électriques à grande échelle dans les années 2020 ?",
+      "answers": [
+        { "text": "Chine", "correct": true },
+        { "text": "Allemagne", "correct": false },
+        { "text": "États-Unis", "correct": false },
+        { "text": "Norvège", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été sanctionné par l’ONU pour l’invasion de l’Ukraine en 2022 ?",
+      "answers": [
+        { "text": "Russie", "correct": true },
+        { "text": "Biélorussie", "correct": false },
+        { "text": "Chine", "correct": false },
+        { "text": "Iran", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été le premier à légaliser le mariage homosexuel sur l’ensemble de son territoire ?",
+      "answers": [
+        { "text": "Pays-Bas", "correct": true },
+        { "text": "Canada", "correct": false },
+        { "text": "Belgique", "correct": false },
+        { "text": "Espagne", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli l’Expo 2020, reportée en 2021 à cause de la pandémie ?",
+      "answers": [
+        { "text": "Émirats arabes unis (Dubaï)", "correct": true },
+        { "text": "Japon (Tokyo)", "correct": false },
+        { "text": "Chine (Shanghai)", "correct": false },
+        { "text": "Italie (Milan)", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a coprésidé la COP28 en 2023 ?",
+      "answers": [
+        { "text": "Émirats arabes unis", "correct": true },
+        { "text": "France", "correct": false },
+        { "text": "Inde", "correct": false },
+        { "text": "Canada", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a déployé le train à hydrogène le plus rapide en Europe en 2022 ?",
+      "answers": [
+        { "text": "Allemagne", "correct": true },
+        { "text": "France", "correct": false },
+        { "text": "Pays-Bas", "correct": false },
+        { "text": "Norvège", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été le premier à interdire les plastiques à usage unique en Afrique ?",
+      "answers": [
+        { "text": "Kenya", "correct": true },
+        { "text": "Afrique du Sud", "correct": false },
+        { "text": "Nigéria", "correct": false },
+        { "text": "Maroc", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a remporté l’Euro de football masculin 2020, joué en 2021 ?",
+      "answers": [
+        { "text": "Italie", "correct": true },
+        { "text": "Angleterre", "correct": false },
+        { "text": "France", "correct": false },
+        { "text": "Espagne", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été frappé par l’ouragan Ian en 2022 avec d’importants dégâts ?",
+      "answers": [
+        { "text": "États-Unis", "correct": true },
+        { "text": "Cuba", "correct": false },
+        { "text": "Mexique", "correct": false },
+        { "text": "Haïti", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a été suspendu du Conseil des droits de l’Homme de l’ONU en 2022 ?",
+      "answers": [
+        { "text": "Russie", "correct": true },
+        { "text": "Chine", "correct": false },
+        { "text": "Biélorussie", "correct": false },
+        { "text": "Corée du Nord", "correct": false }
       ]
     }
   ]

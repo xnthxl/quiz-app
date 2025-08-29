@@ -44,6 +44,141 @@
         { "text": "Sombrero", "correct": false },
         { "text": "Tarantule", "correct": false }
       ]
+    },
+    {
+      "question": "Quelle planète a une grande tache rouge ?",
+      "answers": [
+        { "text": "Jupiter", "correct": true },
+        { "text": "Mars", "correct": false },
+        { "text": "Saturne", "correct": false },
+        { "text": "Vénus", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel astre brille le plus dans notre ciel nocturne ?",
+      "answers": [
+        { "text": "La Lune", "correct": true },
+        { "text": "Sirius", "correct": false },
+        { "text": "Vénus", "correct": false },
+        { "text": "Jupiter", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle planète est connue pour son anneau spectaculaire ?",
+      "answers": [
+        { "text": "Saturne", "correct": true },
+        { "text": "Uranus", "correct": false },
+        { "text": "Neptune", "correct": false },
+        { "text": "Jupiter", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle planète est la plus froide du système solaire ?",
+      "answers": [
+        { "text": "Neptune", "correct": true },
+        { "text": "Uranus", "correct": false },
+        { "text": "Mars", "correct": false },
+        { "text": "Mercure", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel astre est une boule de gaz incandescente ?",
+      "answers": [
+        { "text": "Étoile", "correct": true },
+        { "text": "Planète", "correct": false },
+        { "text": "Comète", "correct": false },
+        { "text": "Astéroïde", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle planète a un jour presque aussi long qu’une année ?",
+      "answers": [
+        { "text": "Vénus", "correct": true },
+        { "text": "Mars", "correct": false },
+        { "text": "Mercure", "correct": false },
+        { "text": "Jupiter", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel corps céleste est connu pour ses anneaux de glace et de roche ?",
+      "answers": [
+        { "text": "Saturne", "correct": true },
+        { "text": "Uranus", "correct": false },
+        { "text": "Neptune", "correct": false },
+        { "text": "Jupiter", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle planète est surnommée la planète bleue ?",
+      "answers": [
+        { "text": "Terre", "correct": true },
+        { "text": "Neptune", "correct": false },
+        { "text": "Uranus", "correct": false },
+        { "text": "Mars", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel objet céleste éclaire la nuit terrestre ?",
+      "answers": [
+        { "text": "La Lune", "correct": true },
+        { "text": "Soleil", "correct": false },
+        { "text": "Vénus", "correct": false },
+        { "text": "Mars", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle planète est la plus proche de la Terre ?",
+      "answers": [
+        { "text": "Vénus", "correct": true },
+        { "text": "Mars", "correct": false },
+        { "text": "Mercure", "correct": false },
+        { "text": "Jupiter", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel astre est un satellite naturel de la Terre ?",
+      "answers": [
+        { "text": "La Lune", "correct": true },
+        { "text": "Mars", "correct": false },
+        { "text": "Vénus", "correct": false },
+        { "text": "Soleil", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle planète est connue pour sa couleur rouge ?",
+      "answers": [
+        { "text": "Mars", "correct": true },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Vénus", "correct": false },
+        { "text": "Mercure", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel corps céleste se déplace autour d’une étoile ?",
+      "answers": [
+        { "text": "Planète", "correct": true },
+        { "text": "Comète", "correct": false },
+        { "text": "Astéroïde", "correct": false },
+        { "text": "Météorite", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel astre est le centre du système solaire ?",
+      "answers": [
+        { "text": "Le Soleil", "correct": true },
+        { "text": "La Terre", "correct": false },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Mercure", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle planète est surnommée la géante gazeuse ?",
+      "answers": [
+        { "text": "Jupiter", "correct": true },
+        { "text": "Mars", "correct": false },
+        { "text": "Terre", "correct": false },
+        { "text": "Mercure", "correct": false }
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         { "text": "Io", "correct": false },
         { "text": "Callisto", "correct": false }
       ]
+    },
+    {
+      "question": "Quelle planète est la plus proche de la Terre après Vénus ?",
+      "answers": [
+        { "text": "Mars", "correct": true },
+        { "text": "Mercure", "correct": false },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Saturne", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle planète a la rotation la plus rapide ?",
+      "answers": [
+        { "text": "Jupiter", "correct": true },
+        { "text": "Saturne", "correct": false },
+        { "text": "Terre", "correct": false },
+        { "text": "Mars", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la planète la plus dense du système solaire ?",
+      "answers": [
+        { "text": "Terre", "correct": true },
+        { "text": "Mercure", "correct": false },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Neptune", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la planète la plus éloignée du Soleil visible à l’œil nu ?",
+      "answers": [
+        { "text": "Saturne", "correct": true },
+        { "text": "Uranus", "correct": false },
+        { "text": "Neptune", "correct": false },
+        { "text": "Jupiter", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel astre est composé principalement de glace et de poussières et possède une queue ?",
+      "answers": [
+        { "text": "Comète", "correct": true },
+        { "text": "Planète", "correct": false },
+        { "text": "Astéroïde", "correct": false },
+        { "text": "Étoile", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle planète a des vents extrêmement violents dépassant 2 000 km/h ?",
+      "answers": [
+        { "text": "Neptune", "correct": true },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Uranus", "correct": false },
+        { "text": "Mars", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom de la plus grande tache de Jupiter ?",
+      "answers": [
+        { "text": "Grande Tache Rouge", "correct": true },
+        { "text": "Tache Bleue", "correct": false },
+        { "text": "Tempête de Jupiter", "correct": false },
+        { "text": "Vortex géant", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel astre émet principalement de la lumière infrarouge ?",
+      "answers": [
+        { "text": "Étoile", "correct": true },
+        { "text": "Planète", "correct": false },
+        { "text": "Comète", "correct": false },
+        { "text": "Astéroïde", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle planète est souvent appelée 'l’étoile du matin' ou 'l’étoile du soir' ?",
+      "answers": [
+        { "text": "Vénus", "correct": true },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Mars", "correct": false },
+        { "text": "Mercure", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel astre est responsable des marées sur Terre ?",
+      "answers": [
+        { "text": "La Lune", "correct": true },
+        { "text": "Le Soleil", "correct": false },
+        { "text": "Mars", "correct": false },
+        { "text": "Vénus", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type de corps céleste tourne autour d’une planète ?",
+      "answers": [
+        { "text": "Satellite", "correct": true },
+        { "text": "Étoile", "correct": false },
+        { "text": "Comète", "correct": false },
+        { "text": "Astéroïde", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la planète connue pour sa couleur verdâtre en raison de son atmosphère ?",
+      "answers": [
+        { "text": "Uranus", "correct": true },
+        { "text": "Neptune", "correct": false },
+        { "text": "Saturne", "correct": false },
+        { "text": "Mars", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel objet céleste est considéré comme un vestige du système solaire primitif ?",
+      "answers": [
+        { "text": "Astéroïde", "correct": true },
+        { "text": "Étoile", "correct": false },
+        { "text": "Comète", "correct": false },
+        { "text": "Planète", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel astre peut exploser sous forme de supernova ?",
+      "answers": [
+        { "text": "Étoile massive", "correct": true },
+        { "text": "Planète géante", "correct": false },
+        { "text": "Comète", "correct": false },
+        { "text": "Lune", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type de planète est principalement composée de gaz ?",
+      "answers": [
+        { "text": "Géante gazeuse", "correct": true },
+        { "text": "Tellurique", "correct": false },
+        { "text": "Naine", "correct": false },
+        { "text": "Rocheuse", "correct": false }
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         { "text": "Elliptique", "correct": false },
         { "text": "Lenticulaire", "correct": false },
         { "text": "Irrégulière", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom de la première sonde à avoir quitté le système solaire ?",
+      "answers": [
+        { "text": "Voyager 1", "correct": true },
+        { "text": "Pioneer 10", "correct": false },
+        { "text": "New Horizons", "correct": false },
+        { "text": "Galileo", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom du plus grand astéroïde du système solaire ?",
+      "answers": [
+        { "text": "Cérès", "correct": true },
+        { "text": "Vesta", "correct": false },
+        { "text": "Pallas", "correct": false },
+        { "text": "Hygiea", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom du nuage de gaz et poussières qui peut donner naissance à de nouvelles étoiles ?",
+      "answers": [
+        { "text": "Nébuleuse", "correct": true },
+        { "text": "Quasar", "correct": false },
+        { "text": "Supernova", "correct": false },
+        { "text": "Galaxie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom du satellite naturel de Saturne le plus grand après Titan ?",
+      "answers": [
+        { "text": "Rhéa", "correct": true },
+        { "text": "Japet", "correct": false },
+        { "text": "Encelade", "correct": false },
+        { "text": "Mimas", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment appelle-t-on un astre qui émet un rayonnement intense après l’effondrement d’une étoile massive ?",
+      "answers": [
+        { "text": "Pulsar", "correct": true },
+        { "text": "Quasar", "correct": false },
+        { "text": "Nova", "correct": false },
+        { "text": "Planète naine", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la principale différence entre une planète tellurique et une géante gazeuse ?",
+      "answers": [
+        { "text": "Composition rocheuse vs composition gazeuse", "correct": true },
+        { "text": "Taille vs masse", "correct": false },
+        { "text": "Nombre de lunes", "correct": false },
+        { "text": "Distance au Soleil", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la planète qui a le plus grand nombre de lunes confirmées ?",
+      "answers": [
+        { "text": "Saturne", "correct": true },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Uranus", "correct": false },
+        { "text": "Neptune", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom du plus grand volcan du système solaire ?",
+      "answers": [
+        { "text": "Olympus Mons", "correct": true },
+        { "text": "Mauna Loa", "correct": false },
+        { "text": "Mons Huygens", "correct": false },
+        { "text": "Vesuvius", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène explique la lumière verte lors d’une aurore ?",
+      "answers": [
+        { "text": "Collision d’ions avec l’oxygène", "correct": true },
+        { "text": "Réflexion lunaire", "correct": false },
+        { "text": "Éruption solaire", "correct": false },
+        { "text": "Réfraction atmosphérique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type d’étoile est le Soleil ?",
+      "answers": [
+        { "text": "Naine jaune", "correct": true },
+        { "text": "Géante rouge", "correct": false },
+        { "text": "Supernova", "correct": false },
+        { "text": "Pulsar", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle galaxie est la plus proche de la Voie Lactée ?",
+      "answers": [
+        { "text": "Andromède", "correct": true },
+        { "text": "Triangulum", "correct": false },
+        { "text": "Sombrero", "correct": false },
+        { "text": "M87", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom de l’étoile la plus brillante visible depuis la Terre ?",
+      "answers": [
+        { "text": "Sirius", "correct": true },
+        { "text": "Vega", "correct": false },
+        { "text": "Bételgeuse", "correct": false },
+        { "text": "Rigel", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type de trou noir résulte de l’effondrement d’une étoile massive ?",
+      "answers": [
+        { "text": "Stellaire", "correct": true },
+        { "text": "Supermassif", "correct": false },
+        { "text": "Intermédiaire", "correct": false },
+        { "text": "Mini", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène astronomique peut être observé lorsqu’une planète passe devant son étoile ?",
+      "answers": [
+        { "text": "Transit", "correct": true },
+        { "text": "Éclipse lunaire", "correct": false },
+        { "text": "Occultation", "correct": false },
+        { "text": "Rotation synchrone", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type de radiation cosmique provient principalement de l’explosion de supernovas ?",
+      "answers": [
+        { "text": "Rayons cosmiques", "correct": true },
+        { "text": "Rayons gamma", "correct": false },
+        { "text": "Rayons X", "correct": false },
+        { "text": "Neutrinos", "correct": false }
       ]
     }
   ]

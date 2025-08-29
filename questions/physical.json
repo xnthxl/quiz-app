@@ -44,6 +44,141 @@
         { "text": "Watt", "correct": false },
         { "text": "Volt", "correct": false }
       ]
+    },
+    {
+      "question": "Quelle grandeur mesure la quantité de matière ?",
+      "answers": [
+        { "text": "Masse", "correct": true },
+        { "text": "Poids", "correct": false },
+        { "text": "Force", "correct": false },
+        { "text": "Énergie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’état de la matière sans forme définie et sans volume fixe ?",
+      "answers": [
+        { "text": "Gaz", "correct": true },
+        { "text": "Solide", "correct": false },
+        { "text": "Liquide", "correct": false },
+        { "text": "Plasma", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène produit un arc lumineux entre deux électrodes ?",
+      "answers": [
+        { "text": "Électricité", "correct": true },
+        { "text": "Magnétisme", "correct": false },
+        { "text": "Gravité", "correct": false },
+        { "text": "Chaleur", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle unité mesure la puissance ?",
+      "answers": [
+        { "text": "Watt", "correct": true },
+        { "text": "Joule", "correct": false },
+        { "text": "Newton", "correct": false },
+        { "text": "Volt", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument mesure la pression atmosphérique ?",
+      "answers": [
+        { "text": "Baromètre", "correct": true },
+        { "text": "Thermomètre", "correct": false },
+        { "text": "Dynamomètre", "correct": false },
+        { "text": "Voltmètre", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type d’énergie est liée au mouvement des objets ?",
+      "answers": [
+        { "text": "Énergie cinétique", "correct": true },
+        { "text": "Énergie potentielle", "correct": false },
+        { "text": "Énergie thermique", "correct": false },
+        { "text": "Énergie électrique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène provoque l’éclat des étoiles filantes ?",
+      "answers": [
+        { "text": "Friction atmosphérique", "correct": true },
+        { "text": "Gravité", "correct": false },
+        { "text": "Magnétisme", "correct": false },
+        { "text": "Électricité", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument mesure l’intensité du courant électrique ?",
+      "answers": [
+        { "text": "Ampèremètre", "correct": true },
+        { "text": "Voltmètre", "correct": false },
+        { "text": "Baromètre", "correct": false },
+        { "text": "Dynamomètre", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène attire les objets chargés opposés et repousse les objets de même charge ?",
+      "answers": [
+        { "text": "Électricité", "correct": true },
+        { "text": "Gravité", "correct": false },
+        { "text": "Magnétisme", "correct": false },
+        { "text": "Friction", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type d’énergie est stockée dans un ressort comprimé ?",
+      "answers": [
+        { "text": "Énergie potentielle élastique", "correct": true },
+        { "text": "Énergie cinétique", "correct": false },
+        { "text": "Énergie thermique", "correct": false },
+        { "text": "Énergie électrique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument mesure la tension électrique ?",
+      "answers": [
+        { "text": "Voltmètre", "correct": true },
+        { "text": "Ampèremètre", "correct": false },
+        { "text": "Dynamomètre", "correct": false },
+        { "text": "Baromètre", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle grandeur physique se mesure en joules ?",
+      "answers": [
+        { "text": "Énergie", "correct": true },
+        { "text": "Force", "correct": false },
+        { "text": "Puissance", "correct": false },
+        { "text": "Masse", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel état de la matière a un volume défini mais pas de forme propre ?",
+      "answers": [
+        { "text": "Liquide", "correct": true },
+        { "text": "Solide", "correct": false },
+        { "text": "Gaz", "correct": false },
+        { "text": "Plasma", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène entraîne le mouvement des aimants vers le nord magnétique ?",
+      "answers": [
+        { "text": "Magnétisme", "correct": true },
+        { "text": "Électricité", "correct": false },
+        { "text": "Gravité", "correct": false },
+        { "text": "Friction", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument mesure la force exercée sur un objet ?",
+      "answers": [
+        { "text": "Dynamomètre", "correct": true },
+        { "text": "Voltmètre", "correct": false },
+        { "text": "Baromètre", "correct": false },
+        { "text": "Thermomètre", "correct": false }
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         { "text": "Proton", "correct": false },
         { "text": "Photon", "correct": false }
       ]
+    },
+    {
+      "question": "Quelle loi exprime que F = m a ?",
+      "answers": [
+        { "text": "Loi de Newton", "correct": true },
+        { "text": "Loi de Coulomb", "correct": false },
+        { "text": "Loi d’Ohm", "correct": false },
+        { "text": "Loi de Faraday", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le symbole de la charge électrique élémentaire ?",
+      "answers": [
+        { "text": "e", "correct": true },
+        { "text": "q", "correct": false },
+        { "text": "Q", "correct": false },
+        { "text": "E", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la formule de l’énergie potentielle gravitationnelle ?",
+      "answers": [
+        { "text": "E = m g h", "correct": true },
+        { "text": "E = ½ m v²", "correct": false },
+        { "text": "E = F d", "correct": false },
+        { "text": "E = m c²", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi décrit la pression exercée par un liquide en fonction de sa profondeur ?",
+      "answers": [
+        { "text": "Loi de Pascal", "correct": true },
+        { "text": "Loi d’Archimède", "correct": false },
+        { "text": "Loi de Bernoulli", "correct": false },
+        { "text": "Loi de Newton", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi décrit la force de flottabilité sur un objet immergé ?",
+      "answers": [
+        { "text": "Loi d’Archimède", "correct": true },
+        { "text": "Loi de Newton", "correct": false },
+        { "text": "Loi de Coulomb", "correct": false },
+        { "text": "Loi d’Ohm", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle grandeur mesure la rapidité du mouvement d’un objet ?",
+      "answers": [
+        { "text": "Vitesse", "correct": true },
+        { "text": "Force", "correct": false },
+        { "text": "Énergie", "correct": false },
+        { "text": "Masse", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle particule subatomique est positive ?",
+      "answers": [
+        { "text": "Proton", "correct": true },
+        { "text": "Électron", "correct": false },
+        { "text": "Neutron", "correct": false },
+        { "text": "Photon", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi relie la force magnétique à la vitesse d’une particule chargée ?",
+      "answers": [
+        { "text": "Loi de Lorentz", "correct": true },
+        { "text": "Loi de Coulomb", "correct": false },
+        { "text": "Loi de Newton", "correct": false },
+        { "text": "Loi de Faraday", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est l’unité de la fréquence ?",
+      "answers": [
+        { "text": "Hertz", "correct": true },
+        { "text": "Joule", "correct": false },
+        { "text": "Newton", "correct": false },
+        { "text": "Volt", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle grandeur mesure la quantité de chaleur transférée ?",
+      "answers": [
+        { "text": "Énergie thermique", "correct": true },
+        { "text": "Énergie cinétique", "correct": false },
+        { "text": "Énergie électrique", "correct": false },
+        { "text": "Énergie potentielle", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi décrit l’induction électromagnétique ?",
+      "answers": [
+        { "text": "Loi de Faraday", "correct": true },
+        { "text": "Loi d’Ohm", "correct": false },
+        { "text": "Loi de Coulomb", "correct": false },
+        { "text": "Loi de Newton", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle grandeur physique mesure l’intensité lumineuse ?",
+      "answers": [
+        { "text": "Candela", "correct": true },
+        { "text": "Lumen", "correct": false },
+        { "text": "Lux", "correct": false },
+        { "text": "Watt", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle particule est associée à l’interaction électromagnétique ?",
+      "answers": [
+        { "text": "Photon", "correct": true },
+        { "text": "Proton", "correct": false },
+        { "text": "Neutron", "correct": false },
+        { "text": "Électron", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi exprime que l’énergie totale se conserve dans un système isolé ?",
+      "answers": [
+        { "text": "Conservation de l’énergie", "correct": true },
+        { "text": "Loi de Newton", "correct": false },
+        { "text": "Loi de Coulomb", "correct": false },
+        { "text": "Loi d’Ohm", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle grandeur décrit la résistance d’un matériau au passage du courant ?",
+      "answers": [
+        { "text": "Résistance", "correct": true },
+        { "text": "Conductance", "correct": false },
+        { "text": "Intensité", "correct": false },
+        { "text": "Tension", "correct": false }
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         { "text": "c (vitesse de la lumière)", "correct": false },
         { "text": "G (gravitation)", "correct": false },
         { "text": "k (Boltzmann)", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi décrit la diffusion de la lumière par les particules ?",
+      "answers": [
+        { "text": "Diffusion de Rayleigh", "correct": true },
+        { "text": "Loi de Snell", "correct": false },
+        { "text": "Loi de Faraday", "correct": false },
+        { "text": "Effet Doppler", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi relie la pression, le volume et la température d’un gaz parfait ?",
+      "answers": [
+        { "text": "Équation d’état des gaz parfaits", "correct": true },
+        { "text": "Loi de Pascal", "correct": false },
+        { "text": "Loi de Boyle", "correct": false },
+        { "text": "Loi de Charles", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle formule exprime la loi de Hooke pour un ressort ?",
+      "answers": [
+        { "text": "F = k x", "correct": true },
+        { "text": "F = m a", "correct": false },
+        { "text": "E = ½ m v²", "correct": false },
+        { "text": "P = ρ g h", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi décrit le phénomène de réflexion totale ?",
+      "answers": [
+        { "text": "Réflexion totale", "correct": true },
+        { "text": "Loi de Snell", "correct": false },
+        { "text": "Diffusion de Rayleigh", "correct": false },
+        { "text": "Effet Doppler", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la formule de l’énergie d’un oscillateur harmonique ?",
+      "answers": [
+        { "text": "E = ½ k x²", "correct": true },
+        { "text": "E = m g h", "correct": false },
+        { "text": "E = ½ m v²", "correct": false },
+        { "text": "E = h f", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi exprime la conservation de la quantité de mouvement ?",
+      "answers": [
+        { "text": "Conservation de la quantité de mouvement", "correct": true },
+        { "text": "Loi de Newton", "correct": false },
+        { "text": "Loi de Coulomb", "correct": false },
+        { "text": "Loi de Faraday", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi décrit l’effet Doppler pour le son ?",
+      "answers": [
+        { "text": "Effet Doppler", "correct": true },
+        { "text": "Réflexion", "correct": false },
+        { "text": "Diffraction", "correct": false },
+        { "text": "Réfraction", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi décrit l’effet photoélectrique ?",
+      "answers": [
+        { "text": "Loi de Einstein", "correct": true },
+        { "text": "Loi de Newton", "correct": false },
+        { "text": "Loi de Coulomb", "correct": false },
+        { "text": "Loi de Faraday", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la formule de la force gravitationnelle entre deux masses ?",
+      "answers": [
+        { "text": "F = G m₁ m₂ / r²", "correct": true },
+        { "text": "F = m a", "correct": false },
+        { "text": "F = k x", "correct": false },
+        { "text": "F = ½ m v²", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi exprime la conservation de la charge électrique ?",
+      "answers": [
+        { "text": "Conservation de la charge", "correct": true },
+        { "text": "Loi de Coulomb", "correct": false },
+        { "text": "Loi de Faraday", "correct": false },
+        { "text": "Loi de Newton", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi relie la pression et le volume d’un gaz à température constante ?",
+      "answers": [
+        { "text": "Loi de Boyle", "correct": true },
+        { "text": "Loi de Charles", "correct": false },
+        { "text": "Loi de Newton", "correct": false },
+        { "text": "Loi de Pascal", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi décrit la variation de pression avec la vitesse d’un fluide ?",
+      "answers": [
+        { "text": "Loi de Bernoulli", "correct": true },
+        { "text": "Loi de Pascal", "correct": false },
+        { "text": "Loi de Boyle", "correct": false },
+        { "text": "Loi de Newton", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la formule de la vitesse d’un corps en chute libre ?",
+      "answers": [
+        { "text": "v = g t", "correct": true },
+        { "text": "v = m g h", "correct": false },
+        { "text": "v = F / m", "correct": false },
+        { "text": "v = ½ m v²", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi exprime la relation entre courant, tension et puissance dans un circuit électrique ?",
+      "answers": [
+        { "text": "P = U I", "correct": true },
+        { "text": "F = m a", "correct": false },
+        { "text": "E = m c²", "correct": false },
+        { "text": "E = ½ m v²", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi décrit la diffusion de la lumière dans l’atmosphère selon la longueur d’onde ?",
+      "answers": [
+        { "text": "Diffusion de Rayleigh", "correct": true },
+        { "text": "Réflexion totale", "correct": false },
+        { "text": "Loi de Snell", "correct": false },
+        { "text": "Effet Doppler", "correct": false }
       ]
     }
   ]

@@ -44,6 +44,141 @@
         { "text": "Pokémon Or et Argent", "correct": false },
         { "text": "Pokémon Rubis et Saphir", "correct": false }
       ]
+    },
+    {
+      "question": "Quel jeu de sport est célèbre pour son mode 'Ultimate Team' ?",
+      "answers": [
+        { "text": "FIFA", "correct": true },
+        { "text": "NBA 2K", "correct": false },
+        { "text": "Madden NFL", "correct": false },
+        { "text": "Pro Evolution Soccer", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel jeu peut-on construire et explorer des mondes virtuels ?",
+      "answers": [
+        { "text": "Minecraft", "correct": true },
+        { "text": "Roblox", "correct": false },
+        { "text": "Fortnite", "correct": false },
+        { "text": "Terraria", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu est centré sur les épreuves et obstacles dans une compétition télévisée ?",
+      "answers": [
+        { "text": "Fall Guys", "correct": true },
+        { "text": "Fortnite", "correct": false },
+        { "text": "Among Us", "correct": false },
+        { "text": "Apex Legends", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu de tir à la première personne a popularisé les 'battle royale' ?",
+      "answers": [
+        { "text": "Fortnite", "correct": true },
+        { "text": "Call of Duty", "correct": false },
+        { "text": "Overwatch", "correct": false },
+        { "text": "PUBG", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu de plateforme est célèbre pour ses niveaux colorés et ses power-ups ?",
+      "answers": [
+        { "text": "Super Mario Bros.", "correct": true },
+        { "text": "Sonic the Hedgehog", "correct": false },
+        { "text": "Rayman", "correct": false },
+        { "text": "Mega Man", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel jeu le personnage principal est Link ?",
+      "answers": [
+        { "text": "The Legend of Zelda", "correct": true },
+        { "text": "Final Fantasy", "correct": false },
+        { "text": "Dragon Quest", "correct": false },
+        { "text": "Metroid", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu consiste à résoudre des puzzles avec des blocs tombants ?",
+      "answers": [
+        { "text": "Tetris", "correct": true },
+        { "text": "Minecraft", "correct": false },
+        { "text": "Fortnite", "correct": false },
+        { "text": "Roblox", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu est connu pour son monde ouvert et ses quêtes épiques ?",
+      "answers": [
+        { "text": "The Witcher 3", "correct": true },
+        { "text": "Skyrim", "correct": false },
+        { "text": "Assassin’s Creed", "correct": false },
+        { "text": "Dragon Age", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo a popularisé le personnage de Lara Croft ?",
+      "answers": [
+        { "text": "Tomb Raider", "correct": true },
+        { "text": "Uncharted", "correct": false },
+        { "text": "Assassin’s Creed", "correct": false },
+        { "text": "Prince of Persia", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu est centré sur la capture de créatures pour les combattre ?",
+      "answers": [
+        { "text": "Pokémon", "correct": true },
+        { "text": "Digimon", "correct": false },
+        { "text": "Yo-Kai Watch", "correct": false },
+        { "text": "Monster Hunter", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo est connu pour sa survie en forêt avec construction d’abris ?",
+      "answers": [
+        { "text": "The Forest", "correct": true },
+        { "text": "Minecraft", "correct": false },
+        { "text": "Rust", "correct": false },
+        { "text": "Ark: Survival Evolved", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu de tir propose des batailles en ligne avec des héros aux compétences uniques ?",
+      "answers": [
+        { "text": "Overwatch", "correct": true },
+        { "text": "Team Fortress 2", "correct": false },
+        { "text": "Valorant", "correct": false },
+        { "text": "Paladins", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu mobile est connu pour attraper des créatures dans le monde réel ?",
+      "answers": [
+        { "text": "Pokémon Go", "correct": true },
+        { "text": "Ingress", "correct": false },
+        { "text": "Minecraft Earth", "correct": false },
+        { "text": "Harry Potter: Wizards Unite", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo est basé sur la stratégie et la gestion d’une ville ?",
+      "answers": [
+        { "text": "SimCity", "correct": true },
+        { "text": "Cities: Skylines", "correct": false },
+        { "text": "Civilization", "correct": false },
+        { "text": "Anno", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu d’action-aventure propose des batailles contre des monstres géants appelés Titans ?",
+      "answers": [
+        { "text": "Shadow of the Colossus", "correct": true },
+        { "text": "God of War", "correct": false },
+        { "text": "Monster Hunter", "correct": false },
+        { "text": "Dark Souls", "correct": false }
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         { "text": "Dragon Age", "correct": false },
         { "text": "Dark Souls", "correct": false }
       ]
+    },
+    {
+      "question": "Quel jeu de course a popularisé le personnage de Mario Kart ?",
+      "answers": [
+        { "text": "Mario Kart", "correct": true },
+        { "text": "Crash Team Racing", "correct": false },
+        { "text": "Sonic & All-Stars Racing", "correct": false },
+        { "text": "F-Zero", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu permet de construire et gérer un parc d’attractions ?",
+      "answers": [
+        { "text": "RollerCoaster Tycoon", "correct": true },
+        { "text": "Zoo Tycoon", "correct": false },
+        { "text": "SimCity", "correct": false },
+        { "text": "Planet Coaster", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu célèbre propose un monde post-apocalyptique avec des créatures mutantes ?",
+      "answers": [
+        { "text": "Fallout", "correct": true },
+        { "text": "Metro", "correct": false },
+        { "text": "S.T.A.L.K.E.R.", "correct": false },
+        { "text": "The Last of Us", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu a introduit le concept de 'Battle Pass' populaire dans les jeux modernes ?",
+      "answers": [
+        { "text": "Fortnite", "correct": true },
+        { "text": "Apex Legends", "correct": false },
+        { "text": "PUBG", "correct": false },
+        { "text": "Call of Duty: Warzone", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu permet de contrôler un gang et de voler des voitures dans une ville ouverte ?",
+      "answers": [
+        { "text": "GTA", "correct": true },
+        { "text": "Saints Row", "correct": false },
+        { "text": "Mafia", "correct": false },
+        { "text": "Watch Dogs", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo met en scène des personnages issus de différents univers Nintendo dans des combats ?",
+      "answers": [
+        { "text": "Super Smash Bros.", "correct": true },
+        { "text": "Brawlhalla", "correct": false },
+        { "text": "Mortal Kombat", "correct": false },
+        { "text": "Street Fighter", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu de stratégie en temps réel oppose des civilisations dans l’histoire ?",
+      "answers": [
+        { "text": "Age of Empires", "correct": true },
+        { "text": "Civilization", "correct": false },
+        { "text": "StarCraft", "correct": false },
+        { "text": "Total War", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo est basé sur un royaume de glace et de feu avec des dragons ?",
+      "answers": [
+        { "text": "Dragon Age", "correct": true },
+        { "text": "Skyrim", "correct": false },
+        { "text": "Dark Souls", "correct": false },
+        { "text": "The Witcher", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu a popularisé le personnage de Master Chief ?",
+      "answers": [
+        { "text": "Halo", "correct": true },
+        { "text": "Gears of War", "correct": false },
+        { "text": "Destiny", "correct": false },
+        { "text": "Doom", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu propose un monde ouvert et une ville appelée Los Santos ?",
+      "answers": [
+        { "text": "GTA V", "correct": true },
+        { "text": "Watch Dogs", "correct": false },
+        { "text": "Saints Row", "correct": false },
+        { "text": "Mafia III", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu met en scène un monde de blocs avec un mode survie et créatif ?",
+      "answers": [
+        { "text": "Minecraft", "correct": true },
+        { "text": "Roblox", "correct": false },
+        { "text": "Terraria", "correct": false },
+        { "text": "Fortnite", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo est centré sur des investigations et des enquêtes policières ?",
+      "answers": [
+        { "text": "L.A. Noire", "correct": true },
+        { "text": "Heavy Rain", "correct": false },
+        { "text": "Phoenix Wright", "correct": false },
+        { "text": "Judgment", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu propose de jouer en équipe avec des héros ayant des rôles uniques ?",
+      "answers": [
+        { "text": "Overwatch", "correct": true },
+        { "text": "Team Fortress 2", "correct": false },
+        { "text": "Paladins", "correct": false },
+        { "text": "Smite", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo se déroule dans un monde médiéval fantastique avec un dragon nommé Alduin ?",
+      "answers": [
+        { "text": "Skyrim", "correct": true },
+        { "text": "Dragon Age", "correct": false },
+        { "text": "The Witcher 3", "correct": false },
+        { "text": "Dark Souls", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel jeu peut-on explorer l’île de Hyrule et accomplir des quêtes avec Link ?",
+      "answers": [
+        { "text": "The Legend of Zelda: Breath of the Wild", "correct": true },
+        { "text": "The Legend of Zelda: Twilight Princess", "correct": false },
+        { "text": "Skyrim", "correct": false },
+        { "text": "Dragon Quest XI", "correct": false }
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         { "text": "Mega Man", "correct": false },
         { "text": "Castlevania", "correct": false },
         { "text": "Star Fox", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu indépendant met en scène un petit garçon dans un monde sombre et mystérieux ?",
+      "answers": [
+        { "text": "Limbo", "correct": true },
+        { "text": "Inside", "correct": false },
+        { "text": "Little Nightmares", "correct": false },
+        { "text": "Hollow Knight", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo a introduit le moteur physique ragdoll populaire dans les jeux modernes ?",
+      "answers": [
+        { "text": "Half-Life 2", "correct": true },
+        { "text": "Portal", "correct": false },
+        { "text": "Garry’s Mod", "correct": false },
+        { "text": "Team Fortress 2", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu met en scène la ville dystopique de Night City ?",
+      "answers": [
+        { "text": "Cyberpunk 2077", "correct": true },
+        { "text": "Deus Ex: Human Revolution", "correct": false },
+        { "text": "Observer", "correct": false },
+        { "text": "Shadowrun", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo propose un monde ouvert avec des dinosaures et des mécaniques de survie ?",
+      "answers": [
+        { "text": "Ark: Survival Evolved", "correct": true },
+        { "text": "The Forest", "correct": false },
+        { "text": "Minecraft", "correct": false },
+        { "text": "Rust", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu a été développé par CD Projekt Red et se déroule dans un univers cyberpunk ?",
+      "answers": [
+        { "text": "Cyberpunk 2077", "correct": true },
+        { "text": "The Witcher 3", "correct": false },
+        { "text": "Deus Ex", "correct": false },
+        { "text": "Shadowrun", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu indépendant se déroule dans un monde minimaliste et monochrome ?",
+      "answers": [
+        { "text": "Limbo", "correct": true },
+        { "text": "Inside", "correct": false },
+        { "text": "Hollow Knight", "correct": false },
+        { "text": "Little Nightmares", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo met en scène un détective dans un monde inspiré du film noir ?",
+      "answers": [
+        { "text": "L.A. Noire", "correct": true },
+        { "text": "Max Payne", "correct": false },
+        { "text": "Heavy Rain", "correct": false },
+        { "text": "Judgment", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu de stratégie en temps réel met en scène la guerre entre Protoss, Terran et Zerg ?",
+      "answers": [
+        { "text": "StarCraft", "correct": true },
+        { "text": "Warcraft III", "correct": false },
+        { "text": "Age of Empires", "correct": false },
+        { "text": "Command & Conquer", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo indépendant raconte l’histoire d’une fille explorant un monde cauchemardesque avec des puzzles ?",
+      "answers": [
+        { "text": "Little Nightmares", "correct": true },
+        { "text": "Inside", "correct": false },
+        { "text": "Limbo", "correct": false },
+        { "text": "Hollow Knight", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo a popularisé le système de combat basé sur l’endurance et la précision des coups ?",
+      "answers": [
+        { "text": "Dark Souls", "correct": true },
+        { "text": "Bloodborne", "correct": false },
+        { "text": "Sekiro", "correct": false },
+        { "text": "Nioh", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu se déroule dans l’univers de Westeros et combine RPG et stratégie ?",
+      "answers": [
+        { "text": "A Game of Thrones: Genesis", "correct": true },
+        { "text": "Total War: Game of Thrones", "correct": false },
+        { "text": "Dragon Age", "correct": false },
+        { "text": "The Witcher 3", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo met en scène un monde avec des mécanismes de portails et de physique ?",
+      "answers": [
+        { "text": "Portal", "correct": true },
+        { "text": "Half-Life 2", "correct": false },
+        { "text": "Quantum Conundrum", "correct": false },
+        { "text": "The Talos Principle", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu met en scène des batailles tactiques avec des unités médiévales et fantastiques ?",
+      "answers": [
+        { "text": "Total War: Warhammer", "correct": true },
+        { "text": "Age of Empires II", "correct": false },
+        { "text": "Heroes of Might and Magic", "correct": false },
+        { "text": "Civilization VI", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo se déroule dans l’espace et met l’accent sur l’exploration et la survie ?",
+      "answers": [
+        { "text": "No Man’s Sky", "correct": true },
+        { "text": "Elite Dangerous", "correct": false },
+        { "text": "Star Citizen", "correct": false },
+        { "text": "Mass Effect", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel jeu vidéo propose un monde ouvert avec des samouraïs et des combats réalistes ?",
+      "answers": [
+        { "text": "Ghost of Tsushima", "correct": true },
+        { "text": "Sekiro", "correct": false },
+        { "text": "Nioh", "correct": false },
+        { "text": "Total War: Shogun 2", "correct": false }
       ]
     }
   ]

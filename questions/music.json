@@ -44,6 +44,141 @@
         { "text": "Queen", "correct": false },
         { "text": "Pink Floyd", "correct": false }
       ]
+    },
+    {
+      "question": "Quel chanteur est surnommé 'The Boss' ?",
+      "answers": [
+        { "text": "Bruce Springsteen", "correct": true },
+        { "text": "Bob Dylan", "correct": false },
+        { "text": "Elton John", "correct": false },
+        { "text": "Paul McCartney", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel groupe a interprété 'Hotel California' ?",
+      "answers": [
+        { "text": "Eagles", "correct": true },
+        { "text": "The Doors", "correct": false },
+        { "text": "Aerosmith", "correct": false },
+        { "text": "Led Zeppelin", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument est souvent associé au jazz et est en cuivre ?",
+      "answers": [
+        { "text": "Trompette", "correct": true },
+        { "text": "Saxophone", "correct": false },
+        { "text": "Clarinette", "correct": false },
+        { "text": "Piano", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel artiste est célèbre pour le tube 'Thriller' ?",
+      "answers": [
+        { "text": "Michael Jackson", "correct": true },
+        { "text": "Prince", "correct": false },
+        { "text": "David Bowie", "correct": false },
+        { "text": "Elvis Presley", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel groupe a popularisé 'Stairway to Heaven' ?",
+      "answers": [
+        { "text": "Led Zeppelin", "correct": true },
+        { "text": "Pink Floyd", "correct": false },
+        { "text": "Queen", "correct": false },
+        { "text": "The Who", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument à vent est long et en métal, souvent utilisé dans les fanfares ?",
+      "answers": [
+        { "text": "Trombone", "correct": true },
+        { "text": "Flûte", "correct": false },
+        { "text": "Clarinette", "correct": false },
+        { "text": "Saxophone", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle chanteuse a popularisé 'Hello' ?",
+      "answers": [
+        { "text": "Adele", "correct": true },
+        { "text": "Taylor Swift", "correct": false },
+        { "text": "Beyoncé", "correct": false },
+        { "text": "Rihanna", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel groupe est célèbre pour la chanson 'Smoke on the Water' ?",
+      "answers": [
+        { "text": "Deep Purple", "correct": true },
+        { "text": "Queen", "correct": false },
+        { "text": "Led Zeppelin", "correct": false },
+        { "text": "The Rolling Stones", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument est à percussion et se joue avec des baguettes ?",
+      "answers": [
+        { "text": "Batterie", "correct": true },
+        { "text": "Piano", "correct": false },
+        { "text": "Guitare", "correct": false },
+        { "text": "Violon", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel artiste est surnommé 'The King' du rock'n'roll ?",
+      "answers": [
+        { "text": "Elvis Presley", "correct": true },
+        { "text": "Chuck Berry", "correct": false },
+        { "text": "Little Richard", "correct": false },
+        { "text": "Buddy Holly", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel groupe a chanté 'Imagine' ?",
+      "answers": [
+        { "text": "John Lennon", "correct": true },
+        { "text": "The Beatles", "correct": false },
+        { "text": "Paul McCartney", "correct": false },
+        { "text": "George Harrison", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument à cordes est souvent utilisé dans la musique country ?",
+      "answers": [
+        { "text": "Banjo", "correct": true },
+        { "text": "Guitare", "correct": false },
+        { "text": "Violoncelle", "correct": false },
+        { "text": "Violon", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle chanteuse est connue pour 'Someone Like You' ?",
+      "answers": [
+        { "text": "Adele", "correct": true },
+        { "text": "Katy Perry", "correct": false },
+        { "text": "Lady Gaga", "correct": false },
+        { "text": "Rihanna", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel groupe est célèbre pour 'We Will Rock You' ?",
+      "answers": [
+        { "text": "Queen", "correct": true },
+        { "text": "The Beatles", "correct": false },
+        { "text": "The Rolling Stones", "correct": false },
+        { "text": "Pink Floyd", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument de musique possède des touches blanches et noires ?",
+      "answers": [
+        { "text": "Piano", "correct": true },
+        { "text": "Guitare", "correct": false },
+        { "text": "Violon", "correct": false },
+        { "text": "Flûte", "correct": false }
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         { "text": "Frédéric Chopin", "correct": false },
         { "text": "Gustav Mahler", "correct": false }
       ]
+    },
+    {
+      "question": "Qui est le compositeur de 'Clair de Lune' ?",
+      "answers": [
+        { "text": "Claude Debussy", "correct": true },
+        { "text": "Maurice Ravel", "correct": false },
+        { "text": "Frédéric Chopin", "correct": false },
+        { "text": "Erik Satie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel musicien est célèbre pour la '5ème Symphonie' ?",
+      "answers": [
+        { "text": "Ludwig van Beethoven", "correct": true },
+        { "text": "Wolfgang Amadeus Mozart", "correct": false },
+        { "text": "Johann Sebastian Bach", "correct": false },
+        { "text": "Franz Schubert", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur est associé à 'La Flûte Enchantée' ?",
+      "answers": [
+        { "text": "Wolfgang Amadeus Mozart", "correct": true },
+        { "text": "Ludwig van Beethoven", "correct": false },
+        { "text": "Johann Strauss II", "correct": false },
+        { "text": "Franz Schubert", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument est utilisé dans le blues et le jazz et se joue à la bouche ?",
+      "answers": [
+        { "text": "Harmonica", "correct": true },
+        { "text": "Saxophone", "correct": false },
+        { "text": "Clarinette", "correct": false },
+        { "text": "Trompette", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est le compositeur de 'La Symphonie du Nouveau Monde' ?",
+      "answers": [
+        { "text": "Antonín Dvořák", "correct": true },
+        { "text": "Johannes Brahms", "correct": false },
+        { "text": "Gustav Mahler", "correct": false },
+        { "text": "Ludwig van Beethoven", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur romantique est connu pour ses Nocturnes ?",
+      "answers": [
+        { "text": "Frédéric Chopin", "correct": true },
+        { "text": "Franz Liszt", "correct": false },
+        { "text": "Robert Schumann", "correct": false },
+        { "text": "Johannes Brahms", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur allemand est célèbre pour 'Le Clavier Bien Tempéré' ?",
+      "answers": [
+        { "text": "Johann Sebastian Bach", "correct": true },
+        { "text": "Ludwig van Beethoven", "correct": false },
+        { "text": "Wolfgang Amadeus Mozart", "correct": false },
+        { "text": "Franz Schubert", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est le compositeur de l'opéra 'Carmen' ?",
+      "answers": [
+        { "text": "Georges Bizet", "correct": true },
+        { "text": "Giuseppe Verdi", "correct": false },
+        { "text": "Richard Wagner", "correct": false },
+        { "text": "Wolfgang Amadeus Mozart", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur est célèbre pour 'Boléro' ?",
+      "answers": [
+        { "text": "Maurice Ravel", "correct": true },
+        { "text": "Claude Debussy", "correct": false },
+        { "text": "Erik Satie", "correct": false },
+        { "text": "Camille Saint-Saëns", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur russe est célèbre pour 'Le Sacre du Printemps' ?",
+      "answers": [
+        { "text": "Igor Stravinsky", "correct": true },
+        { "text": "Piotr Ilitch Tchaïkovski", "correct": false },
+        { "text": "Sergei Rachmaninoff", "correct": false },
+        { "text": "Dmitri Chostakovitch", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur a écrit 'Concerto pour piano n°1 en si bémol mineur' ?",
+      "answers": [
+        { "text": "Piotr Ilitch Tchaïkovski", "correct": true },
+        { "text": "Sergei Rachmaninoff", "correct": false },
+        { "text": "Frédéric Chopin", "correct": false },
+        { "text": "Ludwig van Beethoven", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui a composé 'Les Quatre Saisons' ?",
+      "answers": [
+        { "text": "Antonio Vivaldi", "correct": true },
+        { "text": "Johann Sebastian Bach", "correct": false },
+        { "text": "Wolfgang Amadeus Mozart", "correct": false },
+        { "text": "Ludwig van Beethoven", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur autrichien est célèbre pour ses valses ?",
+      "answers": [
+        { "text": "Johann Strauss II", "correct": true },
+        { "text": "Franz Schubert", "correct": false },
+        { "text": "Wolfgang Amadeus Mozart", "correct": false },
+        { "text": "Ludwig van Beethoven", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est le compositeur de 'Symphonie fantastique' ?",
+      "answers": [
+        { "text": "Hector Berlioz", "correct": true },
+        { "text": "Franz Liszt", "correct": false },
+        { "text": "Robert Schumann", "correct": false },
+        { "text": "Johannes Brahms", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur français est célèbre pour 'Prélude à l'après-midi d'un faune' ?",
+      "answers": [
+        { "text": "Claude Debussy", "correct": true },
+        { "text": "Maurice Ravel", "correct": false },
+        { "text": "Erik Satie", "correct": false },
+        { "text": "Camille Saint-Saëns", "correct": false }
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         { "text": "Kraftwerk", "correct": false },
         { "text": "Vangelis", "correct": false },
         { "text": "Brian Eno", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur est célèbre pour 'Le Sacre du Printemps' ?",
+      "answers": [
+        { "text": "Igor Stravinsky", "correct": true },
+        { "text": "Dmitri Chostakovitch", "correct": false },
+        { "text": "Piotr Ilitch Tchaïkovski", "correct": false },
+        { "text": "Sergei Rachmaninoff", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est le compositeur de l'opéra 'Don Giovanni' ?",
+      "answers": [
+        { "text": "Wolfgang Amadeus Mozart", "correct": true },
+        { "text": "Giuseppe Verdi", "correct": false },
+        { "text": "Richard Wagner", "correct": false },
+        { "text": "Ludwig van Beethoven", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur a écrit 'Rhapsodie hongroise n°2' ?",
+      "answers": [
+        { "text": "Franz Liszt", "correct": true },
+        { "text": "Johannes Brahms", "correct": false },
+        { "text": "Frédéric Chopin", "correct": false },
+        { "text": "Robert Schumann", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est le compositeur de l'opéra 'La Flûte Enchantée' ?",
+      "answers": [
+        { "text": "Wolfgang Amadeus Mozart", "correct": true },
+        { "text": "Ludwig van Beethoven", "correct": false },
+        { "text": "Johann Strauss II", "correct": false },
+        { "text": "Franz Schubert", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur français est célèbre pour 'Daphnis et Chloé' ?",
+      "answers": [
+        { "text": "Maurice Ravel", "correct": true },
+        { "text": "Claude Debussy", "correct": false },
+        { "text": "Erik Satie", "correct": false },
+        { "text": "Camille Saint-Saëns", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur russe est célèbre pour 'Roméo et Juliette' ?",
+      "answers": [
+        { "text": "Sergei Prokofiev", "correct": true },
+        { "text": "Piotr Ilitch Tchaïkovski", "correct": false },
+        { "text": "Igor Stravinsky", "correct": false },
+        { "text": "Dmitri Chostakovitch", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur a écrit 'Rêverie' pour piano ?",
+      "answers": [
+        { "text": "Claude Debussy", "correct": true },
+        { "text": "Erik Satie", "correct": false },
+        { "text": "Maurice Ravel", "correct": false },
+        { "text": "Frédéric Chopin", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui a composé 'Concerto pour piano n°2' ?",
+      "answers": [
+        { "text": "Sergei Rachmaninoff", "correct": true },
+        { "text": "Piotr Ilitch Tchaïkovski", "correct": false },
+        { "text": "Ludwig van Beethoven", "correct": false },
+        { "text": "Wolfgang Amadeus Mozart", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur allemand est célèbre pour ses 'Variations Goldberg' ?",
+      "answers": [
+        { "text": "Johann Sebastian Bach", "correct": true },
+        { "text": "Ludwig van Beethoven", "correct": false },
+        { "text": "Wolfgang Amadeus Mozart", "correct": false },
+        { "text": "Franz Schubert", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur italien est célèbre pour 'La Traviata' ?",
+      "answers": [
+        { "text": "Giuseppe Verdi", "correct": true },
+        { "text": "Giacomo Puccini", "correct": false },
+        { "text": "Vincenzo Bellini", "correct": false },
+        { "text": "Gaetano Donizetti", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui a composé 'Peer Gynt' ?",
+      "answers": [
+        { "text": "Edvard Grieg", "correct": true },
+        { "text": "Jean Sibelius", "correct": false },
+        { "text": "Felix Mendelssohn", "correct": false },
+        { "text": "Richard Wagner", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur est célèbre pour 'Sinfonietta' ?",
+      "answers": [
+        { "text": "Leoš Janáček", "correct": true },
+        { "text": "Antonín Dvořák", "correct": false },
+        { "text": "Gustav Mahler", "correct": false },
+        { "text": "Béla Bartók", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur est connu pour 'Enigma Variations' ?",
+      "answers": [
+        { "text": "Edward Elgar", "correct": true },
+        { "text": "Gustav Holst", "correct": false },
+        { "text": "Ralph Vaughan Williams", "correct": false },
+        { "text": "Benjamin Britten", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est le compositeur de 'Pictures at an Exhibition' ?",
+      "answers": [
+        { "text": "Modest Mussorgsky", "correct": true },
+        { "text": "Sergei Rachmaninoff", "correct": false },
+        { "text": "Pyotr Ilyich Tchaikovsky", "correct": false },
+        { "text": "Nikolai Rimsky-Korsakov", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur italien est célèbre pour 'Turandot' ?",
+      "answers": [
+        { "text": "Giacomo Puccini", "correct": true },
+        { "text": "Giuseppe Verdi", "correct": false },
+        { "text": "Vincenzo Bellini", "correct": false },
+        { "text": "Gaetano Donizetti", "correct": false }
       ]
     }
   ]

@@ -44,6 +44,141 @@
         {"text": "macOS", "correct": false},
         {"text": "Android", "correct": false}
       ]
+    },
+    {
+      "question": "Quel périphérique permet d’afficher l’image sur un ordinateur ?",
+      "answers": [
+        {"text": "L’écran", "correct": true},
+        {"text": "Le clavier", "correct": false},
+        {"text": "La souris", "correct": false},
+        {"text": "L’imprimante", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel périphérique permet d’imprimer des documents ?",
+      "answers": [
+        {"text": "L’imprimante", "correct": true},
+        {"text": "Le scanner", "correct": false},
+        {"text": "La souris", "correct": false},
+        {"text": "Le disque dur", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel langage sert à structurer une page web ?",
+      "answers": [
+        {"text": "HTML", "correct": true},
+        {"text": "CSS", "correct": false},
+        {"text": "JavaScript", "correct": false},
+        {"text": "Python", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel composant est considéré comme le 'cerveau' de l’ordinateur ?",
+      "answers": [
+        {"text": "CPU", "correct": true},
+        {"text": "RAM", "correct": false},
+        {"text": "Disque dur", "correct": false},
+        {"text": "Carte graphique", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel périphérique est utilisé pour pointer et cliquer sur l’écran ?",
+      "answers": [
+        {"text": "La souris", "correct": true},
+        {"text": "Le clavier", "correct": false},
+        {"text": "L’écran tactile", "correct": false},
+        {"text": "Le pavé numérique", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel type de mémoire est temporaire et disparaît à l’extinction de l’ordinateur ?",
+      "answers": [
+        {"text": "RAM", "correct": true},
+        {"text": "ROM", "correct": false},
+        {"text": "Disque dur", "correct": false},
+        {"text": "SSD", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel langage sert à styliser les pages web ?",
+      "answers": [
+        {"text": "CSS", "correct": true},
+        {"text": "HTML", "correct": false},
+        {"text": "JavaScript", "correct": false},
+        {"text": "Python", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel périphérique permet de numériser des documents ou images ?",
+      "answers": [
+        {"text": "Scanner", "correct": true},
+        {"text": "Imprimante", "correct": false},
+        {"text": "Webcam", "correct": false},
+        {"text": "Clavier", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel élément stocke les données de manière permanente ?",
+      "answers": [
+        {"text": "Disque dur", "correct": true},
+        {"text": "RAM", "correct": false},
+        {"text": "Cache", "correct": false},
+        {"text": "ROM", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel composant gère l’affichage graphique ?",
+      "answers": [
+        {"text": "Carte graphique", "correct": true},
+        {"text": "CPU", "correct": false},
+        {"text": "RAM", "correct": false},
+        {"text": "ROM", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel périphérique permet de prendre des photos ou vidéos ?",
+      "answers": [
+        {"text": "Webcam", "correct": true},
+        {"text": "Scanner", "correct": false},
+        {"text": "Clavier", "correct": false},
+        {"text": "Écran", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel composant alimente l’ordinateur en énergie électrique ?",
+      "answers": [
+        {"text": "Alimentation", "correct": true},
+        {"text": "CPU", "correct": false},
+        {"text": "Carte mère", "correct": false},
+        {"text": "RAM", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel type de stockage est plus rapide que le disque dur ?",
+      "answers": [
+        {"text": "SSD", "correct": true},
+        {"text": "CD-ROM", "correct": false},
+        {"text": "DVD", "correct": false},
+        {"text": "Disquette", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel périphérique permet de lire des CD ou DVD ?",
+      "answers": [
+        {"text": "Lecteur optique", "correct": true},
+        {"text": "Clé USB", "correct": false},
+        {"text": "Disque dur", "correct": false},
+        {"text": "Carte mère", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel langage est utilisé pour la programmation côté serveur sur le web ?",
+      "answers": [
+        {"text": "PHP", "correct": true},
+        {"text": "CSS", "correct": false},
+        {"text": "HTML", "correct": false},
+        {"text": "JavaScript", "correct": false}
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         {"text": "SMTP", "correct": false},
         {"text": "IPSec", "correct": false}
       ]
+    },
+    {
+      "question": "Quel langage de programmation est le plus utilisé pour l’intelligence artificielle ?",
+      "answers": [
+        {"text": "Python", "correct": true},
+        {"text": "Java", "correct": false},
+        {"text": "C#", "correct": false},
+        {"text": "Ruby", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel protocole est utilisé pour envoyer des emails ?",
+      "answers": [
+        {"text": "SMTP", "correct": true},
+        {"text": "HTTP", "correct": false},
+        {"text": "FTP", "correct": false},
+        {"text": "DNS", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel composant permet de connecter un ordinateur à Internet ?",
+      "answers": [
+        {"text": "Carte réseau", "correct": true},
+        {"text": "Carte graphique", "correct": false},
+        {"text": "RAM", "correct": false},
+        {"text": "CPU", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel langage de programmation est utilisé pour créer des applications Android ?",
+      "answers": [
+        {"text": "Java", "correct": true},
+        {"text": "C++", "correct": false},
+        {"text": "Python", "correct": false},
+        {"text": "Swift", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel type de réseau couvre une zone géographique étendue ?",
+      "answers": [
+        {"text": "WAN", "correct": true},
+        {"text": "LAN", "correct": false},
+        {"text": "PAN", "correct": false},
+        {"text": "MAN", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la fonction principale d’un système d’exploitation ?",
+      "answers": [
+        {"text": "Gérer le matériel et les logiciels", "correct": true},
+        {"text": "Éditer des documents", "correct": false},
+        {"text": "Surfer sur Internet", "correct": false},
+        {"text": "Créer des graphiques", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel langage de programmation est interprété et non compilé ?",
+      "answers": [
+        {"text": "Python", "correct": true},
+        {"text": "C++", "correct": false},
+        {"text": "Java", "correct": false},
+        {"text": "C#", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel protocole est utilisé pour transférer des fichiers sur Internet ?",
+      "answers": [
+        {"text": "FTP", "correct": true},
+        {"text": "HTTP", "correct": false},
+        {"text": "SMTP", "correct": false},
+        {"text": "IMAP", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel outil permet de gérer des versions de code source ?",
+      "answers": [
+        {"text": "Git", "correct": true},
+        {"text": "Docker", "correct": false},
+        {"text": "Jenkins", "correct": false},
+        {"text": "Visual Studio", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel langage de balisage est utilisé pour structurer un document XML ?",
+      "answers": [
+        {"text": "XML", "correct": true},
+        {"text": "HTML", "correct": false},
+        {"text": "CSS", "correct": false},
+        {"text": "JSON", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel protocole est utilisé pour sécuriser les communications web avec un certificat ?",
+      "answers": [
+        {"text": "HTTPS", "correct": true},
+        {"text": "HTTP", "correct": false},
+        {"text": "FTP", "correct": false},
+        {"text": "SMTP", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel langage est principalement utilisé pour créer des pages web dynamiques côté serveur ?",
+      "answers": [
+        {"text": "PHP", "correct": true},
+        {"text": "HTML", "correct": false},
+        {"text": "CSS", "correct": false},
+        {"text": "JavaScript", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel composant mémoire conserve les instructions essentielles au démarrage de l’ordinateur ?",
+      "answers": [
+        {"text": "ROM", "correct": true},
+        {"text": "RAM", "correct": false},
+        {"text": "Cache", "correct": false},
+        {"text": "SSD", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel langage est utilisé pour programmer les microcontrôleurs Arduino ?",
+      "answers": [
+        {"text": "C/C++", "correct": true},
+        {"text": "Python", "correct": false},
+        {"text": "Java", "correct": false},
+        {"text": "Ruby", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel protocole permet de résoudre les noms de domaine en adresses IP ?",
+      "answers": [
+        {"text": "DNS", "correct": true},
+        {"text": "HTTP", "correct": false},
+        {"text": "FTP", "correct": false},
+        {"text": "SMTP", "correct": false}
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         {"text": "Automated Program Integration", "correct": false},
         {"text": "Application Process Identifier", "correct": false},
         {"text": "Advanced Programming Input", "correct": false}
+      ]
+    },
+    {
+      "question": "Qu'est-ce qu'une machine virtuelle ?",
+      "answers": [
+        {"text": "Un environnement logiciel qui simule un ordinateur physique", "correct": true},
+        {"text": "Un ordinateur distant", "correct": false},
+        {"text": "Un type de microprocesseur", "correct": false},
+        {"text": "Un périphérique réseau", "correct": false}
+      ]
+    },
+    {
+      "question": "Qu'est-ce que le cloud computing ?",
+      "answers": [
+        {"text": "Utilisation de ressources informatiques via Internet", "correct": true},
+        {"text": "Stockage local sur disque dur", "correct": false},
+        {"text": "Un type de processeur", "correct": false},
+        {"text": "Un langage de programmation", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la différence principale entre IPv4 et IPv6 ?",
+      "answers": [
+        {"text": "IPv6 utilise des adresses plus longues que IPv4", "correct": true},
+        {"text": "IPv4 est sécurisé et IPv6 non", "correct": false},
+        {"text": "IPv6 est pour le Wi-Fi et IPv4 pour le filaire", "correct": false},
+        {"text": "IPv4 est plus récent que IPv6", "correct": false}
+      ]
+    },
+    {
+      "question": "Qu'est-ce qu'un serveur DNS ?",
+      "answers": [
+        {"text": "Un serveur qui traduit les noms de domaine en adresses IP", "correct": true},
+        {"text": "Un serveur qui stocke des fichiers", "correct": false},
+        {"text": "Un serveur qui héberge des emails", "correct": false},
+        {"text": "Un serveur de jeu en ligne", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le rôle d’un système de gestion de version ?",
+      "answers": [
+        {"text": "Suivre et gérer les modifications du code source", "correct": true},
+        {"text": "Améliorer la vitesse du processeur", "correct": false},
+        {"text": "Sécuriser le réseau", "correct": false},
+        {"text": "Compiler le code", "correct": false}
+      ]
+    },
+    {
+      "question": "Qu'est-ce qu'une architecture client-serveur ?",
+      "answers": [
+        {"text": "Une architecture où un client demande des services à un serveur", "correct": true},
+        {"text": "Un type de logiciel antivirus", "correct": false},
+        {"text": "Un protocole de communication web", "correct": false},
+        {"text": "Une méthode de stockage local", "correct": false}
+      ]
+    },
+    {
+      "question": "Qu'est-ce que le DevOps ?",
+      "answers": [
+        {"text": "Une méthodologie combinant développement et opérations IT", "correct": true},
+        {"text": "Un langage de programmation", "correct": false},
+        {"text": "Un système d’exploitation", "correct": false},
+        {"text": "Une base de données", "correct": false}
+      ]
+    },
+    {
+      "question": "Qu'est-ce qu'un réseau peer-to-peer (P2P) ?",
+      "answers": [
+        {"text": "Un réseau où chaque ordinateur peut agir comme client et serveur", "correct": true},
+        {"text": "Un réseau centralisé", "correct": false},
+        {"text": "Un type de serveur web", "correct": false},
+        {"text": "Un protocole de sécurité", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel type de base de données est NoSQL ?",
+      "answers": [
+        {"text": "Base de données non relationnelle", "correct": true},
+        {"text": "Base de données relationnelle", "correct": false},
+        {"text": "Base de données locale", "correct": false},
+        {"text": "Base de données textuelle", "correct": false}
+      ]
+    },
+    {
+      "question": "Qu’est-ce que la virtualisation ?",
+      "answers": [
+        {"text": "Création d’environnements virtuels simulant du matériel physique", "correct": true},
+        {"text": "Augmentation de la RAM physique", "correct": false},
+        {"text": "Installation de logiciels antivirus", "correct": false},
+        {"text": "Compression de fichiers", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le rôle d’un protocole HTTPS ?",
+      "answers": [
+        {"text": "Sécuriser la communication entre le client et le serveur", "correct": true},
+        {"text": "Transférer des fichiers", "correct": false},
+        {"text": "Gérer les emails", "correct": false},
+        {"text": "Compiler le code", "correct": false}
+      ]
+    },
+    {
+      "question": "Qu'est-ce que l’IoT (Internet of Things) ?",
+      "answers": [
+        {"text": "Objets connectés communiquant via Internet", "correct": true},
+        {"text": "Un langage de programmation", "correct": false},
+        {"text": "Un type de serveur", "correct": false},
+        {"text": "Un protocole réseau", "correct": false}
+      ]
+    },
+    {
+      "question": "Qu'est-ce qu'un CDN (Content Delivery Network) ?",
+      "answers": [
+        {"text": "Un réseau distribué pour délivrer du contenu rapidement", "correct": true},
+        {"text": "Un serveur unique pour héberger des sites web", "correct": false},
+        {"text": "Un logiciel antivirus", "correct": false},
+        {"text": "Un langage de balisage", "correct": false}
+      ]
+    },
+    {
+      "question": "Qu'est-ce que la blockchain ?",
+      "answers": [
+        {"text": "Une chaîne de blocs contenant des transactions sécurisées", "correct": true},
+        {"text": "Un type de base de données locale", "correct": false},
+        {"text": "Un protocole réseau", "correct": false},
+        {"text": "Un langage de programmation", "correct": false}
+      ]
+    },
+    {
+      "question": "En cybersécurité, que signifie le terme 'phishing' ?",
+      "answers": [
+        {"text": "Une tentative de fraude par usurpation d’identité en ligne", "correct": true},
+        {"text": "Un virus qui détruit les fichiers", "correct": false},
+        {"text": "Une méthode de cryptage des données", "correct": false},
+        {"text": "Un protocole de transfert sécurisé", "correct": false}
       ]
     }
   ]

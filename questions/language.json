@@ -44,9 +44,143 @@
         { "text": "Hallo", "correct": false },
         { "text": "Tschüss", "correct": false }
       ]
+    },
+    {
+      "question": "Quelle langue est parlée principalement en Italie ?",
+      "answers": [
+        { "text": "L’italien", "correct": true },
+        { "text": "Le français", "correct": false },
+        { "text": "L’espagnol", "correct": false },
+        { "text": "Le portugais", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le mot anglais pour 'maison' ?",
+      "answers": [
+        { "text": "House", "correct": true },
+        { "text": "Home", "correct": false },
+        { "text": "Hut", "correct": false },
+        { "text": "Room", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment dit-on 'au revoir' en français ?",
+      "answers": [
+        { "text": "Au revoir", "correct": true },
+        { "text": "Bonjour", "correct": false },
+        { "text": "Merci", "correct": false },
+        { "text": "Salut", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée en Égypte principalement ?",
+      "answers": [
+        { "text": "L’arabe", "correct": true },
+        { "text": "Le français", "correct": false },
+        { "text": "Le turc", "correct": false },
+        { "text": "L’anglais", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée en Inde en majorité ?",
+      "answers": [
+        { "text": "L’hindi", "correct": true },
+        { "text": "Le bengali", "correct": false },
+        { "text": "Le tamoul", "correct": false },
+        { "text": "Le pendjabi", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment dit-on 'oui' en espagnol ?",
+      "answers": [
+        { "text": "Sí", "correct": true },
+        { "text": "No", "correct": false },
+        { "text": "Oui", "correct": false },
+        { "text": "Ja", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée au Canada principalement ?",
+      "answers": [
+        { "text": "Le français et l’anglais", "correct": true },
+        { "text": "L’espagnol", "correct": false },
+        { "text": "Le portugais", "correct": false },
+        { "text": "L’italien", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée au Japon ?",
+      "answers": [
+        { "text": "Le japonais", "correct": true },
+        { "text": "Le chinois", "correct": false },
+        { "text": "Le coréen", "correct": false },
+        { "text": "Le vietnamien", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment dit-on 'père' en anglais ?",
+      "answers": [
+        { "text": "Father", "correct": true },
+        { "text": "Mother", "correct": false },
+        { "text": "Brother", "correct": false },
+        { "text": "Son", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est utilisée pour le Coran ?",
+      "answers": [
+        { "text": "L’arabe", "correct": true },
+        { "text": "Le persan", "correct": false },
+        { "text": "Le turc", "correct": false },
+        { "text": "L’ourdou", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment dit-on 'chat' en anglais ?",
+      "answers": [
+        { "text": "Cat", "correct": true },
+        { "text": "Dog", "correct": false },
+        { "text": "Horse", "correct": false },
+        { "text": "Bird", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée en Turquie ?",
+      "answers": [
+        { "text": "Le turc", "correct": true },
+        { "text": "Le grec", "correct": false },
+        { "text": "L’arabe", "correct": false },
+        { "text": "Le kurde", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue utilise l’alphabet grec ?",
+      "answers": [
+        { "text": "Le grec", "correct": true },
+        { "text": "Le latin", "correct": false },
+        { "text": "Le cyrillique", "correct": false },
+        { "text": "Le arabe", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment dit-on 'merci' en espagnol ?",
+      "answers": [
+        { "text": "Gracias", "correct": true },
+        { "text": "Por favor", "correct": false },
+        { "text": "Hola", "correct": false },
+        { "text": "Adiós", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée en Corée du Sud ?",
+      "answers": [
+        { "text": "Le coréen", "correct": true },
+        { "text": "Le chinois", "correct": false },
+        { "text": "Le japonais", "correct": false },
+        { "text": "Le vietnamien", "correct": false }
+      ]
     }
   ],
-
   "moyen": [
     {
       "question": "Quelle langue est à l’origine du mot 'alphabet' ?",
@@ -92,9 +226,143 @@
         { "text": "Le brabançon", "correct": false },
         { "text": "Le picard", "correct": false }
       ]
+    },
+    {
+      "question": "Quelle langue est parlée principalement en Norvège ?",
+      "answers": [
+        { "text": "Le norvégien", "correct": true },
+        { "text": "Le suédois", "correct": false },
+        { "text": "Le danois", "correct": false },
+        { "text": "Le finnois", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays utilise le finnois comme langue officielle ?",
+      "answers": [
+        { "text": "Finlande", "correct": true },
+        { "text": "Suède", "correct": false },
+        { "text": "Norvège", "correct": false },
+        { "text": "Estonie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée au Sri Lanka ?",
+      "answers": [
+        { "text": "Le cinghalais", "correct": true },
+        { "text": "Le tamoul", "correct": false },
+        { "text": "Le hindi", "correct": false },
+        { "text": "L’ourdou", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a l’anglais et le français comme langues officielles ?",
+      "answers": [
+        { "text": "Canada", "correct": true },
+        { "text": "États-Unis", "correct": false },
+        { "text": "Royaume-Uni", "correct": false },
+        { "text": "Australie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée en Éthiopie principalement ?",
+      "answers": [
+        { "text": "L’amharique", "correct": true },
+        { "text": "L’arabe", "correct": false },
+        { "text": "Le swahili", "correct": false },
+        { "text": "Le somali", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée en Islande ?",
+      "answers": [
+        { "text": "L’islandais", "correct": true },
+        { "text": "Le norvégien", "correct": false },
+        { "text": "Le suédois", "correct": false },
+        { "text": "Le danois", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée en Thaïlande ?",
+      "answers": [
+        { "text": "Le thaï", "correct": true },
+        { "text": "Le lao", "correct": false },
+        { "text": "Le cambodgien", "correct": false },
+        { "text": "Le birman", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée au Vietnam ?",
+      "answers": [
+        { "text": "Le vietnamien", "correct": true },
+        { "text": "Le lao", "correct": false },
+        { "text": "Le chinois", "correct": false },
+        { "text": "Le thaï", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a le plus de dialectes arabes ?",
+      "answers": [
+        { "text": "Égypte", "correct": true },
+        { "text": "Maroc", "correct": false },
+        { "text": "Irak", "correct": false },
+        { "text": "Liban", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée en Arménie ?",
+      "answers": [
+        { "text": "L’arménien", "correct": true },
+        { "text": "Le géorgien", "correct": false },
+        { "text": "L’azéri", "correct": false },
+        { "text": "Le kurde", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée en Géorgie ?",
+      "answers": [
+        { "text": "Le géorgien", "correct": true },
+        { "text": "Le russe", "correct": false },
+        { "text": "L’arménien", "correct": false },
+        { "text": "Le turc", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée au Luxembourg principalement ?",
+      "answers": [
+        { "text": "Le luxembourgeois", "correct": true },
+        { "text": "Le français", "correct": false },
+        { "text": "L’allemand", "correct": false },
+        { "text": "Le néerlandais", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée à Malte ?",
+      "answers": [
+        { "text": "Le maltais", "correct": true },
+        { "text": "Le sicilien", "correct": false },
+        { "text": "Le français", "correct": false },
+        { "text": "L’anglais", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée en Azerbaïdjan ?",
+      "answers": [
+        { "text": "L’azéri", "correct": true },
+        { "text": "Le turc", "correct": false },
+        { "text": "Le russe", "correct": false },
+        { "text": "Le persan", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée au Népal principalement ?",
+      "answers": [
+        { "text": "Le népalais", "correct": true },
+        { "text": "Le tibétain", "correct": false },
+        { "text": "Le hindi", "correct": false },
+        { "text": "Le dzongkha", "correct": false }
+      ]
     }
   ],
-
   "difficile": [
     {
       "question": "Combien de cas grammaticaux possède la langue allemande ?",
@@ -140,6 +408,142 @@
         { "text": "Le grec", "correct": false },
         { "text": "Le thaï", "correct": false }
       ]
+    },
+    {
+      "question": "Combien de lettres comporte l’alphabet grec ?",
+      "answers": [
+        { "text": "24", "correct": true },
+        { "text": "26", "correct": false },
+        { "text": "22", "correct": false },
+        { "text": "30", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’alphabet utilisé en Arménie ?",
+      "answers": [
+        { "text": "Alphabet arménien", "correct": true },
+        { "text": "Cyrillique", "correct": false },
+        { "text": "Latin", "correct": false },
+        { "text": "Géorgien", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue ancienne a donné naissance à l’hébreu et à l’araméen ?",
+      "answers": [
+        { "text": "L’ougaritique", "correct": true },
+        { "text": "Le sumérien", "correct": false },
+        { "text": "L’akkadien", "correct": false },
+        { "text": "Le phénicien", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue utilise l’écriture devanagari ?",
+      "answers": [
+        { "text": "Le hindi", "correct": true },
+        { "text": "Le tamoul", "correct": false },
+        { "text": "Le bengali", "correct": false },
+        { "text": "Le marathi", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nombre de phonèmes en langue française standard ?",
+      "answers": [
+        { "text": "36", "correct": true },
+        { "text": "30", "correct": false },
+        { "text": "40", "correct": false },
+        { "text": "32", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est considérée comme agglutinante parmi les suivantes ?",
+      "answers": [
+        { "text": "Le turc", "correct": true },
+        { "text": "Le français", "correct": false },
+        { "text": "L’anglais", "correct": false },
+        { "text": "Le russe", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue possède le plus grand nombre de lettres dans son alphabet officiel ?",
+      "answers": [
+        { "text": "Le khmer", "correct": true },
+        { "text": "Le russe", "correct": false },
+        { "text": "Le grec", "correct": false },
+        { "text": "Le vietnamien", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est tonale parmi les suivantes ?",
+      "answers": [
+        { "text": "Le mandarin", "correct": true },
+        { "text": "L’espagnol", "correct": false },
+        { "text": "Le français", "correct": false },
+        { "text": "L’allemand", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est la plus parlée en Afrique de l’Ouest ?",
+      "answers": [
+        { "text": "Le français", "correct": true },
+        { "text": "L’anglais", "correct": false },
+        { "text": "Le portugais", "correct": false },
+        { "text": "L’arabe", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue utilise l’écriture hangul ?",
+      "answers": [
+        { "text": "Le coréen", "correct": true },
+        { "text": "Le japonais", "correct": false },
+        { "text": "Le chinois", "correct": false },
+        { "text": "Le vietnamien", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue ancienne a influencé le latin classique ?",
+      "answers": [
+        { "text": "Le grec ancien", "correct": true },
+        { "text": "Le sumérien", "correct": false },
+        { "text": "L’araméen", "correct": false },
+        { "text": "Le phénicien", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue est parlée en Lettonie ?",
+      "answers": [
+        { "text": "Le letton", "correct": true },
+        { "text": "Le lituanien", "correct": false },
+        { "text": "Le russe", "correct": false },
+        { "text": "Le finnois", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue possède un système d’écriture syllabique appelé 'kana' ?",
+      "answers": [
+        { "text": "Le japonais", "correct": true },
+        { "text": "Le chinois", "correct": false },
+        { "text": "Le coréen", "correct": false },
+        { "text": "Le vietnamien", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle langue utilise des caractères appelés 'abjad' ?",
+      "answers": [
+        { "text": "L’arabe", "correct": true },
+        { "text": "Le chinois", "correct": false },
+        { "text": "Le grec", "correct": false },
+        { "text": "Le latin", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel alphabet a été utilisé dans l’Égypte ancienne ?",
+      "answers": [
+        { "text": "Hiéroglyphes", "correct": true },
+        { "text": "Cyrillique", "correct": false },
+        { "text": "Latin", "correct": false },
+        { "text": "Grec", "correct": false }
+      ]
     }
   ]
 }
+

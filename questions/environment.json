@@ -44,6 +44,141 @@
         { "text": "Chat", "correct": false },
         { "text": "Cheval", "correct": false }
       ]
+    },
+    {
+      "question": "Quel geste simple aide à réduire la consommation d'eau domestique ?",
+      "answers": [
+        { "text": "Fermer le robinet pendant le brossage des dents", "correct": true },
+        { "text": "Laisser le robinet ouvert", "correct": false },
+        { "text": "Arroser le jardin en pleine journée", "correct": false },
+        { "text": "Prendre plusieurs douches longues", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel moyen de transport est le plus écologique pour de courts trajets ?",
+      "answers": [
+        { "text": "Le vélo", "correct": true },
+        { "text": "La voiture", "correct": false },
+        { "text": "La moto", "correct": false },
+        { "text": "L'avion", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel déchet ne doit pas être jeté dans la poubelle ordinaire et doit être collecté séparément ?",
+      "answers": [
+        { "text": "Les piles et batteries", "correct": true },
+        { "text": "Les épluchures de légumes", "correct": false },
+        { "text": "Le carton sec", "correct": false },
+        { "text": "Les mouchoirs en papier", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle pratique réduit la quantité de déchets plastiques à usage unique ?",
+      "answers": [
+        { "text": "Utiliser des objets réutilisables (bouteille, sac, etc.)", "correct": true },
+        { "text": "Acheter plus d'emballages", "correct": false },
+        { "text": "Jeter le plastique dans la nature", "correct": false },
+        { "text": "Brûler les plastiques", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel aliment est obtenu par fermentation du lait ?",
+      "answers": [
+        { "text": "Yaourt", "correct": true },
+        { "text": "Huile", "correct": false },
+        { "text": "Sucre", "correct": false },
+        { "text": "Sel", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle action aide à préserver la biodiversité locale ?",
+      "answers": [
+        { "text": "Planter des espèces locales et protéger les habitats", "correct": true },
+        { "text": "Introduire des espèces exotiques sans contrôle", "correct": false },
+        { "text": "Couper tous les arbres", "correct": false },
+        { "text": "Remplacer les zones vertes par du bitume", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène est lié à la fonte des glaces polaires ?",
+      "answers": [
+        { "text": "Élévation du niveau de la mer", "correct": true },
+        { "text": "Diminution des précipitations mondiales", "correct": false },
+        { "text": "Augmentation des volcans", "correct": false },
+        { "text": "Formation de nouveaux océans", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle ressource couvre environ 70 % de la surface de la Terre ?",
+      "answers": [
+        { "text": "L'eau", "correct": true },
+        { "text": "Les forêts", "correct": false },
+        { "text": "Les déserts", "correct": false },
+        { "text": "Les montagnes", "correct": false }
+      ]
+    },
+    {
+      "question": "Que signifie le tri sélectif ?",
+      "answers": [
+        { "text": "Séparer les déchets recyclables des autres pour valorisation", "correct": true },
+        { "text": "Brûler les déchets recyclables", "correct": false },
+        { "text": "Jeter tout dans la même poubelle", "correct": false },
+        { "text": "Enterrer systématiquement les déchets", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l'avantage principal des panneaux solaires domestiques ?",
+      "answers": [
+        { "text": "Produire de l'électricité sans émissions directes de CO2", "correct": true },
+        { "text": "Augmenter la consommation d'eau", "correct": false },
+        { "text": "Produire du pétrole", "correct": false },
+        { "text": "Augmenter les émissions de gaz à effet de serre", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel organisme effectue la photosynthèse ?",
+      "answers": [
+        { "text": "Les plantes", "correct": true },
+        { "text": "Les roches", "correct": false },
+        { "text": "Les animaux", "correct": false },
+        { "text": "Les virus", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type d'énergie est produit par le mouvement de l'eau en hauteur (ex : barrages) ?",
+      "answers": [
+        { "text": "Hydroélectricité", "correct": true },
+        { "text": "Énergie thermique", "correct": false },
+        { "text": "Biomasse", "correct": false },
+        { "text": "Énergie fossile", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel geste domestique réduit la consommation d'électricité ?",
+      "answers": [
+        { "text": "Éteindre les appareils et lumières inutiles", "correct": true },
+        { "text": "Laisser les appareils en veille", "correct": false },
+        { "text": "Brancher toujours plus d'appareils", "correct": false },
+        { "text": "Garder le chauffage au maximum", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel habitat naturel est essentiel pour filtrer l'eau et protéger des inondations ?",
+      "answers": [
+        { "text": "Les zones humides (marais, tourbières)", "correct": true },
+        { "text": "Les déserts", "correct": false },
+        { "text": "Les glaciers", "correct": false },
+        { "text": "Les zones urbaines", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel produit ménager est préférable pour l'environnement ?",
+      "answers": [
+        { "text": "Produits biodégradables et écolabellisés", "correct": true },
+        { "text": "Solvants industriels non traités", "correct": false },
+        { "text": "Détergents toxiques sans étiquette", "correct": false },
+        { "text": "Produits non biodégradables", "correct": false }
+      ]
     }
   ],
   "moyen": [
@@ -57,39 +192,174 @@
       ]
     },
     {
-      "question": "Quelle couche de la Terre protège des rayons UV du Soleil ?",
+      "question": "Quelle couche de l'atmosphère contient la majeure partie de l'ozone protectrice ?",
       "answers": [
-        { "text": "Ozone", "correct": true },
+        { "text": "Stratosphère", "correct": true },
         { "text": "Troposphère", "correct": false },
-        { "text": "Stratosphère", "correct": false },
-        { "text": "Lithosphère", "correct": false }
+        { "text": "Mésosphère", "correct": false },
+        { "text": "Thermosphère", "correct": false }
       ]
     },
     {
-      "question": "Quel type de pollution est principalement causé par les voitures et les usines ?",
+      "question": "Quel type de pollution est principalement causé par les véhicules et les usines ?",
       "answers": [
-        { "text": "Pollution de l’air", "correct": true },
-        { "text": "Pollution de l’eau", "correct": false },
+        { "text": "Pollution de l'air", "correct": true },
         { "text": "Pollution sonore", "correct": false },
-        { "text": "Pollution lumineuse", "correct": false }
+        { "text": "Pollution lumineuse", "correct": false },
+        { "text": "Pollution plastique", "correct": false }
       ]
     },
     {
-      "question": "Quel pays est le plus grand émetteur de CO2 actuellement ?",
+      "question": "Quelle pratique agricole contribue à maintenir la qualité des sols et limiter l'érosion ?",
       "answers": [
-        { "text": "Chine", "correct": true },
-        { "text": "États-Unis", "correct": false },
-        { "text": "Inde", "correct": false },
-        { "text": "Russie", "correct": false }
+        { "text": "Rotation des cultures", "correct": true },
+        { "text": "Monoculture intensive", "correct": false },
+        { "text": "Brûlis", "correct": false },
+        { "text": "Déforestation", "correct": false }
       ]
     },
     {
-      "question": "Quel est le principal gaz émis par les volcans ?",
+      "question": "Que mesure l'empreinte carbone d'une personne ou d'une activité ?",
       "answers": [
-        { "text": "Vapeur d’eau", "correct": true },
-        { "text": "Dioxyde de carbone", "correct": false },
-        { "text": "Méthane", "correct": false },
-        { "text": "Oxygène", "correct": false }
+        { "text": "La quantité de gaz à effet de serre émise (en équivalent CO2)", "correct": true },
+        { "text": "La quantité d'eau consommée", "correct": false },
+        { "text": "Le bilan économique", "correct": false },
+        { "text": "La biodiversité locale", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle organisation internationale publie des rapports scientifiques sur le climat ?",
+      "answers": [
+        { "text": "GIEC / IPCC", "correct": true },
+        { "text": "OTAN", "correct": false },
+        { "text": "FIFA", "correct": false },
+        { "text": "OMC", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que l'eutrophisation d'un lac ?",
+      "answers": [
+        { "text": "Enrichissement excessif en nutriments provoquant des proliférations d'algues", "correct": true },
+        { "text": "Baisse naturelle du niveau de l'eau", "correct": false },
+        { "text": "Augmentation du sel", "correct": false },
+        { "text": "Refroidissement soudain de l'eau", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel élément nutritif est souvent à l'origine de l'eutrophisation lorsqu'il est en excès ?",
+      "answers": [
+        { "text": "Azote et phosphore", "correct": true },
+        { "text": "Carbone uniquement", "correct": false },
+        { "text": "Potassium uniquement", "correct": false },
+        { "text": "Oxygène uniquement", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel indice est utilisé pour mesurer la qualité de l'air en termes de particules fines ?",
+      "answers": [
+        { "text": "PM2.5", "correct": true },
+        { "text": "pH", "correct": false },
+        { "text": "BOD", "correct": false },
+        { "text": "dB", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce qu'une espèce invasive ?",
+      "answers": [
+        { "text": "Une espèce introduite qui se propage et cause des dommages à l'environnement local", "correct": true },
+        { "text": "Une espèce endémique protégée", "correct": false },
+        { "text": "Une espèce en voie d'extinction", "correct": false },
+        { "text": "Une espèce uniquement aquatique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’intérêt de l'agroforesterie ?",
+      "answers": [
+        { "text": "Associer arbres et cultures pour améliorer la biodiversité et la fertilité du sol", "correct": true },
+        { "text": "Remplacer toutes les cultures par des arbres fruitiers", "correct": false },
+        { "text": "Augmenter l'usage de pesticides", "correct": false },
+        { "text": "Abattre les forêts pour créer des champs", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz est un puissant gaz à effet de serre mais présent en plus faible quantité que le CO2 ?",
+      "answers": [
+        { "text": "Méthane (CH4)", "correct": true },
+        { "text": "Argon (Ar)", "correct": false },
+        { "text": "Hélium (He)", "correct": false },
+        { "text": "Oxygène (O2)", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel protocole visait la réduction des émissions d'ozone destructeur (CFC) ?",
+      "answers": [
+        { "text": "Protocole de Montréal", "correct": true },
+        { "text": "Protocole de Kyoto", "correct": false },
+        { "text": "Accord de Paris", "correct": false },
+        { "text": "Convention de Ramsar", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle fonction assurée par les écosystèmes est essentielle pour l'agriculture (pollinisation, limitation des ravageurs, fertilité) ?",
+      "answers": [
+        { "text": "Services écosystémiques", "correct": true },
+        { "text": "Services financiers", "correct": false },
+        { "text": "Services militaires", "correct": false },
+        { "text": "Services industriels", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel terme désigne la capacité d'un milieu à retrouver son état initial après une perturbation ?",
+      "answers": [
+        { "text": "Résilience", "correct": true },
+        { "text": "Résistance", "correct": false },
+        { "text": "Carrying capacity", "correct": false },
+        { "text": "Biodiversité", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l'objectif principal de la gestion durable des forêts ?",
+      "answers": [
+        { "text": "Assurer l'utilisation des ressources forestières tout en maintenant la biodiversité et les services écosystémiques", "correct": true },
+        { "text": "Maximiser l'exploitation sans replantation", "correct": false },
+        { "text": "Interdire toute activité humaine autour des forêts", "correct": false },
+        { "text": "Remplacer les forêts par des monocultures", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle méthode est recommandée pour réduire les pertes alimentaires à la ferme ?",
+      "answers": [
+        { "text": "Améliorer la logistique, stockage et les techniques de récolte", "correct": true },
+        { "text": "Augmenter l'utilisation de pesticides", "correct": false },
+        { "text": "Réduire la qualité des semences", "correct": false },
+        { "text": "Exporter toutes les récoltes", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle source d'énergie renouvelable utilise la chaleur du sous-sol terrestre ?",
+      "answers": [
+        { "text": "Géothermie", "correct": true },
+        { "text": "Biomasse", "correct": false },
+        { "text": "Hydrocarbures", "correct": false },
+        { "text": "Nucléaire", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel indicateur évalue la qualité écologique d'un cours d'eau par la présence d'organismes vivants ?",
+      "answers": [
+        { "text": "Indice biologique (macro-invertébrés)", "correct": true },
+        { "text": "Indice de pollution plastique", "correct": false },
+        { "text": "Indice de richesse touristique", "correct": false },
+        { "text": "Indice de bruit", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle pratique permet de compenser ses émissions de CO2 en finançant des projets écologiques ?",
+      "answers": [
+        { "text": "La compensation carbone", "correct": true },
+        { "text": "Le recyclage", "correct": false },
+        { "text": "Le tri sélectif", "correct": false },
+        { "text": "La permaculture", "correct": false }
       ]
     }
   ],
@@ -137,6 +407,141 @@
         { "text": "Méthane", "correct": false },
         { "text": "Oxygène", "correct": false },
         { "text": "Azote", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel organisme international coordonne la Liste rouge des espèces menacées ?",
+      "answers": [
+        { "text": "IUCN (Union internationale pour la conservation de la nature)", "correct": true },
+        { "text": "ONU", "correct": false },
+        { "text": "OCDE", "correct": false },
+        { "text": "OMS", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que la séquestration du carbone ?",
+      "answers": [
+        { "text": "Le stockage du carbone dans les sols, forêts ou océans", "correct": true },
+        { "text": "La libération de CO2 dans l'atmosphère", "correct": false },
+        { "text": "La combustion du charbon", "correct": false },
+        { "text": "La production de méthane", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce qu'un point de basculement climatique (tipping point) ?",
+      "answers": [
+        { "text": "Un seuil au-delà duquel un système climatique change de façon irréversible", "correct": true },
+        { "text": "Une période de froid temporaire", "correct": false },
+        { "text": "Un type de cyclone", "correct": false },
+        { "text": "Un indice météo quotidien", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel instrument économique met un prix sur les émissions de carbone pour les réduire ?",
+      "answers": [
+        { "text": "Le marché du carbone / tarification du carbone", "correct": true },
+        { "text": "La taxe sur la TVA", "correct": false },
+        { "text": "La subvention aux combustibles fossiles", "correct": false },
+        { "text": "La taxe d'habitation", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle convention internationale réglemente le commerce d'espèces menacées ?",
+      "answers": [
+        { "text": "CITES", "correct": true },
+        { "text": "Convention de Ramsar", "correct": false },
+        { "text": "Protocole de Kyoto", "correct": false },
+        { "text": "Accord de Paris", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que la bioaccumulation ?",
+      "answers": [
+        { "text": "Accumulation progressive de substances toxiques dans les organismes", "correct": true },
+        { "text": "Dispersion des graines par le vent", "correct": false },
+        { "text": "Réduction de la biodiversité par le feu", "correct": false },
+        { "text": "Processus de compostage naturel", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène est lié à la libération accrue de méthane lors du dégel du pergélisol ?",
+      "answers": [
+        { "text": "Amplification du réchauffement climatique", "correct": true },
+        { "text": "Diminution du niveau marin", "correct": false },
+        { "text": "Augmentation de la biodiversité arctique", "correct": false },
+        { "text": "Stabilisation du climat", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'entend-on par 'services écosystémiques' ?",
+      "answers": [
+        { "text": "Bénéfices fournis par les écosystèmes aux sociétés (pollinisation, purification de l'eau, etc.)", "correct": true },
+        { "text": "Services publics urbains", "correct": false },
+        { "text": "Subventions agricoles", "correct": false },
+        { "text": "Prestations de transport", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la principale conséquence de l'acidification des océans sur la faune marine ?",
+      "answers": [
+        { "text": "Difficulté à former des coquilles et des squelettes calcaires", "correct": true },
+        { "text": "Augmentation de la pêche", "correct": false },
+        { "text": "Épaississement des coquilles", "correct": false },
+        { "text": "Amélioration de la croissance des coraux", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel dispositif technique réduit les émissions de particules et NOx des véhicules diesel ?",
+      "answers": [
+        { "text": "Filtre à particules et catalyseur SCR", "correct": true },
+        { "text": "Allumage retardé", "correct": false },
+        { "text": "Frein à disque", "correct": false },
+        { "text": "Carburateur", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel concept décrit l'utilisation efficace des ressources pour prolonger leur cycle de vie (réparer, réutiliser, recycler) ?",
+      "answers": [
+        { "text": "Économie circulaire", "correct": true },
+        { "text": "Économie linéaire", "correct": false },
+        { "text": "Croissance infinie", "correct": false },
+        { "text": "Économie planifiée", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel indicateur scientifique compare la contribution relative des gaz à effet de serre ?",
+      "answers": [
+        { "text": "Potentiel de réchauffement global (PRG ou GWP)", "correct": true },
+        { "text": "Indice de qualité d'eau", "correct": false },
+        { "text": "Indice de biodiversité", "correct": false },
+        { "text": "Indice de nuisance sonore", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle stratégie vise à compenser les émissions en finançant la protection ou la restauration des forêts ?",
+      "answers": [
+        { "text": "Mécanismes de compensation carbone (ex. REDD+)", "correct": true },
+        { "text": "Subvention aux énergies fossiles", "correct": false },
+        { "text": "Augmentation de l'usage des combustibles lourds", "correct": false },
+        { "text": "Déforestation pour l'agriculture", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel indicateur évalue la concentration de CO2 dans l'atmosphère en parties par million (ppm) ?",
+      "answers": [
+        { "text": "ppm (parts per million)", "correct": true },
+        { "text": "dB (décibels)", "correct": false },
+        { "text": "pH", "correct": false },
+        { "text": "kg/m³", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le principal polluant organique persistant interdit par la convention de Stockholm ?",
+      "answers": [
+        { "text": "DDT", "correct": true },
+        { "text": "Glyphosate", "correct": false },
+        { "text": "PCB", "correct": false },
+        { "text": "Amiante", "correct": false }
       ]
     }
   ]

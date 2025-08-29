@@ -19,7 +19,7 @@
       ]
     },
     {
-      "question": "Quel pays a remporté le plus de médailles d’or en basketball aux Jeux Olympiques ?",
+      "question": "Quel pays a remporté le plus de médailles d'or en basketball aux Jeux Olympiques ?",
       "answers": [
         {"text": "États-Unis", "correct": true},
         {"text": "Espagne", "correct": false},
@@ -43,6 +43,141 @@
         {"text": "2", "correct": false},
         {"text": "1", "correct": false},
         {"text": "4", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien de temps-morts une équipe NBA a-t-elle par match ?",
+      "answers": [
+        {"text": "7", "correct": true},
+        {"text": "5", "correct": false},
+        {"text": "6", "correct": false},
+        {"text": "8", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la hauteur réglementaire d'un panier de basketball ?",
+      "answers": [
+        {"text": "3,05 mètres", "correct": true},
+        {"text": "3 mètres", "correct": false},
+        {"text": "3,20 mètres", "correct": false},
+        {"text": "2,90 mètres", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien de quart-temps y a-t-il dans un match NBA ?",
+      "answers": [
+        {"text": "4", "correct": true},
+        {"text": "2", "correct": false},
+        {"text": "3", "correct": false},
+        {"text": "6", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur français évolue actuellement aux San Antonio Spurs ?",
+      "answers": [
+        {"text": "Victor Wembanyama", "correct": true},
+        {"text": "Rudy Gobert", "correct": false},
+        {"text": "Nicolas Batum", "correct": false},
+        {"text": "Evan Fournier", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans quelle ville se trouve l'équipe des Lakers ?",
+      "answers": [
+        {"text": "Los Angeles", "correct": true},
+        {"text": "San Francisco", "correct": false},
+        {"text": "Miami", "correct": false},
+        {"text": "Chicago", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien de fautes personnelles un joueur NBA peut-il commettre avant d'être éliminé ?",
+      "answers": [
+        {"text": "6", "correct": true},
+        {"text": "5", "correct": false},
+        {"text": "7", "correct": false},
+        {"text": "4", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le surnom des Los Angeles Lakers ?",
+      "answers": [
+        {"text": "Purple and Gold", "correct": true},
+        {"text": "Blue and White", "correct": false},
+        {"text": "Red and Black", "correct": false},
+        {"text": "Green and White", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien de points vaut un lancer franc ?",
+      "answers": [
+        {"text": "1", "correct": true},
+        {"text": "2", "correct": false},
+        {"text": "3", "correct": false},
+        {"text": "0", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la durée d'un quart-temps en NBA ?",
+      "answers": [
+        {"text": "12 minutes", "correct": true},
+        {"text": "10 minutes", "correct": false},
+        {"text": "15 minutes", "correct": false},
+        {"text": "8 minutes", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur porte le numéro 23 chez les Lakers ?",
+      "answers": [
+        {"text": "LeBron James", "correct": true},
+        {"text": "Anthony Davis", "correct": false},
+        {"text": "Russell Westbrook", "correct": false},
+        {"text": "Carmelo Anthony", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans quelle conférence évoluent les Boston Celtics ?",
+      "answers": [
+        {"text": "Est", "correct": true},
+        {"text": "Ouest", "correct": false},
+        {"text": "Nord", "correct": false},
+        {"text": "Sud", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le nombre maximum de prolongations possible en NBA ?",
+      "answers": [
+        {"text": "Illimité", "correct": true},
+        {"text": "2", "correct": false},
+        {"text": "3", "correct": false},
+        {"text": "1", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe a pour mascotte un taureau rouge ?",
+      "answers": [
+        {"text": "Chicago Bulls", "correct": true},
+        {"text": "Miami Heat", "correct": false},
+        {"text": "Toronto Raptors", "correct": false},
+        {"text": "Milwaukee Bucks", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien d'équipes participent aux playoffs NBA ?",
+      "answers": [
+        {"text": "16", "correct": true},
+        {"text": "12", "correct": false},
+        {"text": "20", "correct": false},
+        {"text": "8", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le diamètre d'un ballon de basketball ?",
+      "answers": [
+        {"text": "Environ 24 cm", "correct": true},
+        {"text": "Environ 20 cm", "correct": false},
+        {"text": "Environ 28 cm", "correct": false},
+        {"text": "Environ 30 cm", "correct": false}
       ]
     }
   ],
@@ -75,7 +210,7 @@
       ]
     },
     {
-      "question": "Combien de joueurs sont sur le banc lors d’un match NBA ?",
+      "question": "Combien de joueurs sont sur le banc lors d'un match NBA ?",
       "answers": [
         {"text": "7", "correct": true},
         {"text": "5", "correct": false},
@@ -90,6 +225,141 @@
         {"text": "Klay Thompson", "correct": false},
         {"text": "Draymond Green", "correct": false},
         {"text": "Kevin Durant", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe a remporté le plus de titres NBA ?",
+      "answers": [
+        {"text": "Boston Celtics", "correct": true},
+        {"text": "Los Angeles Lakers", "correct": false},
+        {"text": "Chicago Bulls", "correct": false},
+        {"text": "San Antonio Spurs", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur détient le record de rebonds en carrière ?",
+      "answers": [
+        {"text": "Wilt Chamberlain", "correct": true},
+        {"text": "Bill Russell", "correct": false},
+        {"text": "Kareem Abdul-Jabbar", "correct": false},
+        {"text": "Tim Duncan", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle franchise NBA n'a jamais remporté de titre ?",
+      "answers": [
+        {"text": "Phoenix Suns", "correct": true},
+        {"text": "Miami Heat", "correct": false},
+        {"text": "Cleveland Cavaliers", "correct": false},
+        {"text": "Toronto Raptors", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur français a été drafté en première position en 2023 ?",
+      "answers": [
+        {"text": "Victor Wembanyama", "correct": true},
+        {"text": "Théo Maledon", "correct": false},
+        {"text": "Killian Hayes", "correct": false},
+        {"text": "Sekou Doumbouya", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la règle des 24 secondes en NBA ?",
+      "answers": [
+        {"text": "Temps limite pour tenter un tir", "correct": true},
+        {"text": "Durée d'un temps-mort", "correct": false},
+        {"text": "Temps de possession maximum", "correct": false},
+        {"text": "Durée de la mi-temps", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur a marqué 81 points en un seul match ?",
+      "answers": [
+        {"text": "Kobe Bryant", "correct": true},
+        {"text": "Michael Jordan", "correct": false},
+        {"text": "Wilt Chamberlain", "correct": false},
+        {"text": "LeBron James", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe est surnommée les 'Splash Brothers' ?",
+      "answers": [
+        {"text": "Golden State Warriors", "correct": true},
+        {"text": "Los Angeles Clippers", "correct": false},
+        {"text": "Portland Trail Blazers", "correct": false},
+        {"text": "Houston Rockets", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien d'années consécutives Michael Jordan a-t-il été MVP des Finales ?",
+      "answers": [
+        {"text": "6", "correct": true},
+        {"text": "4", "correct": false},
+        {"text": "5", "correct": false},
+        {"text": "3", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur a le plus de triple-doubles en carrière ?",
+      "answers": [
+        {"text": "Russell Westbrook", "correct": true},
+        {"text": "Oscar Robertson", "correct": false},
+        {"text": "Magic Johnson", "correct": false},
+        {"text": "LeBron James", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe NBA a eu la meilleure saison régulière de l'histoire ?",
+      "answers": [
+        {"text": "Golden State Warriors (73-9)", "correct": true},
+        {"text": "Chicago Bulls (72-10)", "correct": false},
+        {"text": "Los Angeles Lakers (69-13)", "correct": false},
+        {"text": "Boston Celtics (68-14)", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le nom du trophée remis au MVP des Finales NBA ?",
+      "answers": [
+        {"text": "Trophée Bill Russell", "correct": true},
+        {"text": "Trophée Larry Bird", "correct": false},
+        {"text": "Trophée Magic Johnson", "correct": false},
+        {"text": "Trophée Michael Jordan", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe a drafté Kobe Bryant ?",
+      "answers": [
+        {"text": "Charlotte Hornets", "correct": true},
+        {"text": "Los Angeles Lakers", "correct": false},
+        {"text": "Philadelphia 76ers", "correct": false},
+        {"text": "New Jersey Nets", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur est surnommé 'The Greek Freak' ?",
+      "answers": [
+        {"text": "Giannis Antetokounmpo", "correct": true},
+        {"text": "Nikola Jokic", "correct": false},
+        {"text": "Luka Doncic", "correct": false},
+        {"text": "Kristaps Porzingis", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien de Finales NBA LeBron James a-t-il disputées ?",
+      "answers": [
+        {"text": "10", "correct": true},
+        {"text": "8", "correct": false},
+        {"text": "9", "correct": false},
+        {"text": "11", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe a remporté le premier titre NBA en 1947 ?",
+      "answers": [
+        {"text": "Philadelphia Warriors", "correct": true},
+        {"text": "Boston Celtics", "correct": false},
+        {"text": "New York Knicks", "correct": false},
+        {"text": "Chicago Stags", "correct": false}
       ]
     }
   ],
@@ -137,6 +407,141 @@
         {"text": "FC Barcelone", "correct": false},
         {"text": "CSKA Moscou", "correct": false},
         {"text": "Panathinaikos", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur détient le record de blocks en carrière NBA ?",
+      "answers": [
+        {"text": "Hakeem Olajuwon", "correct": true},
+        {"text": "Kareem Abdul-Jabbar", "correct": false},
+        {"text": "Mark Eaton", "correct": false},
+        {"text": "Tim Duncan", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe a réalisé le premier 'three-peat' de l'histoire NBA moderne ?",
+      "answers": [
+        {"text": "Minneapolis Lakers", "correct": true},
+        {"text": "Boston Celtics", "correct": false},
+        {"text": "Chicago Bulls", "correct": false},
+        {"text": "Los Angeles Lakers", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur a marqué le plus de points lors d'un match de playoffs ?",
+      "answers": [
+        {"text": "Michael Jordan (63 points)", "correct": true},
+        {"text": "Kobe Bryant (60 points)", "correct": false},
+        {"text": "Allen Iverson (58 points)", "correct": false},
+        {"text": "LeBron James (51 points)", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le nom du père de Kobe Bryant, ancien joueur NBA ?",
+      "answers": [
+        {"text": "Joe 'Jellybean' Bryant", "correct": true},
+        {"text": "Mark Bryant", "correct": false},
+        {"text": "Robert Bryant", "correct": false},
+        {"text": "William Bryant", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe a perdu les Finales NBA après avoir mené 3-1 ?",
+      "answers": [
+        {"text": "Golden State Warriors en 2016", "correct": true},
+        {"text": "Miami Heat en 2011", "correct": false},
+        {"text": "Los Angeles Lakers en 2008", "correct": false},
+        {"text": "Oklahoma City Thunder en 2012", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur a été le plus jeune à atteindre 10 000 points en NBA ?",
+      "answers": [
+        {"text": "LeBron James", "correct": true},
+        {"text": "Kobe Bryant", "correct": false},
+        {"text": "Kevin Durant", "correct": false},
+        {"text": "Tracy McGrady", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel entraîneur a remporté le plus de titres NBA ?",
+      "answers": [
+        {"text": "Phil Jackson (11)", "correct": true},
+        {"text": "Red Auerbach (9)", "correct": false},
+        {"text": "Pat Riley (5)", "correct": false},
+        {"text": "Gregg Popovich (5)", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur a réalisé le plus de steals en un seul match NBA ?",
+      "answers": [
+        {"text": "Larry Kenon (11)", "correct": true},
+        {"text": "John Stockton (9)", "correct": false},
+        {"text": "Allen Iverson (8)", "correct": false},
+        {"text": "Gary Payton (7)", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle franchise a eu le plus de saisons perdantes consécutives ?",
+      "answers": [
+        {"text": "Los Angeles Clippers", "correct": true},
+        {"text": "Sacramento Kings", "correct": false},
+        {"text": "Minnesota Timberwolves", "correct": false},
+        {"text": "Charlotte Hornets", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur a été MVP du All-Star Game le plus de fois ?",
+      "answers": [
+        {"text": "Kobe Bryant (4)", "correct": true},
+        {"text": "Michael Jordan (3)", "correct": false},
+        {"text": "LeBron James (3)", "correct": false},
+        {"text": "Magic Johnson (2)", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe a réalisé le comeback le plus important en playoffs NBA ?",
+      "answers": [
+        {"text": "Clippers contre Warriors (31 points)", "correct": true},
+        {"text": "Celtics contre Lakers (24 points)", "correct": false},
+        {"text": "Heat contre Spurs (20 points)", "correct": false},
+        {"text": "Cavaliers contre Warriors (18 points)", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur a le record de matches joués consécutivement en NBA ?",
+      "answers": [
+        {"text": "A.C. Green (1192)", "correct": true},
+        {"text": "Randy Smith (906)", "correct": false},
+        {"text": "Johnny Kerr (844)", "correct": false},
+        {"text": "Cal Ripken Jr. (0)", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le nom de l'ancien propriétaire des Seattle SuperSonics ?",
+      "answers": [
+        {"text": "Howard Schultz", "correct": true},
+        {"text": "Clay Bennett", "correct": false},
+        {"text": "Paul Allen", "correct": false},
+        {"text": "Steve Ballmer", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur a été surnommé 'The Admiral' ?",
+      "answers": [
+        {"text": "David Robinson", "correct": true},
+        {"text": "Hakeem Olajuwon", "correct": false},
+        {"text": "Patrick Ewing", "correct": false},
+        {"text": "Alonzo Mourning", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe a drafté Steve Nash ?",
+      "answers": [
+        {"text": "Phoenix Suns", "correct": true},
+        {"text": "Dallas Mavericks", "correct": false},
+        {"text": "Los Angeles Lakers", "correct": false},
+        {"text": "San Antonio Spurs", "correct": false}
       ]
     }
   ]

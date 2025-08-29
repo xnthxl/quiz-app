@@ -44,9 +44,143 @@
         { "text": "Artémis", "correct": false },
         { "text": "Héra", "correct": false }
       ]
+    },
+    {
+      "question": "Qui est le dieu romain de la guerre ?",
+      "answers": [
+        { "text": "Mars", "correct": true },
+        { "text": "Mercure", "correct": false },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Vulcain", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle déesse grecque représente l’amour et la beauté ?",
+      "answers": [
+        { "text": "Aphrodite", "correct": true },
+        { "text": "Héra", "correct": false },
+        { "text": "Athéna", "correct": false },
+        { "text": "Déméter", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie égyptienne, qui est la déesse de la maternité et de la magie ?",
+      "answers": [
+        { "text": "Isis", "correct": true },
+        { "text": "Nephthys", "correct": false },
+        { "text": "Hathor", "correct": false },
+        { "text": "Sekhmet", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est le dieu romain des mers ?",
+      "answers": [
+        { "text": "Neptune", "correct": true },
+        { "text": "Pluton", "correct": false },
+        { "text": "Saturne", "correct": false },
+        { "text": "Vulcain", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle créature mythologique est un cheval avec une corne sur le front ?",
+      "answers": [
+        { "text": "Licorne", "correct": true },
+        { "text": "Pégase", "correct": false },
+        { "text": "Hippogriffe", "correct": false },
+        { "text": "Cerbère", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel dieu grec règne sur les enfers ?",
+      "answers": [
+        { "text": "Hadès", "correct": true },
+        { "text": "Zeus", "correct": false },
+        { "text": "Poséidon", "correct": false },
+        { "text": "Hermès", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est le dieu nordique de la sagesse et de la guerre ?",
+      "answers": [
+        { "text": "Odin", "correct": true },
+        { "text": "Thor", "correct": false },
+        { "text": "Loki", "correct": false },
+        { "text": "Freyr", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle créature grecque a un corps de lion et une tête humaine ?",
+      "answers": [
+        { "text": "Sphinx", "correct": true },
+        { "text": "Chimère", "correct": false },
+        { "text": "Hydre", "correct": false },
+        { "text": "Griffon", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est la déesse romaine de la chasse ?",
+      "answers": [
+        { "text": "Diane", "correct": true },
+        { "text": "Vénus", "correct": false },
+        { "text": "Minerve", "correct": false },
+        { "text": "Junon", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie égyptienne, qui est le dieu de la sagesse et de l’écriture ?",
+      "answers": [
+        { "text": "Thot", "correct": true },
+        { "text": "Anubis", "correct": false },
+        { "text": "Rê", "correct": false },
+        { "text": "Seth", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel dieu grec est le messager des dieux ?",
+      "answers": [
+        { "text": "Hermès", "correct": true },
+        { "text": "Apollon", "correct": false },
+        { "text": "Poséidon", "correct": false },
+        { "text": "Dionysos", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est le dieu égyptien de la mort et de l’embaumement ?",
+      "answers": [
+        { "text": "Anubis", "correct": true },
+        { "text": "Osiris", "correct": false },
+        { "text": "Seth", "correct": false },
+        { "text": "Horus", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle créature nordique est un cheval à huit pattes ?",
+      "answers": [
+        { "text": "Sleipnir", "correct": true },
+        { "text": "Pégase", "correct": false },
+        { "text": "Hippogriffe", "correct": false },
+        { "text": "Fenrir", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est la déesse grecque de la chasse et de la lune ?",
+      "answers": [
+        { "text": "Artémis", "correct": true },
+        { "text": "Athéna", "correct": false },
+        { "text": "Aphrodite", "correct": false },
+        { "text": "Héra", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel dieu romain est le dieu du commerce et des voleurs ?",
+      "answers": [
+        { "text": "Mercure", "correct": true },
+        { "text": "Mars", "correct": false },
+        { "text": "Vulcain", "correct": false },
+        { "text": "Saturne", "correct": false }
+      ]
     }
   ],
-
   "moyen": [
     {
       "question": "Quel héros grec a tué le Minotaure ?",
@@ -92,9 +226,143 @@
         { "text": "Sleipnir", "correct": false },
         { "text": "Bucéphale", "correct": false }
       ]
+    },
+    {
+      "question": "Quel héros grec a décapité Méduse ?",
+      "answers": [
+        { "text": "Persée", "correct": true },
+        { "text": "Thésée", "correct": false },
+        { "text": "Héraclès", "correct": false },
+        { "text": "Achille", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel titan grec a volé le feu aux dieux pour le donner aux hommes ?",
+      "answers": [
+        { "text": "Prométhée", "correct": true },
+        { "text": "Atlas", "correct": false },
+        { "text": "Océanos", "correct": false },
+        { "text": "Cronos", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie nordique, quel arbre relie les neuf mondes ?",
+      "answers": [
+        { "text": "Yggdrasil", "correct": true },
+        { "text": "Frêne de vie", "correct": false },
+        { "text": "Ilex", "correct": false },
+        { "text": "Chêne d’Odin", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est la déesse grecque des moissons et de l’agriculture ?",
+      "answers": [
+        { "text": "Déméter", "correct": true },
+        { "text": "Héra", "correct": false },
+        { "text": "Athéna", "correct": false },
+        { "text": "Artemis", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie égyptienne, quel dieu est le roi des morts ?",
+      "answers": [
+        { "text": "Osiris", "correct": true },
+        { "text": "Anubis", "correct": false },
+        { "text": "Seth", "correct": false },
+        { "text": "Horus", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel dieu grec est le dieu de la mer et des tremblements de terre ?",
+      "answers": [
+        { "text": "Poséidon", "correct": true },
+        { "text": "Zeus", "correct": false },
+        { "text": "Hadès", "correct": false },
+        { "text": "Hermès", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel héros grec a enchaîné le chien à trois têtes Cerbère ?",
+      "answers": [
+        { "text": "Héraclès", "correct": true },
+        { "text": "Thésée", "correct": false },
+        { "text": "Achille", "correct": false },
+        { "text": "Persée", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est la déesse romaine de la sagesse et des arts ?",
+      "answers": [
+        { "text": "Minerve", "correct": true },
+        { "text": "Vénus", "correct": false },
+        { "text": "Junon", "correct": false },
+        { "text": "Diane", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie nordique, quel dieu est le dieu du tonnerre et du ciel ?",
+      "answers": [
+        { "text": "Thor", "correct": true },
+        { "text": "Odin", "correct": false },
+        { "text": "Loki", "correct": false },
+        { "text": "Balder", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel héros grec a tué le roi Lycaon et ses fils ?",
+      "answers": [
+        { "text": "Dionysos", "correct": true },
+        { "text": "Persée", "correct": false },
+        { "text": "Thésée", "correct": false },
+        { "text": "Achille", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel dieu romain est le dieu des enfers ?",
+      "answers": [
+        { "text": "Pluton", "correct": true },
+        { "text": "Mars", "correct": false },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Mercure", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel titan grec est le père de Zeus, Poséidon et Hadès ?",
+      "answers": [
+        { "text": "Cronos", "correct": true },
+        { "text": "Océanos", "correct": false },
+        { "text": "Atlas", "correct": false },
+        { "text": "Prométhée", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel héros grec a accompli l’exploit de nettoyer les écuries d’Augias ?",
+      "answers": [
+        { "text": "Héraclès", "correct": true },
+        { "text": "Thésée", "correct": false },
+        { "text": "Achille", "correct": false },
+        { "text": "Persée", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel dieu grec est le dieu des enfers et des richesses souterraines ?",
+      "answers": [
+        { "text": "Hadès", "correct": true },
+        { "text": "Zeus", "correct": false },
+        { "text": "Poséidon", "correct": false },
+        { "text": "Hermès", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel héros grec a conquis le royaume des Amazones pour récupérer la ceinture d'Hippolyte ?",
+      "answers": [
+        { "text": "Héraclès", "correct": true },
+        { "text": "Thésée", "correct": false },
+        { "text": "Achille", "correct": false },
+        { "text": "Persée", "correct": false }
+      ]
     }
   ],
-
   "difficile": [
     {
       "question": "Quel titan grec a été condamné à porter le ciel sur ses épaules ?",
@@ -139,6 +407,141 @@
         { "text": "Rê", "correct": false },
         { "text": "Sobek", "correct": false },
         { "text": "Ptah", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel héros grec a combattu le serpent de Lerne ?",
+      "answers": [
+        { "text": "Héraclès", "correct": true },
+        { "text": "Thésée", "correct": false },
+        { "text": "Persée", "correct": false },
+        { "text": "Achille", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel dieu égyptien est représenté avec une tête de faucon ?",
+      "answers": [
+        { "text": "Horus", "correct": true },
+        { "text": "Anubis", "correct": false },
+        { "text": "Rê", "correct": false },
+        { "text": "Seth", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel titan grec a donné le feu aux hommes ?",
+      "answers": [
+        { "text": "Prométhée", "correct": true },
+        { "text": "Atlas", "correct": false },
+        { "text": "Cronos", "correct": false },
+        { "text": "Océanos", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie nordique, quel serpent entoure le monde ?",
+      "answers": [
+        { "text": "Jörmungand", "correct": true },
+        { "text": "Fenrir", "correct": false },
+        { "text": "Níðhöggr", "correct": false },
+        { "text": "Sköll", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel héros grec a tué le monstre Scylla ?",
+      "answers": [
+        { "text": "Ulysse", "correct": true },
+        { "text": "Thésée", "correct": false },
+        { "text": "Achille", "correct": false },
+        { "text": "Héraclès", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel dieu grec est le dieu du vin et de la fête ?",
+      "answers": [
+        { "text": "Dionysos", "correct": true },
+        { "text": "Hermès", "correct": false },
+        { "text": "Apollon", "correct": false },
+        { "text": "Arès", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie égyptienne, qui est le dieu de la lune et de la sagesse ?",
+      "answers": [
+        { "text": "Thot", "correct": true },
+        { "text": "Seth", "correct": false },
+        { "text": "Rê", "correct": false },
+        { "text": "Horus", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel héros grec a volé les pommes d’or du jardin des Hespérides ?",
+      "answers": [
+        { "text": "Héraclès", "correct": true },
+        { "text": "Thésée", "correct": false },
+        { "text": "Persée", "correct": false },
+        { "text": "Achille", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel titan grec est le père des astres et du ciel ?",
+      "answers": [
+        { "text": "Océanos", "correct": true },
+        { "text": "Cronos", "correct": false },
+        { "text": "Atlas", "correct": false },
+        { "text": "Prométhée", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel héros grec a tué la Méduse et sauvé Andromède ?",
+      "answers": [
+        { "text": "Persée", "correct": true },
+        { "text": "Héraclès", "correct": false },
+        { "text": "Thésée", "correct": false },
+        { "text": "Achille", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie nordique, quel dieu est le dieu de la lumière et de la beauté ?",
+      "answers": [
+        { "text": "Balder", "correct": true },
+        { "text": "Odin", "correct": false },
+        { "text": "Thor", "correct": false },
+        { "text": "Loki", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel héros grec a combattu le lion de Némée ?",
+      "answers": [
+        { "text": "Héraclès", "correct": true },
+        { "text": "Thésée", "correct": false },
+        { "text": "Achille", "correct": false },
+        { "text": "Persée", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel dieu romain est le dieu du feu et des forges ?",
+      "answers": [
+        { "text": "Vulcain", "correct": true },
+        { "text": "Mars", "correct": false },
+        { "text": "Pluton", "correct": false },
+        { "text": "Mercure", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel héros grec a sauvé Hélène et combattu les Troyens ?",
+      "answers": [
+        { "text": "Ménélas", "correct": true },
+        { "text": "Achille", "correct": false },
+        { "text": "Ulysse", "correct": false },
+        { "text": "Héraclès", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans la mythologie égyptienne, quel dieu est le protecteur des pharaons ?",
+      "answers": [
+        { "text": "Horus", "correct": true },
+        { "text": "Anubis", "correct": false },
+        { "text": "Seth", "correct": false },
+        { "text": "Rê", "correct": false }
       ]
     }
   ]

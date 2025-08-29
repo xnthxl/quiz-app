@@ -44,6 +44,141 @@
         {"text": "Thésée", "correct": false},
         {"text": "Andromaque", "correct": false}
       ]
+    },
+    {
+      "question": "Quel auteur a écrit 'Le Cid' ?",
+      "answers": [
+        {"text": "Pierre Corneille", "correct": true},
+        {"text": "Molière", "correct": false},
+        {"text": "Jean Racine", "correct": false},
+        {"text": "Voltaire", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel genre de théâtre met en scène des héros tragiques ?",
+      "answers": [
+        {"text": "Tragédie", "correct": true},
+        {"text": "Comédie", "correct": false},
+        {"text": "Farce", "correct": false},
+        {"text": "Opérette", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel personnage est célèbre dans 'Le Bourgeois Gentilhomme' ?",
+      "answers": [
+        {"text": "Monsieur Jourdain", "correct": true},
+        {"text": "Harpagon", "correct": false},
+        {"text": "Phèdre", "correct": false},
+        {"text": "Cyrano", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle comédie de Molière critique la médecine de son époque ?",
+      "answers": [
+        {"text": "Le Médecin malgré lui", "correct": true},
+        {"text": "Le Misanthrope", "correct": false},
+        {"text": "Tartuffe", "correct": false},
+        {"text": "L'Avare", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel genre de pièce est 'Les Fourberies de Scapin' ?",
+      "answers": [
+        {"text": "Comédie", "correct": true},
+        {"text": "Tragédie", "correct": false},
+        {"text": "Drame", "correct": false},
+        {"text": "Farce", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge a écrit 'Hernani' ?",
+      "answers": [
+        {"text": "Victor Hugo", "correct": true},
+        {"text": "Molière", "correct": false},
+        {"text": "Corneille", "correct": false},
+        {"text": "Racine", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel personnage est central dans 'Andromaque' ?",
+      "answers": [
+        {"text": "Andromaque", "correct": true},
+        {"text": "Hippolyte", "correct": false},
+        {"text": "Thésée", "correct": false},
+        {"text": "Phèdre", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel théâtre est célèbre pour les tragédies classiques en France ?",
+      "answers": [
+        {"text": "Comédie-Française", "correct": true},
+        {"text": "Théâtre du Châtelet", "correct": false},
+        {"text": "Odéon-Théâtre", "correct": false},
+        {"text": "Théâtre Mogador", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel genre théâtral met en avant la satire sociale ?",
+      "answers": [
+        {"text": "Comédie", "correct": true},
+        {"text": "Tragédie", "correct": false},
+        {"text": "Drame", "correct": false},
+        {"text": "Farce", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Le Tartuffe' ?",
+      "answers": [
+        {"text": "Molière", "correct": true},
+        {"text": "Corneille", "correct": false},
+        {"text": "Racine", "correct": false},
+        {"text": "Victor Hugo", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel auteur est associé au théâtre romantique français ?",
+      "answers": [
+        {"text": "Victor Hugo", "correct": true},
+        {"text": "Molière", "correct": false},
+        {"text": "Racine", "correct": false},
+        {"text": "Corneille", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel genre théâtral implique des dialogues dramatiques intenses ?",
+      "answers": [
+        {"text": "Drame", "correct": true},
+        {"text": "Comédie", "correct": false},
+        {"text": "Farce", "correct": false},
+        {"text": "Tragédie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel théâtre français est surnommé 'La maison de Molière' ?",
+      "answers": [
+        {"text": "Comédie-Française", "correct": true},
+        {"text": "Odéon-Théâtre", "correct": false},
+        {"text": "Théâtre Mogador", "correct": false},
+        {"text": "Théâtre du Châtelet", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel personnage est un valet rusé dans 'Les Fourberies de Scapin' ?",
+      "answers": [
+        {"text": "Scapin", "correct": true},
+        {"text": "Harpagon", "correct": false},
+        {"text": "Monsieur Jourdain", "correct": false},
+        {"text": "Cyrano", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel auteur a écrit 'L’Avare' ?",
+      "answers": [
+        {"text": "Molière", "correct": true},
+        {"text": "Racine", "correct": false},
+        {"text": "Corneille", "correct": false},
+        {"text": "Victor Hugo", "correct": false}
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         {"text": "Comédie romantique", "correct": false},
         {"text": "Tragédie moderne", "correct": false}
       ]
+    },
+    {
+      "question": "Qui a écrit 'La Cantatrice chauve' ?",
+      "answers": [
+        {"text": "Eugène Ionesco", "correct": true},
+        {"text": "Samuel Beckett", "correct": false},
+        {"text": "Jean Genet", "correct": false},
+        {"text": "Bertolt Brecht", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel terme désigne une longue réplique d’un personnage seul sur scène ?",
+      "answers": [
+        {"text": "Monologue", "correct": true},
+        {"text": "Aparté", "correct": false},
+        {"text": "Didascalie", "correct": false},
+        {"text": "Trait", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge a écrit 'Rhinocéros' ?",
+      "answers": [
+        {"text": "Eugène Ionesco", "correct": true},
+        {"text": "Jean Anouilh", "correct": false},
+        {"text": "Samuel Beckett", "correct": false},
+        {"text": "Henrik Ibsen", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel théâtre est connu pour le style comique populaire à Paris ?",
+      "answers": [
+        {"text": "Théâtre du Palais-Royal", "correct": true},
+        {"text": "Théâtre de la Comédie-Française", "correct": false},
+        {"text": "Odéon-Théâtre", "correct": false},
+        {"text": "Théâtre du Châtelet", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge français a écrit 'Antigone' en 1944 ?",
+      "answers": [
+        {"text": "Jean Anouilh", "correct": true},
+        {"text": "Albert Camus", "correct": false},
+        {"text": "Jean-Paul Sartre", "correct": false},
+        {"text": "Molière", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Le Jeu de l’amour et du hasard' ?",
+      "answers": [
+        {"text": "Marivaux", "correct": true},
+        {"text": "Molière", "correct": false},
+        {"text": "Racine", "correct": false},
+        {"text": "Corneille", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge anglais est contemporain de Shakespeare ?",
+      "answers": [
+        {"text": "Christopher Marlowe", "correct": true},
+        {"text": "Ben Jonson", "correct": false},
+        {"text": "John Webster", "correct": false},
+        {"text": "Thomas Kyd", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel théâtre est surnommé 'la maison de Molière' ?",
+      "answers": [
+        {"text": "Comédie-Française", "correct": true},
+        {"text": "Odéon-Théâtre", "correct": false},
+        {"text": "Théâtre Mogador", "correct": false},
+        {"text": "Théâtre du Châtelet", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'La Cerisaie' ?",
+      "answers": [
+        {"text": "Anton Tchekhov", "correct": true},
+        {"text": "Maxim Gorki", "correct": false},
+        {"text": "Nikolai Gogol", "correct": false},
+        {"text": "Boris Pasternak", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge a écrit 'Lorenzaccio' ?",
+      "answers": [
+        {"text": "Alfred de Musset", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Corneille", "correct": false},
+        {"text": "Racine", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge américain est célèbre pour 'Un tramway nommé Désir' ?",
+      "answers": [
+        {"text": "Tennessee Williams", "correct": true},
+        {"text": "Arthur Miller", "correct": false},
+        {"text": "Eugene O'Neill", "correct": false},
+        {"text": "David Mamet", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'La Maison de Bernarda Alba' ?",
+      "answers": [
+        {"text": "Federico García Lorca", "correct": true},
+        {"text": "Lope de Vega", "correct": false},
+        {"text": "Pedro Calderón de la Barca", "correct": false},
+        {"text": "Tirso de Molina", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge français est associé au théâtre de l’absurde ?",
+      "answers": [
+        {"text": "Samuel Beckett", "correct": true},
+        {"text": "Jean Genet", "correct": false},
+        {"text": "Jean Anouilh", "correct": false},
+        {"text": "Bertolt Brecht", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge italien est célèbre pour le théâtre de commedia dell’arte ?",
+      "answers": [
+        {"text": "Carlo Goldoni", "correct": true},
+        {"text": "Dario Fo", "correct": false},
+        {"text": "Luigi Pirandello", "correct": false},
+        {"text": "Eugène Ionesco", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge a écrit 'Phèdre' ?",
+      "answers": [
+        {"text": "Jean Racine", "correct": true},
+        {"text": "Molière", "correct": false},
+        {"text": "Corneille", "correct": false},
+        {"text": "Victor Hugo", "correct": false}
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         {"text": "Théâtre de l’absurde", "correct": false},
         {"text": "Théâtre classique", "correct": false},
         {"text": "Comédie de boulevard", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'En attendant Godot' ?",
+      "answers": [
+        {"text": "Samuel Beckett", "correct": true},
+        {"text": "Eugène Ionesco", "correct": false},
+        {"text": "Jean Anouilh", "correct": false},
+        {"text": "Bertolt Brecht", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge allemand a créé le 'théâtre épique' ?",
+      "answers": [
+        {"text": "Bertolt Brecht", "correct": true},
+        {"text": "Goethe", "correct": false},
+        {"text": "Schiller", "correct": false},
+        {"text": "Heinrich von Kleist", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge français est connu pour ses pièces existentialistes ?",
+      "answers": [
+        {"text": "Jean-Paul Sartre", "correct": true},
+        {"text": "Albert Camus", "correct": false},
+        {"text": "Jean Anouilh", "correct": false},
+        {"text": "Samuel Beckett", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Les Bonnes' ?",
+      "answers": [
+        {"text": "Jean Genet", "correct": true},
+        {"text": "Eugène Ionesco", "correct": false},
+        {"text": "Bertolt Brecht", "correct": false},
+        {"text": "Samuel Beckett", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge a écrit 'La Cantatrice chauve' ?",
+      "answers": [
+        {"text": "Eugène Ionesco", "correct": true},
+        {"text": "Jean Genet", "correct": false},
+        {"text": "Samuel Beckett", "correct": false},
+        {"text": "Bertolt Brecht", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'L’Avare' ?",
+      "answers": [
+        {"text": "Molière", "correct": true},
+        {"text": "Racine", "correct": false},
+        {"text": "Corneille", "correct": false},
+        {"text": "Victor Hugo", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge a écrit 'Rhinocéros' ?",
+      "answers": [
+        {"text": "Eugène Ionesco", "correct": true},
+        {"text": "Jean Anouilh", "correct": false},
+        {"text": "Samuel Beckett", "correct": false},
+        {"text": "Henrik Ibsen", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge a écrit 'La Maison de Bernarda Alba' ?",
+      "answers": [
+        {"text": "Federico García Lorca", "correct": true},
+        {"text": "Lope de Vega", "correct": false},
+        {"text": "Pedro Calderón de la Barca", "correct": false},
+        {"text": "Tirso de Molina", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge italien est célèbre pour le théâtre de commedia dell’arte ?",
+      "answers": [
+        {"text": "Carlo Goldoni", "correct": true},
+        {"text": "Dario Fo", "correct": false},
+        {"text": "Luigi Pirandello", "correct": false},
+        {"text": "Eugène Ionesco", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge anglais est contemporain de Shakespeare ?",
+      "answers": [
+        {"text": "Christopher Marlowe", "correct": true},
+        {"text": "Ben Jonson", "correct": false},
+        {"text": "John Webster", "correct": false},
+        {"text": "Thomas Kyd", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Le Jeu de l’amour et du hasard' ?",
+      "answers": [
+        {"text": "Marivaux", "correct": true},
+        {"text": "Molière", "correct": false},
+        {"text": "Racine", "correct": false},
+        {"text": "Corneille", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge français est associé au théâtre de l’absurde ?",
+      "answers": [
+        {"text": "Samuel Beckett", "correct": true},
+        {"text": "Jean Genet", "correct": false},
+        {"text": "Jean Anouilh", "correct": false},
+        {"text": "Bertolt Brecht", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge français a écrit 'Antigone' en 1944 ?",
+      "answers": [
+        {"text": "Jean Anouilh", "correct": true},
+        {"text": "Albert Camus", "correct": false},
+        {"text": "Jean-Paul Sartre", "correct": false},
+        {"text": "Molière", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'La Cerisaie' ?",
+      "answers": [
+        {"text": "Anton Tchekhov", "correct": true},
+        {"text": "Maxim Gorki", "correct": false},
+        {"text": "Nikolai Gogol", "correct": false},
+        {"text": "Boris Pasternak", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge a écrit 'Lorenzaccio' ?",
+      "answers": [
+        {"text": "Alfred de Musset", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Corneille", "correct": false},
+        {"text": "Racine", "correct": false}
       ]
     }
   ]

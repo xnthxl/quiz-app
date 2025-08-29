@@ -44,6 +44,141 @@
         { "text": "Azote", "correct": false },
         { "text": "Hydrogène", "correct": false }
       ]
+    },
+    {
+      "question": "Quel est le symbole chimique du sodium ?",
+      "answers": [
+        { "text": "S", "correct": false },
+        { "text": "Na", "correct": true },
+        { "text": "N", "correct": false },
+        { "text": "So", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel élément est liquide à température ambiante ?",
+      "answers": [
+        { "text": "Mercure", "correct": true },
+        { "text": "Plomb", "correct": false },
+        { "text": "Fer", "correct": false },
+        { "text": "Argent", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle couleur donne le cuivre lorsqu’il brûle ?",
+      "answers": [
+        { "text": "Rouge-vert", "correct": true },
+        { "text": "Bleu", "correct": false },
+        { "text": "Jaune", "correct": false },
+        { "text": "Blanc", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz rend l’air léger et inflammable ?",
+      "answers": [
+        { "text": "Hélium", "correct": false },
+        { "text": "Hydrogène", "correct": true },
+        { "text": "Azote", "correct": false },
+        { "text": "Oxygène", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le symbole chimique du fer ?",
+      "answers": [
+        { "text": "Fe", "correct": true },
+        { "text": "Fi", "correct": false },
+        { "text": "Ir", "correct": false },
+        { "text": "Fr", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel composé est présent dans le vinaigre ?",
+      "answers": [
+        { "text": "Acide acétique", "correct": true },
+        { "text": "Acide sulfurique", "correct": false },
+        { "text": "Acide chlorhydrique", "correct": false },
+        { "text": "Acide citrique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle substance est utilisée pour neutraliser un acide ?",
+      "answers": [
+        { "text": "Base", "correct": true },
+        { "text": "Acide", "correct": false },
+        { "text": "Sel", "correct": false },
+        { "text": "Eau", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel élément est utilisé pour fabriquer les allumettes ?",
+      "answers": [
+        { "text": "Phosphore", "correct": true },
+        { "text": "Soufre", "correct": false },
+        { "text": "Carbone", "correct": false },
+        { "text": "Azote", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz est inodore et empêche la combustion ?",
+      "answers": [
+        { "text": "Oxygène", "correct": false },
+        { "text": "Dioxyde de carbone", "correct": true },
+        { "text": "Azote", "correct": false },
+        { "text": "Hydrogène", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel métal est le plus conducteur d’électricité ?",
+      "answers": [
+        { "text": "Argent", "correct": true },
+        { "text": "Cuivre", "correct": false },
+        { "text": "Or", "correct": false },
+        { "text": "Aluminium", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz est utilisé dans les ampoules électriques pour ne pas brûler le filament ?",
+      "answers": [
+        { "text": "Argon", "correct": true },
+        { "text": "Oxygène", "correct": false },
+        { "text": "Hydrogène", "correct": false },
+        { "text": "Azote", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz toxique est produit par la combustion du charbon ?",
+      "answers": [
+        { "text": "Monoxyde de carbone", "correct": true },
+        { "text": "Dioxyde de carbone", "correct": false },
+        { "text": "Oxygène", "correct": false },
+        { "text": "Azote", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel métal donne une couleur bleue aux feux d’artifice ?",
+      "answers": [
+        { "text": "Cuivre", "correct": true },
+        { "text": "Sodium", "correct": false },
+        { "text": "Calcium", "correct": false },
+        { "text": "Strontium", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le gaz principal contenu dans l’air ?",
+      "answers": [
+        { "text": "Azote", "correct": true },
+        { "text": "Oxygène", "correct": false },
+        { "text": "Dioxyde de carbone", "correct": false },
+        { "text": "Argon", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel sel est utilisé pour assaisonner les aliments ?",
+      "answers": [
+        { "text": "Chlorure de sodium", "correct": true },
+        { "text": "Sulfate de cuivre", "correct": false },
+        { "text": "Nitrate d’argent", "correct": false },
+        { "text": "Carbonate de calcium", "correct": false }
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         { "text": "Marie Curie", "correct": false },
         { "text": "Niels Bohr", "correct": false }
       ]
+    },
+    {
+      "question": "Quel métal alcalin réagit violemment avec l’eau ?",
+      "answers": [
+        { "text": "Sodium", "correct": true },
+        { "text": "Calcium", "correct": false },
+        { "text": "Fer", "correct": false },
+        { "text": "Aluminium", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz noble est utilisé dans les enseignes lumineuses ?",
+      "answers": [
+        { "text": "Néon", "correct": true },
+        { "text": "Argon", "correct": false },
+        { "text": "Hélium", "correct": false },
+        { "text": "Krypton", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel élément est présent dans le sel gemme ?",
+      "answers": [
+        { "text": "Sodium", "correct": true },
+        { "text": "Potassium", "correct": false },
+        { "text": "Chlore", "correct": false },
+        { "text": "Calcium", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la formule chimique du dioxyde de carbone ?",
+      "answers": [
+        { "text": "CO2", "correct": true },
+        { "text": "CO", "correct": false },
+        { "text": "O2", "correct": false },
+        { "text": "C2O", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le principal composant de l’acide sulfurique ?",
+      "answers": [
+        { "text": "Soufre", "correct": true },
+        { "text": "Azote", "correct": false },
+        { "text": "Carbone", "correct": false },
+        { "text": "Phosphore", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu’est-ce qu’une mole en chimie ?",
+      "answers": [
+        { "text": "Une unité de masse", "correct": false },
+        { "text": "Une unité de quantité de matière (6.022×10^23 entités)", "correct": true },
+        { "text": "Un volume standard", "correct": false },
+        { "text": "Une concentration", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le symbole chimique du potassium ?",
+      "answers": [
+        { "text": "P", "correct": false },
+        { "text": "Pt", "correct": false },
+        { "text": "K", "correct": true },
+        { "text": "Po", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le produit principal de la combustion complète du méthane (CH4) ?",
+      "answers": [
+        { "text": "CO", "correct": false },
+        { "text": "CO2", "correct": true },
+        { "text": "C (suie)", "correct": false },
+        { "text": "H2", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la charge d’un ion sodium (Na+) ?",
+      "answers": [
+        { "text": "+1", "correct": true },
+        { "text": "-1", "correct": false },
+        { "text": "0", "correct": false },
+        { "text": "+2", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle molécule forme des liaisons hydrogène importantes pour les propriétés de l’eau ?",
+      "answers": [
+        { "text": "H2O", "correct": true },
+        { "text": "CO2", "correct": false },
+        { "text": "O2", "correct": false },
+        { "text": "CH4", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la masse molaire approximative de l’eau (H2O) ?",
+      "answers": [
+        { "text": "18 g·mol^-1", "correct": true },
+        { "text": "2 g·mol^-1", "correct": false },
+        { "text": "34 g·mol^-1", "correct": false },
+        { "text": "44 g·mol^-1", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel élément fait partie des halogènes (groupe 17) ?",
+      "answers": [
+        { "text": "Chlore (Cl)", "correct": true },
+        { "text": "Fer (Fe)", "correct": false },
+        { "text": "Carbone (C)", "correct": false },
+        { "text": "Argon (Ar)", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu’est-ce qu’un catalyseur ?",
+      "answers": [
+        { "text": "Une substance qui augmente la vitesse d’une réaction sans être consommée", "correct": true },
+        { "text": "Une substance qui abaisse la température de réaction", "correct": false },
+        { "text": "Une substance qui change l’équilibre final d’une réaction", "correct": false },
+        { "text": "Une substance qui augmente la masse des produits", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle méthode permet de déterminer la masse des atomes et des isotopes ?",
+      "answers": [
+        { "text": "Spectrométrie de masse", "correct": true },
+        { "text": "Chromatographie", "correct": false },
+        { "text": "Titrage", "correct": false },
+        { "text": "Spectroscopie IR", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type de liaison est formé par le transfert d’électrons entre deux atomes ?",
+      "answers": [
+        { "text": "Liaison ionique", "correct": true },
+        { "text": "Liaison covalente", "correct": false },
+        { "text": "Liaison métallique", "correct": false },
+        { "text": "Liaison hydrogène", "correct": false }
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         { "text": "Marie Curie", "correct": true },
         { "text": "Pierre Curie", "correct": false },
         { "text": "Ernest Rutherford", "correct": false }
+      ]
+    },
+    {
+      "question": "Que signifie une variation d’enthalpie libre de Gibbs ΔG négative pour une réaction ?",
+      "answers": [
+        { "text": "La réaction est spontanée dans les conditions données", "correct": true },
+        { "text": "La réaction est non-spontanée", "correct": false },
+        { "text": "La réaction est à l’équilibre", "correct": false },
+        { "text": "La réaction nécessite un catalyseur", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la forme de l’équation d’Arrhenius liant la constante de vitesse k à la température T ?",
+      "answers": [
+        { "text": "k = A × e^{-Ea/(RT)}", "correct": true },
+        { "text": "k = A × T^n", "correct": false },
+        { "text": "k = A + Ea/RT", "correct": false },
+        { "text": "k = A × ln(Ea/RT)", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu’est-ce que la chiralité en chimie organique ?",
+      "answers": [
+        { "text": "La propriété d’une molécule d’être superposable à son image miroir", "correct": false },
+        { "text": "La propriété d’une molécule de ne pas être superposable à son image miroir", "correct": true },
+        { "text": "La capacité d’un atome à former 4 liaisons", "correct": false },
+        { "text": "Une liaison particulière entre deux carbones", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type de spectroscopie est le plus utilisé pour identifier les groupes fonctionnels (ex : C=O, O-H) ?",
+      "answers": [
+        { "text": "Spectroscopie infrarouge (IR)", "correct": true },
+        { "text": "Spectrométrie de masse", "correct": false },
+        { "text": "RMN (NMR)", "correct": false },
+        { "text": "Chromatographie liquide", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle hybridation possède un atome de carbone dans l’éthylène (C2H4) ?",
+      "answers": [
+        { "text": "sp3", "correct": false },
+        { "text": "sp2", "correct": true },
+        { "text": "sp", "correct": false },
+        { "text": "d", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le pKa approximatif de l’acide acétique ?",
+      "answers": [
+        { "text": "≈ -1", "correct": false },
+        { "text": "≈ 4.8", "correct": true },
+        { "text": "≈ 7", "correct": false },
+        { "text": "≈ 10", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu’est-ce qu’un isomère de constitution (isomère structural) ?",
+      "answers": [
+        { "text": "Deux molécules ayant la même formule brute mais des enchaînements d’atomes différents", "correct": true },
+        { "text": "Deux molécules miroir l’une de l’autre", "correct": false },
+        { "text": "Deux molécules avec la même structure et propriétés", "correct": false },
+        { "text": "Deux ions ayant la même charge", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la loi de Beer-Lambert ?",
+      "answers": [
+        { "text": "A = ε × l × c (absorbance proportionnelle à la concentration)", "correct": true },
+        { "text": "pV = nRT", "correct": false },
+        { "text": "E = mc^2", "correct": false },
+        { "text": "ΔG = ΔH - TΔS", "correct": false }
+      ]
+    },
+    {
+      "question": "Si la vitesse d’une réaction est v = k [A]^2 [B], quel est l’ordre global de la réaction ?",
+      "answers": [
+        { "text": "1", "correct": false },
+        { "text": "2", "correct": false },
+        { "text": "3", "correct": true },
+        { "text": "0", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu’est-ce que l’énergie d’ionisation d’un atome ?",
+      "answers": [
+        { "text": "L’énergie nécessaire pour ajouter un électron à l’atome", "correct": false },
+        { "text": "L’énergie requise pour enlever un électron à l’état gazeux", "correct": true },
+        { "text": "L’énergie libérée lors de la formation d’une liaison", "correct": false },
+        { "text": "La quantité d’énergie d’un photon absorbé", "correct": false }
+      ]
+    },
+    {
+      "question": "Que mesure un spectromètre de masse ?",
+      "answers": [
+        { "text": "La masse molaire en g·mol^-1", "correct": false },
+        { "text": "Le rapport masse/charge (m/z) des ions", "correct": true },
+        { "text": "L’absorbance UV", "correct": false },
+        { "text": "La conductivité électrique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le produit principal de l’oxydation douce d’un alcool primaire ?",
+      "answers": [
+        { "text": "Acide carboxylique", "correct": false },
+        { "text": "Aldéhyde", "correct": true },
+        { "text": "Cétone", "correct": false },
+        { "text": "Éther", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment se comporte la vitesse d’une réaction d’ordre zéro par rapport à la concentration du réactif ?",
+      "answers": [
+        { "text": "La vitesse est proportionnelle à la concentration", "correct": false },
+        { "text": "La vitesse est indépendante de la concentration", "correct": true },
+        { "text": "La vitesse est proportionnelle au carré de la concentration", "correct": false },
+        { "text": "La vitesse diminue avec la concentration", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu’est-ce qu’un complexe de coordination ?",
+      "answers": [
+        { "text": "Un assemblage d’atomes d’un métal reliés par des liaisons covalentes uniquement", "correct": false },
+        { "text": "Un ion métallique central entouré de ligands liés par des liaisons coordonnées", "correct": true },
+        { "text": "Un sel ionique simple", "correct": false },
+        { "text": "Un polymère organique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la polarité de la molécule de dioxyde de carbone (CO2) ?",
+      "answers": [
+        { "text": "Polaire", "correct": false },
+        { "text": "Non polaire (linéaire)", "correct": true },
+        { "text": "Ionique", "correct": false },
+        { "text": "Dipôle permanent très fort", "correct": false }
       ]
     }
   ]

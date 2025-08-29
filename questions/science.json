@@ -44,6 +44,141 @@
         { "text": "Dioxyde de carbone", "correct": false },
         { "text": "Hydrogène", "correct": false }
       ]
+    },
+    {
+      "question": "Quel est le métal le plus léger ?",
+      "answers": [
+        { "text": "Plomb", "correct": false },
+        { "text": "Lithium", "correct": true },
+        { "text": "Fer", "correct": false },
+        { "text": "Aluminium", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien de couleurs y a-t-il dans un arc-en-ciel ?",
+      "answers": [
+        { "text": "5", "correct": false },
+        { "text": "6", "correct": false },
+        { "text": "7", "correct": true },
+        { "text": "8", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel organe permet à l’homme de respirer ?",
+      "answers": [
+        { "text": "Le cœur", "correct": false },
+        { "text": "Les poumons", "correct": true },
+        { "text": "Le foie", "correct": false },
+        { "text": "Les reins", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’état de l’eau à 0°C ?",
+      "answers": [
+        { "text": "Liquide", "correct": false },
+        { "text": "Solide", "correct": true },
+        { "text": "Gaz", "correct": false },
+        { "text": "Plasma", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien de sens a l’être humain ?",
+      "answers": [
+        { "text": "4", "correct": false },
+        { "text": "5", "correct": true },
+        { "text": "6", "correct": false },
+        { "text": "7", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "answers": [
+        { "text": "Éléphant", "correct": true },
+        { "text": "Girafe", "correct": false },
+        { "text": "Rhinocéros", "correct": false },
+        { "text": "Hippopotame", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle planète est connue pour ses anneaux ?",
+      "answers": [
+        { "text": "Saturne", "correct": true },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Uranus", "correct": false },
+        { "text": "Neptune", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel organe produit l’insuline ?",
+      "answers": [
+        { "text": "Le pancréas", "correct": true },
+        { "text": "Le foie", "correct": false },
+        { "text": "La rate", "correct": false },
+        { "text": "Les reins", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz est essentiel à la combustion ?",
+      "answers": [
+        { "text": "Oxygène", "correct": true },
+        { "text": "Azote", "correct": false },
+        { "text": "Hydrogène", "correct": false },
+        { "text": "Dioxyde de carbone", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’organe de la vision ?",
+      "answers": [
+        { "text": "L’oreille", "correct": false },
+        { "text": "L’œil", "correct": true },
+        { "text": "Le nez", "correct": false },
+        { "text": "La langue", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la planète la plus proche du Soleil ?",
+      "answers": [
+        { "text": "Mercure", "correct": true },
+        { "text": "Vénus", "correct": false },
+        { "text": "Terre", "correct": false },
+        { "text": "Mars", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz est utilisé dans les ampoules à incandescence ?",
+      "answers": [
+        { "text": "Oxygène", "correct": false },
+        { "text": "Argon", "correct": true },
+        { "text": "Azote", "correct": false },
+        { "text": "Hydrogène", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la vitesse approximative du son dans l’air ?",
+      "answers": [
+        { "text": "340 m/s", "correct": true },
+        { "text": "300 m/s", "correct": false },
+        { "text": "150 m/s", "correct": false },
+        { "text": "1000 m/s", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien d’os contient le corps humain adulte ?",
+      "answers": [
+        { "text": "206", "correct": true },
+        { "text": "201", "correct": false },
+        { "text": "210", "correct": false },
+        { "text": "215", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’élément chimique dont le symbole est H ?",
+      "answers": [
+        { "text": "Hydrogène", "correct": true },
+        { "text": "Hélium", "correct": false },
+        { "text": "Fer", "correct": false },
+        { "text": "Or", "correct": false }
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         { "text": "Ampère", "correct": true },
         { "text": "Watt", "correct": false }
       ]
+    },
+    {
+      "question": "Quelle est la vitesse moyenne de la lumière dans le vide ?",
+      "answers": [
+        { "text": "300 000 km/s", "correct": true },
+        { "text": "150 000 km/s", "correct": false },
+        { "text": "30 000 km/s", "correct": false },
+        { "text": "3 000 km/s", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz est responsable de l’effet de serre naturel ?",
+      "answers": [
+        { "text": "Oxygène", "correct": false },
+        { "text": "Dioxyde de carbone", "correct": true },
+        { "text": "Azote", "correct": false },
+        { "text": "Hydrogène", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel organe filtre le sang pour produire l’urine ?",
+      "answers": [
+        { "text": "Le foie", "correct": false },
+        { "text": "Les reins", "correct": true },
+        { "text": "La rate", "correct": false },
+        { "text": "Les poumons", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz noble est utilisé dans les enseignes lumineuses ?",
+      "answers": [
+        { "text": "Hélium", "correct": false },
+        { "text": "Néon", "correct": true },
+        { "text": "Argon", "correct": false },
+        { "text": "Krypton", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel élément chimique a pour symbole Na ?",
+      "answers": [
+        { "text": "Sodium", "correct": true },
+        { "text": "Nickel", "correct": false },
+        { "text": "Neon", "correct": false },
+        { "text": "Nitrogène", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand os du corps humain ?",
+      "answers": [
+        { "text": "Fémur", "correct": true },
+        { "text": "Tibia", "correct": false },
+        { "text": "Humérus", "correct": false },
+        { "text": "Radius", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la formule chimique du sel de table ?",
+      "answers": [
+        { "text": "NaCl", "correct": true },
+        { "text": "KCl", "correct": false },
+        { "text": "CaCO3", "correct": false },
+        { "text": "MgSO4", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel scientifique est connu pour ses lois sur le mouvement ?",
+      "answers": [
+        { "text": "Galilée", "correct": false },
+        { "text": "Isaac Newton", "correct": true },
+        { "text": "Albert Einstein", "correct": false },
+        { "text": "Archimède", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la principale source d’énergie de la Terre ?",
+      "answers": [
+        { "text": "Le vent", "correct": false },
+        { "text": "Le Soleil", "correct": true },
+        { "text": "La géothermie", "correct": false },
+        { "text": "Le charbon", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le seul mammifère capable de voler ?",
+      "answers": [
+        { "text": "La chauve-souris", "correct": true },
+        { "text": "L’écureuil volant", "correct": false },
+        { "text": "Le colibri", "correct": false },
+        { "text": "Le dragon de Komodo", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène cause les marées ?",
+      "answers": [
+        { "text": "Le vent", "correct": false },
+        { "text": "La gravité de la Lune", "correct": true },
+        { "text": "La rotation de la Terre", "correct": false },
+        { "text": "La pression atmosphérique", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel organe produit la bile ?",
+      "answers": [
+        { "text": "Le foie", "correct": true },
+        { "text": "Le pancréas", "correct": false },
+        { "text": "La rate", "correct": false },
+        { "text": "Les reins", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz est le plus léger de tous ?",
+      "answers": [
+        { "text": "Hydrogène", "correct": true },
+        { "text": "Hélium", "correct": false },
+        { "text": "Oxygène", "correct": false },
+        { "text": "Azote", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le principal composant de l’atmosphère terrestre ?",
+      "answers": [
+        { "text": "Oxygène", "correct": false },
+        { "text": "Azote", "correct": true },
+        { "text": "Dioxyde de carbone", "correct": false },
+        { "text": "Hydrogène", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l'organe du corps humain responsable de l'équilibre ?",
+      "answers": [
+        { "text": "Le cerveau", "correct": false },
+        { "text": "L'oreille interne", "correct": true },
+        { "text": "Les reins", "correct": false },
+        { "text": "Le foie", "correct": false }
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         { "text": "Réfraction", "correct": false },
         { "text": "Effet Doppler", "correct": false },
         { "text": "Polarisation", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la constante universelle de gravitation ?",
+      "answers": [
+        { "text": "6,674 × 10⁻¹¹ N·m²/kg²", "correct": true },
+        { "text": "9,81 m/s²", "correct": false },
+        { "text": "3 × 10⁸ m/s", "correct": false },
+        { "text": "1,602 × 10⁻¹⁹ C", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l’élément chimique le plus abondant dans l’univers ?",
+      "answers": [
+        { "text": "Hydrogène", "correct": true },
+        { "text": "Hélium", "correct": false },
+        { "text": "Oxygène", "correct": false },
+        { "text": "Carbone", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel scientifique a découvert la radioactivité ?",
+      "answers": [
+        { "text": "Marie Curie", "correct": true },
+        { "text": "Albert Einstein", "correct": false },
+        { "text": "Isaac Newton", "correct": false },
+        { "text": "Niels Bohr", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand organe du corps humain ?",
+      "answers": [
+        { "text": "La peau", "correct": true },
+        { "text": "Le foie", "correct": false },
+        { "text": "Le cerveau", "correct": false },
+        { "text": "Le cœur", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la principale source de vitamine D ?",
+      "answers": [
+        { "text": "Soleil", "correct": true },
+        { "text": "Lait", "correct": false },
+        { "text": "Poisson", "correct": false },
+        { "text": "Fruits", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le symbole chimique du mercure ?",
+      "answers": [
+        { "text": "Hg", "correct": true },
+        { "text": "Mc", "correct": false },
+        { "text": "Mn", "correct": false },
+        { "text": "Me", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la planète la plus massive du système solaire ?",
+      "answers": [
+        { "text": "Jupiter", "correct": true },
+        { "text": "Saturne", "correct": false },
+        { "text": "Neptune", "correct": false },
+        { "text": "Terre", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel scientifique est à l’origine des lois de l’hérédité ?",
+      "answers": [
+        { "text": "Gregor Mendel", "correct": true },
+        { "text": "Charles Darwin", "correct": false },
+        { "text": "Louis Pasteur", "correct": false },
+        { "text": "Francis Crick", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel organe produit les globules rouges ?",
+      "answers": [
+        { "text": "La moelle osseuse", "correct": true },
+        { "text": "Le foie", "correct": false },
+        { "text": "La rate", "correct": false },
+        { "text": "Les reins", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel phénomène physique explique la montée d’un liquide dans un tube étroit ?",
+      "answers": [
+        { "text": "Capillarité", "correct": true },
+        { "text": "Diffusion", "correct": false },
+        { "text": "Osmose", "correct": false },
+        { "text": "Tension superficielle", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la distance moyenne entre la Terre et le Soleil ?",
+      "answers": [
+        { "text": "149,6 millions de km", "correct": true },
+        { "text": "100 millions de km", "correct": false },
+        { "text": "200 millions de km", "correct": false },
+        { "text": "300 millions de km", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz provoque l’éclatement des bulles de savon en contact avec l’air ?",
+      "answers": [
+        { "text": "Oxygène", "correct": false },
+        { "text": "Dioxyde de carbone", "correct": false },
+        { "text": "Air", "correct": true },
+        { "text": "Hydrogène", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la longueur d’onde approximative de la lumière visible rouge ?",
+      "answers": [
+        { "text": "700 nm", "correct": true },
+        { "text": "400 nm", "correct": false },
+        { "text": "1000 nm", "correct": false },
+        { "text": "300 nm", "correct": false }
+      ]
+    },
+    {
+      "question": "Je suis une ville coupée en deux par un célèbre mur, symbole de la Guerre froide. Qui suis-je ?",
+      "answers": [
+        { "text": "Berlin", "correct": true },
+        { "text": "Vienne", "correct": false },
+        { "text": "Varsovie", "correct": false },
+        { "text": "Budapest", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle loi décrit la relation entre la pression et le volume d’un gaz à température constante ?",
+      "answers": [
+        { "text": "Loi de Boyle-Mariotte", "correct": true },
+        { "text": "Loi de Charles", "correct": false },
+        { "text": "Loi de Newton", "correct": false },
+        { "text": "Loi d’Avogadro", "correct": false }
       ]
     }
   ]

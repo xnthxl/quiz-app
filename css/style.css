@@ -74,6 +74,8 @@ body.light-theme {
     --card-text-hover: #333;
 }
 body.light-theme .btn, 
+body.light-theme #current-quiz, 
+body.light-theme #current-difficulty, 
 body.light-theme .btn-neon, 
 body.light-theme .btn-neon-select, 
 body.light-theme .quiz-card, 
@@ -231,19 +233,17 @@ body {
     color: var(--color-text);
 }
 
-/* ===================== MAIN CONTENT ===================== */
-main {
-    flex: 1;
+/* ===================== HOME ===================== */
+.home-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 50px 20px;
+    padding: 30px 20px;
     width: 100%;
     text-align: center;
 }
 
-/* ===================== HOME ===================== */
 .home-container h1 {
     font-size: 3em;
     color: var(--color-h1);
@@ -320,7 +320,35 @@ main {
 }
 
 /* ===================== QUIZ ===================== */
+#current-quiz-info {
+    display: none;
+    top: 30px;
+    left: 0;
+    width: 100%;
+    color: #00E5FF;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 0;
+}
+#current-quiz{
+    color: var(--btn-text);
+    font-size:2em; 
+    font-weight: 600;
+    margin-bottom:2rem;
+    text-shadow: 0 0 5px var(--color-primary);
+}
+#current-difficulty{
+    font-size: 1.3em;
+    font-weight: 400;
+    color: var(--color-text);
+    text-shadow: 0 0 10px var(--color-accent), 0 0 20px var(--color-accent);
+}
 .quiz-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
     background-color: var(--color-bg-light);
     border: 2px solid var(--color-accent);
     border-radius: 10px;
@@ -328,8 +356,9 @@ main {
     max-width: 400px;
     text-align: center;
     box-shadow: 0 0 20px var(--color-accent), 0 0 40px var(--color-primary);
-    margin: 10px auto 30px auto;
+    margin: 10px auto 50px auto;
     padding: 20px;
+    height: 450px;
 }
 
 .answer-container {
@@ -378,17 +407,9 @@ main {
     box-shadow: 0 0 10px var(--color-wrong), 0 0 20px var(--color-wrong);
 }
 
-#question-container {
-    height: 450px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
-}
-
 #question {
     font-size: 1.3em;
-    margin: 30px 0;
+    margin: 20px 0;
     padding: 30px 0;
     height: 120px;
     display: flex;
@@ -397,16 +418,32 @@ main {
     text-align: center;
 }
 
+#question-number{
+    color: var(--color-accent);
+    font-weight: 400;
+    margin-top: 30px;
+}
+
 #score {
-    margin: 10px 0;
+    margin-top: 200px;
+    display: flex;
     font-weight: bold;
+    justify-content: center;
     text-align: center;
+    height: auto;
 }
 #controls {
     display: flex;
     justify-content: center;
-    margin-top: 20px;
+    height: 50px;
+    margin-top: 18px;
 }
+
+#end-score{
+    display: none;
+    margin: 100px 0 100px 0;
+}
+
 /* ===================== FORMULAIRES ===================== */
 #contact-form {
     display: flex;
@@ -449,7 +486,7 @@ main {
 /* ===================== CARTES ===================== */
 .quiz-selection {
     display: grid;
-    grid-template-columns: repeat(auto-fill, 180px);
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     grid-auto-rows: 120px;
     justify-content: center;
     gap: 20px;
@@ -632,15 +669,19 @@ footer {
     .home-container h1 { font-size: 2.2em; }
     .home-container p { font-size: 0.9em; }
     .quiz-container { width: 95%; padding: 10px; }
-    .quiz-card { padding: 5px; font-size: 0.95em; }
     #contact-form { width: 100%; }
     #contact-form input,
     #contact-form textarea,
     #difficulty { font-size: 0.95em; padding: 10px; }
     .quiz-selection {
         grid-template-columns: repeat(2, 1fr);
+        grid-auto-rows: minmax(120px, auto);
         gap: 10px;
     }
+
+    .quiz-card { padding: 5px; font-size: 0.95em; max-width: none;}
+    
+
     #question {
         font-size: clamp(1em, 4vw, 1.3em);
         padding: 20px 10px;
@@ -654,5 +695,13 @@ footer {
     }
     body.light-theme .nav-links{
         border: 3px solid var(--color-accent);
+    }
+
+    #current-quiz-info{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
     }
 }

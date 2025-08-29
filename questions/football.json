@@ -44,6 +44,141 @@
         {"text": "Diriger l’équipe", "correct": false},
         {"text": "Distribuer les cartons", "correct": false}
       ]
+    },
+    {
+      "question": "Combien de mi-temps y a-t-il dans un match de football ?",
+      "answers": [
+        {"text": "2", "correct": true},
+        {"text": "3", "correct": false},
+        {"text": "4", "correct": false},
+        {"text": "1", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde en 2006 ?",
+      "answers": [
+        {"text": "Italie", "correct": true},
+        {"text": "France", "correct": false},
+        {"text": "Brésil", "correct": false},
+        {"text": "Allemagne", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur argentin est surnommé 'La Pulga' ?",
+      "answers": [
+        {"text": "Lionel Messi", "correct": true},
+        {"text": "Diego Maradona", "correct": false},
+        {"text": "Sergio Agüero", "correct": false},
+        {"text": "Carlos Tevez", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli la Coupe du Monde en 2014 ?",
+      "answers": [
+        {"text": "Brésil", "correct": true},
+        {"text": "Russie", "correct": false},
+        {"text": "Afrique du Sud", "correct": false},
+        {"text": "Allemagne", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle est la durée normale d’un match de football ?",
+      "answers": [
+        {"text": "90 minutes", "correct": true},
+        {"text": "60 minutes", "correct": false},
+        {"text": "120 minutes", "correct": false},
+        {"text": "80 minutes", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté la première Coupe du Monde en 1930 ?",
+      "answers": [
+        {"text": "Uruguay", "correct": true},
+        {"text": "Argentine", "correct": false},
+        {"text": "Brésil", "correct": false},
+        {"text": "Italie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur portugais a remporté l’Euro 2016 avec son pays ?",
+      "answers": [
+        {"text": "Cristiano Ronaldo", "correct": true},
+        {"text": "Luis Figo", "correct": false},
+        {"text": "Pepe", "correct": false},
+        {"text": "Nani", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club espagnol est surnommé 'Los Blancos' ?",
+      "answers": [
+        {"text": "Real Madrid", "correct": true},
+        {"text": "Barcelona", "correct": false},
+        {"text": "Atlético Madrid", "correct": false},
+        {"text": "Sevilla", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le rôle des défenseurs ?",
+      "answers": [
+        {"text": "Protéger le but", "correct": true},
+        {"text": "Marquer des buts", "correct": false},
+        {"text": "Arbitrer le match", "correct": false},
+        {"text": "Distribuer le ballon", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur français est surnommé 'Le Petit Prince' ?",
+      "answers": [
+        {"text": "Zinedine Zidane", "correct": true},
+        {"text": "Thierry Henry", "correct": false},
+        {"text": "Michel Platini", "correct": false},
+        {"text": "Kylian Mbappé", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde en 1998 ?",
+      "answers": [
+        {"text": "France", "correct": true},
+        {"text": "Brésil", "correct": false},
+        {"text": "Italie", "correct": false},
+        {"text": "Allemagne", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien de remplaçants sont autorisés lors d’un match officiel ?",
+      "answers": [
+        {"text": "3", "correct": true},
+        {"text": "5", "correct": false},
+        {"text": "4", "correct": false},
+        {"text": "2", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur italien est surnommé 'Il Capitano' ?",
+      "answers": [
+        {"text": "Francesco Totti", "correct": true},
+        {"text": "Paolo Maldini", "correct": false},
+        {"text": "Andrea Pirlo", "correct": false},
+        {"text": "Gianluigi Buffon", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde en 2010 ?",
+      "answers": [
+        {"text": "Espagne", "correct": true},
+        {"text": "Pays-Bas", "correct": false},
+        {"text": "Allemagne", "correct": false},
+        {"text": "Brésil", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le rôle des milieux de terrain ?",
+      "answers": [
+        {"text": "Relayer le ballon entre défense et attaque", "correct": true},
+        {"text": "Marquer uniquement", "correct": false},
+        {"text": "Arbitrer le jeu", "correct": false},
+        {"text": "Arrêter les tirs", "correct": false}
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         {"text": "Serie A", "correct": false},
         {"text": "Bundesliga", "correct": false}
       ]
+    },
+    {
+      "question": "Quel club a gagné le plus de Ligues des Champions ?",
+      "answers": [
+        {"text": "Real Madrid", "correct": true},
+        {"text": "AC Milan", "correct": false},
+        {"text": "Liverpool", "correct": false},
+        {"text": "Barcelona", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur portugais est célèbre pour sa technique de 'Rabona' ?",
+      "answers": [
+        {"text": "Cristiano Ronaldo", "correct": true},
+        {"text": "Luis Figo", "correct": false},
+        {"text": "Pepe", "correct": false},
+        {"text": "Nani", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club espagnol est surnommé 'Los Colchoneros' ?",
+      "answers": [
+        {"text": "Atlético Madrid", "correct": true},
+        {"text": "Real Madrid", "correct": false},
+        {"text": "Barcelona", "correct": false},
+        {"text": "Sevilla", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur argentin a remporté la Copa América en 2021 ?",
+      "answers": [
+        {"text": "Lionel Messi", "correct": true},
+        {"text": "Sergio Agüero", "correct": false},
+        {"text": "Paulo Dybala", "correct": false},
+        {"text": "Angel Di Maria", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club allemand est surnommé 'Die Bayern' ?",
+      "answers": [
+        {"text": "Bayern Munich", "correct": true},
+        {"text": "Borussia Dortmund", "correct": false},
+        {"text": "Schalke 04", "correct": false},
+        {"text": "RB Leipzig", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur français a marqué le but décisif en finale de la Coupe du Monde 2018 ?",
+      "answers": [
+        {"text": "Mario Mandzukic (c.s.c.)", "correct": true},
+        {"text": "Kylian Mbappé", "correct": false},
+        {"text": "Antoine Griezmann", "correct": false},
+        {"text": "Paul Pogba", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club anglais est surnommé 'The Citizens' ?",
+      "answers": [
+        {"text": "Manchester City", "correct": true},
+        {"text": "Manchester United", "correct": false},
+        {"text": "Chelsea", "correct": false},
+        {"text": "Liverpool", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur espagnol a été surnommé 'El Matador' ?",
+      "answers": [
+        {"text": "Fernando Torres", "correct": true},
+        {"text": "David Villa", "correct": false},
+        {"text": "Sergio Ramos", "correct": false},
+        {"text": "Xavi Hernandez", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club français est surnommé 'Les Parisiens' ?",
+      "answers": [
+        {"text": "Paris Saint-Germain", "correct": true},
+        {"text": "Olympique Lyonnais", "correct": false},
+        {"text": "AS Monaco", "correct": false},
+        {"text": "Marseille", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur italien a remporté le Ballon d’Or en 2006 ?",
+      "answers": [
+        {"text": "Fabio Cannavaro", "correct": true},
+        {"text": "Francesco Totti", "correct": false},
+        {"text": "Andrea Pirlo", "correct": false},
+        {"text": "Gianluigi Buffon", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club portugais est surnommé 'Os Dragões' ?",
+      "answers": [
+        {"text": "FC Porto", "correct": true},
+        {"text": "Benfica", "correct": false},
+        {"text": "Sporting Lisbonne", "correct": false},
+        {"text": "Braga", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur français est surnommé 'La Panthère' ?",
+      "answers": [
+        {"text": "Kylian Mbappé", "correct": true},
+        {"text": "Olivier Giroud", "correct": false},
+        {"text": "Paul Pogba", "correct": false},
+        {"text": "Karim Benzema", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club néerlandais est surnommé 'Les Godenzonen' ?",
+      "answers": [
+        {"text": "Ajax Amsterdam", "correct": true},
+        {"text": "PSV Eindhoven", "correct": false},
+        {"text": "Feyenoord", "correct": false},
+        {"text": "AZ Alkmaar", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur brésilien est surnommé 'O Fenômeno' ?",
+      "answers": [
+        {"text": "Ronaldo Nazário", "correct": true},
+        {"text": "Ronaldinho", "correct": false},
+        {"text": "Pelé", "correct": false},
+        {"text": "Neymar", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club écossais est surnommé 'The Bhoys' ?",
+      "answers": [
+        {"text": "Celtic FC", "correct": true},
+        {"text": "Rangers FC", "correct": false},
+        {"text": "Aberdeen FC", "correct": false},
+        {"text": "Hearts", "correct": false}
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         {"text": "Thierry Henry", "correct": false},
         {"text": "Michel Platini", "correct": false},
         {"text": "David Trezeguet", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club a remporté la Ligue Europa en 2021 ?",
+      "answers": [
+        {"text": "Villarreal", "correct": true},
+        {"text": "Manchester United", "correct": false},
+        {"text": "Sevilla", "correct": false},
+        {"text": "Arsenal", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a marqué le but décisif en finale de la Ligue des Champions 2005 ?",
+      "answers": [
+        {"text": "Liverpool", "correct": true},
+        {"text": "Milan AC", "correct": false},
+        {"text": "Chelsea", "correct": false},
+        {"text": "Juventus", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur italien a remporté la Coupe du Monde en 2006 ?",
+      "answers": [
+        {"text": "Fabio Cannavaro", "correct": true},
+        {"text": "Francesco Totti", "correct": false},
+        {"text": "Andrea Pirlo", "correct": false},
+        {"text": "Gianluigi Buffon", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club allemand est surnommé 'Die Schwarzgelben' ?",
+      "answers": [
+        {"text": "Borussia Dortmund", "correct": true},
+        {"text": "Bayern Munich", "correct": false},
+        {"text": "Schalke 04", "correct": false},
+        {"text": "RB Leipzig", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur brésilien a remporté la Coupe du Monde 2002 ?",
+      "answers": [
+        {"text": "Ronaldo Nazário", "correct": true},
+        {"text": "Ronaldinho", "correct": false},
+        {"text": "Rivaldo", "correct": false},
+        {"text": "Kaká", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club espagnol a remporté la Supercoupe d’Espagne 2023 ?",
+      "answers": [
+        {"text": "Barcelona", "correct": true},
+        {"text": "Real Madrid", "correct": false},
+        {"text": "Atlético Madrid", "correct": false},
+        {"text": "Sevilla", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur français a remporté la Ligue Europa en 2018 avec l’Atlético Madrid ?",
+      "answers": [
+        {"text": "Antoine Griezmann", "correct": true},
+        {"text": "Paul Pogba", "correct": false},
+        {"text": "Kylian Mbappé", "correct": false},
+        {"text": "Olivier Giroud", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club portugais a remporté la Ligue des Champions en 1961 ?",
+      "answers": [
+        {"text": "Benfica", "correct": true},
+        {"text": "Porto", "correct": false},
+        {"text": "Sporting Lisbonne", "correct": false},
+        {"text": "Braga", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur néerlandais est surnommé 'Le Prophète' ?",
+      "answers": [
+        {"text": "Johan Cruyff", "correct": true},
+        {"text": "Marco van Basten", "correct": false},
+        {"text": "Dennis Bergkamp", "correct": false},
+        {"text": "Ruud Gullit", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club anglais a remporté la FA Cup 2020 ?",
+      "answers": [
+        {"text": "Arsenal", "correct": true},
+        {"text": "Chelsea", "correct": false},
+        {"text": "Manchester United", "correct": false},
+        {"text": "Leicester City", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur espagnol a remporté le Ballon d’Or 2010 ?",
+      "answers": [
+        {"text": "Andrés Iniesta", "correct": true},
+        {"text": "Xavi", "correct": false},
+        {"text": "David Villa", "correct": false},
+        {"text": "Iker Casillas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club français a été champion de Ligue 1 en 2022 ?",
+      "answers": [
+        {"text": "Paris Saint-Germain", "correct": true},
+        {"text": "Marseille", "correct": false},
+        {"text": "Lyon", "correct": false},
+        {"text": "Monaco", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur anglais a remporté la Coupe du Monde 1966 ?",
+      "answers": [
+        {"text": "Bobby Charlton", "correct": true},
+        {"text": "Geoff Hurst", "correct": false},
+        {"text": "Martin Peters", "correct": false},
+        {"text": "Gordon Banks", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel club italien a remporté la Serie A 2022-2023 ?",
+      "answers": [
+        {"text": "Napoli", "correct": true},
+        {"text": "Juventus", "correct": false},
+        {"text": "Inter Milan", "correct": false},
+        {"text": "AC Milan", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur brésilien a été surnommé 'O Rei' ?",
+      "answers": [
+        {"text": "Pelé", "correct": true},
+        {"text": "Ronaldo", "correct": false},
+        {"text": "Ronaldinho", "correct": false},
+        {"text": "Neymar", "correct": false}
       ]
     }
   ]

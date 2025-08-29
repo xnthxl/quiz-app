@@ -44,6 +44,141 @@
         {"text": "Patinage artistique", "correct": false},
         {"text": "Bobsleigh", "correct": false}
       ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’été en 2016 ?",
+      "answers": [
+        {"text": "Brésil", "correct": true},
+        {"text": "Chine", "correct": false},
+        {"text": "Royaume-Uni", "correct": false},
+        {"text": "Japon", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport se pratique avec un ballon ovale sur un terrain en herbe ?",
+      "answers": [
+        {"text": "Rugby", "correct": true},
+        {"text": "Football", "correct": false},
+        {"text": "Handball", "correct": false},
+        {"text": "Basketball", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique combine natation, cyclisme et course à pied ?",
+      "answers": [
+        {"text": "Triathlon", "correct": true},
+        {"text": "Pentathlon moderne", "correct": false},
+        {"text": "Décathlon", "correct": false},
+        {"text": "Athlétisme combiné", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’été de 2008 ?",
+      "answers": [
+        {"text": "Chine", "correct": true},
+        {"text": "Grèce", "correct": false},
+        {"text": "Japon", "correct": false},
+        {"text": "Royaume-Uni", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport se pratique en lançant un disque le plus loin possible ?",
+      "answers": [
+        {"text": "Lancer du disque", "correct": true},
+        {"text": "Lancer du javelot", "correct": false},
+        {"text": "Poids", "correct": false},
+        {"text": "Haltérophilie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’hiver de 2018 ?",
+      "answers": [
+        {"text": "Corée du Sud", "correct": true},
+        {"text": "Japon", "correct": false},
+        {"text": "Canada", "correct": false},
+        {"text": "Norvège", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique se pratique avec une balle et une raquette sur un court séparé par un filet ?",
+      "answers": [
+        {"text": "Tennis", "correct": true},
+        {"text": "Badminton", "correct": false},
+        {"text": "Squash", "correct": false},
+        {"text": "Ping-pong", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’été de 2012 ?",
+      "answers": [
+        {"text": "Royaume-Uni", "correct": true},
+        {"text": "Chine", "correct": false},
+        {"text": "Brésil", "correct": false},
+        {"text": "Russie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport consiste à grimper sur un mur artificiel le plus rapidement possible ?",
+      "answers": [
+        {"text": "Escalade sportive", "correct": true},
+        {"text": "Parkour", "correct": false},
+        {"text": "Alpinisme", "correct": false},
+        {"text": "Gymnastique", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le tournoi de volleyball masculin aux JO de 2016 ?",
+      "answers": [
+        {"text": "Brésil", "correct": true},
+        {"text": "États-Unis", "correct": false},
+        {"text": "Russie", "correct": false},
+        {"text": "Italie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique consiste à lancer un poids le plus loin possible ?",
+      "answers": [
+        {"text": "Lancer du poids", "correct": true},
+        {"text": "Lancer du javelot", "correct": false},
+        {"text": "Lancer du disque", "correct": false},
+        {"text": "Haltérophilie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’hiver de 2014 ?",
+      "answers": [
+        {"text": "Russie", "correct": true},
+        {"text": "Canada", "correct": false},
+        {"text": "Norvège", "correct": false},
+        {"text": "Japon", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport se pratique sur une piste avec un vélo spécialisé sans frein ?",
+      "answers": [
+        {"text": "Cyclisme sur piste", "correct": true},
+        {"text": "VTT", "correct": false},
+        {"text": "Cyclo-cross", "correct": false},
+        {"text": "BMX", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’été de 2004 ?",
+      "answers": [
+        {"text": "Grèce", "correct": true},
+        {"text": "Italie", "correct": false},
+        {"text": "Espagne", "correct": false},
+        {"text": "Chine", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique se pratique en sautant à la perche pour franchir une barre ?",
+      "answers": [
+        {"text": "Saut à la perche", "correct": true},
+        {"text": "Saut en hauteur", "correct": false},
+        {"text": "Saut en longueur", "correct": false},
+        {"text": "Triple saut", "correct": false}
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         {"text": "Russie", "correct": false},
         {"text": "Japon", "correct": false}
       ]
+    },
+    {
+      "question": "Quel sport se pratique sur un anneau de glace et consiste à faire glisser des pierres vers une cible ?",
+      "answers": [
+        {"text": "Curling", "correct": true},
+        {"text": "Patinage artistique", "correct": false},
+        {"text": "Hockey sur glace", "correct": false},
+        {"text": "Bobsleigh", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le tournoi de football masculin aux JO de 2016 ?",
+      "answers": [
+        {"text": "Brésil", "correct": true},
+        {"text": "Allemagne", "correct": false},
+        {"text": "Nigeria", "correct": false},
+        {"text": "Espagne", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport consiste à réaliser des figures acrobatiques sur une planche glissant sur la neige ?",
+      "answers": [
+        {"text": "Ski acrobatique", "correct": true},
+        {"text": "Snowboard", "correct": false},
+        {"text": "Luge", "correct": false},
+        {"text": "Saut à ski", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique se pratique en lançant un javelot le plus loin possible ?",
+      "answers": [
+        {"text": "Lancer du javelot", "correct": true},
+        {"text": "Lancer du disque", "correct": false},
+        {"text": "Lancer du poids", "correct": false},
+        {"text": "Haltérophilie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’hiver de 2006 ?",
+      "answers": [
+        {"text": "Italie", "correct": true},
+        {"text": "Canada", "correct": false},
+        {"text": "Japon", "correct": false},
+        {"text": "Norvège", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport combine plusieurs épreuves d’athlétisme et de gymnastique ?",
+      "answers": [
+        {"text": "Pentathlon moderne", "correct": true},
+        {"text": "Décathlon", "correct": false},
+        {"text": "Heptathlon", "correct": false},
+        {"text": "Triathlon", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le tournoi de basketball féminin aux JO de 2016 ?",
+      "answers": [
+        {"text": "États-Unis", "correct": true},
+        {"text": "Espagne", "correct": false},
+        {"text": "Australie", "correct": false},
+        {"text": "France", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique se pratique avec une épée, un fleuret ou un sabre ?",
+      "answers": [
+        {"text": "Escrime", "correct": true},
+        {"text": "Tir à l'arc", "correct": false},
+        {"text": "Boxe", "correct": false},
+        {"text": "Lutte", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’été de 1996 ?",
+      "answers": [
+        {"text": "États-Unis", "correct": true},
+        {"text": "Grèce", "correct": false},
+        {"text": "Australie", "correct": false},
+        {"text": "Chine", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport consiste à descendre une pente neigeuse assis dans un traîneau ?",
+      "answers": [
+        {"text": "Luge", "correct": true},
+        {"text": "Skeleton", "correct": false},
+        {"text": "Bobsleigh", "correct": false},
+        {"text": "Ski acrobatique", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le tournoi de volleyball féminin aux JO de 2016 ?",
+      "answers": [
+        {"text": "États-Unis", "correct": true},
+        {"text": "Brésil", "correct": false},
+        {"text": "Russie", "correct": false},
+        {"text": "Italie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique se pratique en réalisant des mouvements sur des agrès ?",
+      "answers": [
+        {"text": "Gymnastique artistique", "correct": true},
+        {"text": "Acrosport", "correct": false},
+        {"text": "Trampoline", "correct": false},
+        {"text": "Parkour", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’été de 1988 ?",
+      "answers": [
+        {"text": "Corée du Sud", "correct": true},
+        {"text": "Japon", "correct": false},
+        {"text": "Chine", "correct": false},
+        {"text": "Canada", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique consiste à glisser sur une planche sur la neige en effectuant des figures ?",
+      "answers": [
+        {"text": "Snowboard", "correct": true},
+        {"text": "Ski acrobatique", "correct": false},
+        {"text": "Luge", "correct": false},
+        {"text": "Bobsleigh", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’été de 2000 ?",
+      "answers": [
+        {"text": "Australie", "correct": true},
+        {"text": "États-Unis", "correct": false},
+        {"text": "Grèce", "correct": false},
+        {"text": "Chine", "correct": false}
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         {"text": "Ski acrobatique", "correct": false},
         {"text": "Luge", "correct": false},
         {"text": "Skeleton", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui détient le record du plus grand nombre de médailles en natation olympique ?",
+      "answers": [
+        {"text": "Michael Phelps", "correct": true},
+        {"text": "Ryan Lochte", "correct": false},
+        {"text": "Mark Spitz", "correct": false},
+        {"text": "Ian Thorpe", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’hiver de 1994 ?",
+      "answers": [
+        {"text": "Norvège", "correct": true},
+        {"text": "Suède", "correct": false},
+        {"text": "Canada", "correct": false},
+        {"text": "France", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le tournoi de football féminin aux JO de 2016 ?",
+      "answers": [
+        {"text": "États-Unis", "correct": true},
+        {"text": "Brésil", "correct": false},
+        {"text": "Allemagne", "correct": false},
+        {"text": "Canada", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique se pratique en sautant le plus loin possible à partir d’une planche ?",
+      "answers": [
+        {"text": "Saut en longueur", "correct": true},
+        {"text": "Saut en hauteur", "correct": false},
+        {"text": "Triple saut", "correct": false},
+        {"text": "Saut à la perche", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’été de 1984 ?",
+      "answers": [
+        {"text": "États-Unis", "correct": true},
+        {"text": "URSS", "correct": false},
+        {"text": "France", "correct": false},
+        {"text": "Italie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique consiste à tirer des flèches sur une cible ?",
+      "answers": [
+        {"text": "Tir à l’arc", "correct": true},
+        {"text": "Escrime", "correct": false},
+        {"text": "Tir sportif", "correct": false},
+        {"text": "Haltérophilie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le tournoi de volleyball masculin aux JO de 2016 ?",
+      "answers": [
+        {"text": "Brésil", "correct": true},
+        {"text": "États-Unis", "correct": false},
+        {"text": "Russie", "correct": false},
+        {"text": "Italie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique se pratique avec des patins sur glace en effectuant des figures ?",
+      "answers": [
+        {"text": "Patinage artistique", "correct": true},
+        {"text": "Hockey sur glace", "correct": false},
+        {"text": "Curling", "correct": false},
+        {"text": "Short-track", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’été de 1976 ?",
+      "answers": [
+        {"text": "Canada", "correct": true},
+        {"text": "États-Unis", "correct": false},
+        {"text": "Allemagne", "correct": false},
+        {"text": "France", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport consiste à effectuer des mouvements acrobatiques en trampoline ?",
+      "answers": [
+        {"text": "Trampoline", "correct": true},
+        {"text": "Gymnastique artistique", "correct": false},
+        {"text": "Acrosport", "correct": false},
+        {"text": "Parkour", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le tournoi de handball masculin aux JO de 2016 ?",
+      "answers": [
+        {"text": "Danemark", "correct": true},
+        {"text": "France", "correct": false},
+        {"text": "Allemagne", "correct": false},
+        {"text": "Croatie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique consiste à franchir des haies sur une piste en courant le plus vite possible ?",
+      "answers": [
+        {"text": "Course de haies", "correct": true},
+        {"text": "Sprint", "correct": false},
+        {"text": "Relais", "correct": false},
+        {"text": "Décathlon", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’été de 1968 ?",
+      "answers": [
+        {"text": "Mexique", "correct": true},
+        {"text": "États-Unis", "correct": false},
+        {"text": "Allemagne", "correct": false},
+        {"text": "Italie", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport olympique consiste à descendre une pente neigeuse tête la première sur un traîneau ?",
+      "answers": [
+        {"text": "Skeleton", "correct": true},
+        {"text": "Luge", "correct": false},
+        {"text": "Bobsleigh", "correct": false},
+        {"text": "Ski acrobatique", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’hiver de 1972 ?",
+      "answers": [
+        {"text": "Japon", "correct": true},
+        {"text": "Allemagne", "correct": false},
+        {"text": "Canada", "correct": false},
+        {"text": "Norvège", "correct": false}
       ]
     }
   ]

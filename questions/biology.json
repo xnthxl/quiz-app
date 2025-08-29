@@ -1,7 +1,7 @@
 {
   "facile": [
     {
-      "question": "Quelle est la molécule qui transporte l’oxygène dans le sang ?",
+      "question": "Quelle est la molécule qui transporte l'oxygène dans le sang ?",
       "answers": [
         { "text": "Insuline", "correct": false },
         { "text": "Hémoglobine", "correct": true },
@@ -10,16 +10,16 @@
       ]
     },
     {
-      "question": "Quel organe filtre le sang chez l’être humain ?",
+      "question": "Quel organe filtre le sang chez l'être humain ?",
       "answers": [
         { "text": "Le foie", "correct": false },
         { "text": "Les reins", "correct": true },
         { "text": "Les poumons", "correct": false },
-        { "text": "L’intestin", "correct": false }
+        { "text": "L'intestin", "correct": false }
       ]
     },
     {
-      "question": "De combien d’os est constitué le squelette humain adulte ?",
+      "question": "De combien d'os est constitué le squelette humain adulte ?",
       "answers": [
         { "text": "206", "correct": true },
         { "text": "180", "correct": false },
@@ -33,22 +33,157 @@
         { "text": "Le cœur", "correct": true },
         { "text": "Le cerveau", "correct": false },
         { "text": "Les poumons", "correct": false },
-        { "text": "L’estomac", "correct": false }
+        { "text": "L'estomac", "correct": false }
       ]
     },
     {
-      "question": "Comment appelle-t-on l’unité de base de la vie ?",
+      "question": "Comment appelle-t-on l'unité de base de la vie ?",
       "answers": [
         { "text": "La molécule", "correct": false },
         { "text": "La cellule", "correct": true },
-        { "text": "L’atome", "correct": false },
+        { "text": "L'atome", "correct": false },
         { "text": "Le chromosome", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien de chambres le cœur humain possède-t-il ?",
+      "answers": [
+        { "text": "2", "correct": false },
+        { "text": "4", "correct": true },
+        { "text": "3", "correct": false },
+        { "text": "6", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel gaz les plantes absorbent-elles de l'atmosphère ?",
+      "answers": [
+        { "text": "Oxygène", "correct": false },
+        { "text": "Dioxyde de carbone", "correct": true },
+        { "text": "Azote", "correct": false },
+        { "text": "Hydrogène", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel sens nous permet de détecter les odeurs ?",
+      "answers": [
+        { "text": "Le goût", "correct": false },
+        { "text": "L'odorat", "correct": true },
+        { "text": "L'ouïe", "correct": false },
+        { "text": "Le toucher", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien de dents un adulte possède-t-il normalement ?",
+      "answers": [
+        { "text": "28", "correct": false },
+        { "text": "32", "correct": true },
+        { "text": "30", "correct": false },
+        { "text": "24", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l'organe principal de la respiration ?",
+      "answers": [
+        { "text": "Le cœur", "correct": false },
+        { "text": "Les poumons", "correct": true },
+        { "text": "Le cerveau", "correct": false },
+        { "text": "L'estomac", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle vitamine est produite par la peau exposée au soleil ?",
+      "answers": [
+        { "text": "Vitamine C", "correct": false },
+        { "text": "Vitamine D", "correct": true },
+        { "text": "Vitamine A", "correct": false },
+        { "text": "Vitamine K", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment appelle-t-on les animaux qui mangent seulement des plantes ?",
+      "answers": [
+        { "text": "Carnivores", "correct": false },
+        { "text": "Herbivores", "correct": true },
+        { "text": "Omnivores", "correct": false },
+        { "text": "Insectivores", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien de types de groupes sanguins principaux existe-t-il ?",
+      "answers": [
+        { "text": "2", "correct": false },
+        { "text": "4", "correct": true },
+        { "text": "6", "correct": false },
+        { "text": "8", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est l'os le plus long du corps humain ?",
+      "answers": [
+        { "text": "Humérus", "correct": false },
+        { "text": "Fémur", "correct": true },
+        { "text": "Tibia", "correct": false },
+        { "text": "Radius", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle partie de l'œil donne sa couleur ?",
+      "answers": [
+        { "text": "La pupille", "correct": false },
+        { "text": "L'iris", "correct": true },
+        { "text": "La cornée", "correct": false },
+        { "text": "La rétine", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien de chromosomes possède une cellule humaine normale ?",
+      "answers": [
+        { "text": "23", "correct": false },
+        { "text": "46", "correct": true },
+        { "text": "48", "correct": false },
+        { "text": "44", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel organe produit la bile ?",
+      "answers": [
+        { "text": "L'estomac", "correct": false },
+        { "text": "Le foie", "correct": true },
+        { "text": "Le pancréas", "correct": false },
+        { "text": "La rate", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment appelle-t-on le processus de perte des feuilles en automne ?",
+      "answers": [
+        { "text": "Photosynthèse", "correct": false },
+        { "text": "Abscission", "correct": true },
+        { "text": "Transpiration", "correct": false },
+        { "text": "Germination", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel muscle permet de respirer ?",
+      "answers": [
+        { "text": "Le biceps", "correct": false },
+        { "text": "Le diaphragme", "correct": true },
+        { "text": "Le quadriceps", "correct": false },
+        { "text": "Le triceps", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle partie du système digestif absorbe principalement l'eau ?",
+      "answers": [
+        { "text": "L'estomac", "correct": false },
+        { "text": "Le gros intestin", "correct": true },
+        { "text": "L'intestin grêle", "correct": false },
+        { "text": "L'œsophage", "correct": false }
       ]
     }
   ],
   "moyen": [
     {
-      "question": "Quel est l’acide nucléique qui code l’information génétique ?",
+      "question": "Quel est l'acide nucléique qui code l'information génétique ?",
       "answers": [
         { "text": "ARN", "correct": false },
         { "text": "ADN", "correct": true },
@@ -57,7 +192,7 @@
       ]
     },
     {
-      "question": "Quel est l’organe le plus volumineux du corps humain ?",
+      "question": "Quel est l'organe le plus volumineux du corps humain ?",
       "answers": [
         { "text": "Le cerveau", "correct": false },
         { "text": "La peau", "correct": true },
@@ -75,7 +210,7 @@
       ]
     },
     {
-      "question": "Quel groupe d’animaux possède une colonne vertébrale ?",
+      "question": "Quel groupe d'animaux possède une colonne vertébrale ?",
       "answers": [
         { "text": "Les invertébrés", "correct": false },
         { "text": "Les vertébrés", "correct": true },
@@ -84,18 +219,153 @@
       ]
     },
     {
-      "question": "Quelle molécule est à la base de l’énergie cellulaire (ATP) ?",
+      "question": "Quelle molécule est à la base de l'énergie cellulaire (ATP) ?",
       "answers": [
         { "text": "Adénosine triphosphate", "correct": true },
         { "text": "Adénosine diphosphate", "correct": false },
         { "text": "Glucose", "correct": false },
         { "text": "Acide lactique", "correct": false }
       ]
+    },
+    {
+      "question": "Quel type de reproduction ne nécessite qu'un seul parent ?",
+      "answers": [
+        { "text": "Reproduction sexuée", "correct": false },
+        { "text": "Reproduction asexuée", "correct": true },
+        { "text": "Fécondation", "correct": false },
+        { "text": "Pollinisation", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle partie du cerveau contrôle l'équilibre ?",
+      "answers": [
+        { "text": "Le cortex", "correct": false },
+        { "text": "Le cervelet", "correct": true },
+        { "text": "Le tronc cérébral", "correct": false },
+        { "text": "L'hypothalamus", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment appelle-t-on la division cellulaire qui produit les gamètes ?",
+      "answers": [
+        { "text": "Mitose", "correct": false },
+        { "text": "Méiose", "correct": true },
+        { "text": "Cytokinèse", "correct": false },
+        { "text": "Interphase", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel organe produit les globules rouges ?",
+      "answers": [
+        { "text": "Le foie", "correct": false },
+        { "text": "La moelle osseuse", "correct": true },
+        { "text": "La rate", "correct": false },
+        { "text": "Les ganglions", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle hormone régule le cycle veille-sommeil ?",
+      "answers": [
+        { "text": "Insuline", "correct": false },
+        { "text": "Mélatonine", "correct": true },
+        { "text": "Adrénaline", "correct": false },
+        { "text": "Cortisol", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le pH normal du sang humain ?",
+      "answers": [
+        { "text": "6,8", "correct": false },
+        { "text": "7,4", "correct": true },
+        { "text": "8,0", "correct": false },
+        { "text": "7,0", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment appelle-t-on les vaisseaux qui ramènent le sang au cœur ?",
+      "answers": [
+        { "text": "Artères", "correct": false },
+        { "text": "Veines", "correct": true },
+        { "text": "Capillaires", "correct": false },
+        { "text": "Lymphatiques", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel processus permet aux plantes de fabriquer leur nourriture ?",
+      "answers": [
+        { "text": "Respiration", "correct": false },
+        { "text": "Photosynthèse", "correct": true },
+        { "text": "Transpiration", "correct": false },
+        { "text": "Osmose", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien de paires de côtes possède l'être humain ?",
+      "answers": [
+        { "text": "11", "correct": false },
+        { "text": "12", "correct": true },
+        { "text": "13", "correct": false },
+        { "text": "10", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type de cellules ne possède pas de noyau ?",
+      "answers": [
+        { "text": "Eucaryotes", "correct": false },
+        { "text": "Procaryotes", "correct": true },
+        { "text": "Protistes", "correct": false },
+        { "text": "Champignons", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle glande produit l'hormone de croissance ?",
+      "answers": [
+        { "text": "Thyroïde", "correct": false },
+        { "text": "Hypophyse", "correct": true },
+        { "text": "Surrénales", "correct": false },
+        { "text": "Pancréas", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment appelle-t-on l'étude des champignons ?",
+      "answers": [
+        { "text": "Botanique", "correct": false },
+        { "text": "Mycologie", "correct": true },
+        { "text": "Zoologie", "correct": false },
+        { "text": "Écologie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus petit os du corps humain ?",
+      "answers": [
+        { "text": "Rotule", "correct": false },
+        { "text": "Étrier", "correct": true },
+        { "text": "Radius", "correct": false },
+        { "text": "Péroné", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle substance donne la couleur verte aux plantes ?",
+      "answers": [
+        { "text": "Carotène", "correct": false },
+        { "text": "Chlorophylle", "correct": true },
+        { "text": "Anthocyane", "correct": false },
+        { "text": "Xanthophylle", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien de vertèbres cervicales possède l'être humain ?",
+      "answers": [
+        { "text": "5", "correct": false },
+        { "text": "7", "correct": true },
+        { "text": "9", "correct": false },
+        { "text": "12", "correct": false }
+      ]
     }
   ],
   "difficile": [
     {
-      "question": "Quelle est l’hormone régulant la glycémie produite par le pancréas ?",
+      "question": "Quelle est l'hormone régulant la glycémie produite par le pancréas ?",
       "answers": [
         { "text": "Adrénaline", "correct": false },
         { "text": "Insuline", "correct": true },
@@ -104,7 +374,7 @@
       ]
     },
     {
-      "question": "Quelle partie de la cellule contient l’ADN ?",
+      "question": "Quelle partie de la cellule contient l'ADN ?",
       "answers": [
         { "text": "Cytoplasme", "correct": false },
         { "text": "Noyau", "correct": true },
@@ -113,7 +383,7 @@
       ]
     },
     {
-      "question": "Quel type de liaison relie les bases azotées dans l’ADN ?",
+      "question": "Quel type de liaison relie les bases azotées dans l'ADN ?",
       "answers": [
         { "text": "Liaison ionique", "correct": false },
         { "text": "Liaison hydrogène", "correct": true },
@@ -137,6 +407,141 @@
         { "text": "Gregor Mendel", "correct": true },
         { "text": "Louis Pasteur", "correct": false },
         { "text": "Robert Koch", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom du processus de synthèse des protéines ?",
+      "answers": [
+        { "text": "Transcription", "correct": false },
+        { "text": "Traduction", "correct": true },
+        { "text": "Réplication", "correct": false },
+        { "text": "Transduction", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien d'acides aminés essentiels l'être humain ne peut-il pas synthétiser ?",
+      "answers": [
+        { "text": "8", "correct": false },
+        { "text": "9", "correct": true },
+        { "text": "10", "correct": false },
+        { "text": "11", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel enzyme décompose l'amidon en glucose ?",
+      "answers": [
+        { "text": "Pepsine", "correct": false },
+        { "text": "Amylase", "correct": true },
+        { "text": "Lipase", "correct": false },
+        { "text": "Trypsine", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom de la membrane qui entoure le cœur ?",
+      "answers": [
+        { "text": "Plèvre", "correct": false },
+        { "text": "Péricarde", "correct": true },
+        { "text": "Péritoine", "correct": false },
+        { "text": "Méninges", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle structure cellulaire est responsable de la production d'ATP ?",
+      "answers": [
+        { "text": "Réticulum endoplasmique", "correct": false },
+        { "text": "Mitochondrie", "correct": true },
+        { "text": "Appareil de Golgi", "correct": false },
+        { "text": "Lysosome", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type de mutation implique l'ajout ou la suppression d'un nucléotide ?",
+      "answers": [
+        { "text": "Substitution", "correct": false },
+        { "text": "Décalage du cadre de lecture", "correct": true },
+        { "text": "Inversion", "correct": false },
+        { "text": "Translocation", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel neurotransmetteur est déficient dans la maladie de Parkinson ?",
+      "answers": [
+        { "text": "Sérotonine", "correct": false },
+        { "text": "Dopamine", "correct": true },
+        { "text": "Acétylcholine", "correct": false },
+        { "text": "GABA", "correct": false }
+      ]
+    },
+    {
+      "question": "Comment appelle-t-on la phase S du cycle cellulaire ?",
+      "answers": [
+        { "text": "Synthèse des protéines", "correct": false },
+        { "text": "Synthèse de l'ADN", "correct": true },
+        { "text": "Séparation des chromatides", "correct": false },
+        { "text": "Synthèse des enzymes", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel facteur de transcription est appelé le 'gardien du génome' ?",
+      "answers": [
+        { "text": "p21", "correct": false },
+        { "text": "p53", "correct": true },
+        { "text": "Rb", "correct": false },
+        { "text": "c-Myc", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom du processus de mort cellulaire programmée ?",
+      "answers": [
+        { "text": "Nécrose", "correct": false },
+        { "text": "Apoptose", "correct": true },
+        { "text": "Autophagie", "correct": false },
+        { "text": "Sénescence", "correct": false }
+      ]
+    },
+    {
+      "question": "Combien de paires de nerfs crâniens possède l'être humain ?",
+      "answers": [
+        { "text": "10", "correct": false },
+        { "text": "12", "correct": true },
+        { "text": "14", "correct": false },
+        { "text": "16", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom de l'enzyme qui réplique l'ADN ?",
+      "answers": [
+        { "text": "Hélicase", "correct": false },
+        { "text": "ADN polymérase", "correct": true },
+        { "text": "Ligase", "correct": false },
+        { "text": "Primase", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle maladie génétique affecte la production de chlorure ?",
+      "answers": [
+        { "text": "Hémophilie", "correct": false },
+        { "text": "Mucoviscidose", "correct": true },
+        { "text": "Drépanocytose", "correct": false },
+        { "text": "Huntington", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel type d'immunité est conférée par les lymphocytes T ?",
+      "answers": [
+        { "text": "Immunité humorale", "correct": false },
+        { "text": "Immunité cellulaire", "correct": true },
+        { "text": "Immunité passive", "correct": false },
+        { "text": "Immunité innée", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle structure relie les deux hémisphères cérébraux ?",
+      "answers": [
+        { "text": "Thalamus", "correct": false },
+        { "text": "Corps calleux", "correct": true },
+        { "text": "Hypothalamus", "correct": false },
+        { "text": "Pont de Varole", "correct": false }
       ]
     }
   ]

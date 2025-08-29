@@ -44,6 +44,141 @@
         {"text": "Ski", "correct": false},
         {"text": "Rallye", "correct": false}
       ]
+    },
+    {
+      "question": "Quel sport se joue avec un ballon ovale ?",
+      "answers": [
+        {"text": "Rugby", "correct": true},
+        {"text": "Football", "correct": false},
+        {"text": "Basketball", "correct": false},
+        {"text": "Handball", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport est pratiqué aux Jeux Olympiques d’hiver ?",
+      "answers": [
+        {"text": "Ski alpin", "correct": true},
+        {"text": "Football", "correct": false},
+        {"text": "Basketball", "correct": false},
+        {"text": "Natation", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien de sets faut-il gagner pour remporter un match de tennis masculin en Grand Chelem ?",
+      "answers": [
+        {"text": "3", "correct": false},
+        {"text": "2", "correct": false},
+        {"text": "5", "correct": true},
+        {"text": "4", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport se pratique sur glace avec un palet ?",
+      "answers": [
+        {"text": "Hockey sur glace", "correct": true},
+        {"text": "Curling", "correct": false},
+        {"text": "Patinage artistique", "correct": false},
+        {"text": "Ski de fond", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport nécessite un cheval ?",
+      "answers": [
+        {"text": "Équitation", "correct": true},
+        {"text": "Polo", "correct": false},
+        {"text": "Tir à l’arc", "correct": false},
+        {"text": "Cyclisme", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans quel sport peut-on effectuer un 'slam dunk' ?",
+      "answers": [
+        {"text": "Basketball", "correct": true},
+        {"text": "Football", "correct": false},
+        {"text": "Handball", "correct": false},
+        {"text": "Volleyball", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport est pratiqué dans un ring avec des gants ?",
+      "answers": [
+        {"text": "Boxe", "correct": true},
+        {"text": "Judo", "correct": false},
+        {"text": "Lutte", "correct": false},
+        {"text": "Taekwondo", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport consiste à lancer un javelot ?",
+      "answers": [
+        {"text": "Athlétisme", "correct": true},
+        {"text": "Haltérophilie", "correct": false},
+        {"text": "Triathlon", "correct": false},
+        {"text": "Décathlon", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport est joué sur un court avec un filet au milieu ?",
+      "answers": [
+        {"text": "Tennis", "correct": true},
+        {"text": "Basketball", "correct": false},
+        {"text": "Football", "correct": false},
+        {"text": "Handball", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans quel sport utilise-t-on un bâton et une balle sur gazon ?",
+      "answers": [
+        {"text": "Hockey sur gazon", "correct": true},
+        {"text": "Golf", "correct": false},
+        {"text": "Baseball", "correct": false},
+        {"text": "Tennis", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport se pratique avec un canot sur une rivière ?",
+      "answers": [
+        {"text": "Canoë-kayak", "correct": true},
+        {"text": "Natation", "correct": false},
+        {"text": "Voile", "correct": false},
+        {"text": "Plongée", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport est associé à Usain Bolt ?",
+      "answers": [
+        {"text": "Athlétisme", "correct": true},
+        {"text": "Football", "correct": false},
+        {"text": "Cyclisme", "correct": false},
+        {"text": "Natation", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport est joué avec un ballon surdimensionné dans l’eau ?",
+      "answers": [
+        {"text": "Water-polo", "correct": true},
+        {"text": "Handball", "correct": false},
+        {"text": "Basketball", "correct": false},
+        {"text": "Football", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport se pratique sur une planche avec des vagues ?",
+      "answers": [
+        {"text": "Surf", "correct": true},
+        {"text": "Ski nautique", "correct": false},
+        {"text": "Plongée", "correct": false},
+        {"text": "Voile", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans quel sport utilise-t-on un ballon et un anneau suspendu ?",
+      "answers": [
+        {"text": "Basketball", "correct": true},
+        {"text": "Handball", "correct": false},
+        {"text": "Football", "correct": false},
+        {"text": "Rugby", "correct": false}
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         {"text": "5", "correct": false},
         {"text": "8", "correct": false}
       ]
+    },
+    {
+      "question": "Dans quel sport trouve-t-on le terme 'ace' ?",
+      "answers": [
+        {"text": "Tennis", "correct": true},
+        {"text": "Football", "correct": false},
+        {"text": "Basketball", "correct": false},
+        {"text": "Volleyball", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du monde de football en 2018 ?",
+      "answers": [
+        {"text": "France", "correct": true},
+        {"text": "Croatie", "correct": false},
+        {"text": "Brésil", "correct": false},
+        {"text": "Allemagne", "correct": false}
+      ]
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de handball ?",
+      "answers": [
+        {"text": "7", "correct": true},
+        {"text": "6", "correct": false},
+        {"text": "5", "correct": false},
+        {"text": "8", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le plus de médailles aux Jeux olympiques d’été de 2020 ?",
+      "answers": [
+        {"text": "États-Unis", "correct": true},
+        {"text": "Chine", "correct": false},
+        {"text": "Japon", "correct": false},
+        {"text": "Grande-Bretagne", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur de football a remporté le plus de Ballons d’Or (2025) ?",
+      "answers": [
+        {"text": "Lionel Messi", "correct": true},
+        {"text": "Cristiano Ronaldo", "correct": false},
+        {"text": "Neymar", "correct": false},
+        {"text": "Kylian Mbappé", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le record du monde du 100 mètres féminin (2025) ?",
+      "answers": [
+        {"text": "10,49 s", "correct": true},
+        {"text": "10,60 s", "correct": false},
+        {"text": "10,70 s", "correct": false},
+        {"text": "10,80 s", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport consiste à escalader des parois rocheuses ?",
+      "answers": [
+        {"text": "Escalade", "correct": true},
+        {"text": "Alpinisme", "correct": false},
+        {"text": "Spéléologie", "correct": false},
+        {"text": "Parkour", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport est pratiqué avec un ballon et une crosse dans l’eau ?",
+      "answers": [
+        {"text": "Water-polo", "correct": true},
+        {"text": "Basketball", "correct": false},
+        {"text": "Handball", "correct": false},
+        {"text": "Football", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport utilise un arc et des flèches pour atteindre une cible ?",
+      "answers": [
+        {"text": "Tir à l’arc", "correct": true},
+        {"text": "Javelot", "correct": false},
+        {"text": "Skeet", "correct": false},
+        {"text": "Pentathlon", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport nécessite de glisser sur la neige avec des planches ?",
+      "answers": [
+        {"text": "Ski alpin", "correct": true},
+        {"text": "Snowboard", "correct": false},
+        {"text": "Patinage", "correct": false},
+        {"text": "Luge", "correct": false}
+      ]
+    },
+    {
+      "question": "Dans quel sport trouve-t-on le terme 'home run' ?",
+      "answers": [
+        {"text": "Baseball", "correct": true},
+        {"text": "Cricket", "correct": false},
+        {"text": "Football américain", "correct": false},
+        {"text": "Basketball", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport se joue sur une piste avec un volant ?",
+      "answers": [
+        {"text": "Badminton", "correct": true},
+        {"text": "Tennis", "correct": false},
+        {"text": "Squash", "correct": false},
+        {"text": "Ping-pong", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport combine natation, cyclisme et course à pied ?",
+      "answers": [
+        {"text": "Triathlon", "correct": true},
+        {"text": "Décathlon", "correct": false},
+        {"text": "Pentathlon", "correct": false},
+        {"text": "Aquathlon", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport nécessite un ballon et des paniers ?",
+      "answers": [
+        {"text": "Basketball", "correct": true},
+        {"text": "Handball", "correct": false},
+        {"text": "Volleyball", "correct": false},
+        {"text": "Football", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sport est pratiqué sur des planches sur des vagues ?",
+      "answers": [
+        {"text": "Surf", "correct": true},
+        {"text": "Bodyboard", "correct": false},
+        {"text": "Kitesurf", "correct": false},
+        {"text": "Ski nautique", "correct": false}
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         {"text": "Diego Maradona", "correct": false},
         {"text": "Cristiano Ronaldo", "correct": false},
         {"text": "Lionel Messi", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté le plus de médailles aux Jeux olympiques d’hiver de 2022 ?",
+      "answers": [
+        {"text": "Norvège", "correct": true},
+        {"text": "Allemagne", "correct": false},
+        {"text": "États-Unis", "correct": false},
+        {"text": "Canada", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur de tennis a remporté Roland-Garros 2025 ?",
+      "answers": [
+        {"text": "Novak Djokovic", "correct": true},
+        {"text": "Rafael Nadal", "correct": false},
+        {"text": "Carlos Alcaraz", "correct": false},
+        {"text": "Daniil Medvedev", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel cycliste a remporté le Tour de France 2025 ?",
+      "answers": [
+        {"text": "Tadej Pogačar", "correct": true},
+        {"text": "Primož Roglič", "correct": false},
+        {"text": "Jonas Vingegaard", "correct": false},
+        {"text": "Egan Bernal", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté la Ligue des Nations de l’UEFA 2025 ?",
+      "answers": [
+        {"text": "Espagne", "correct": true},
+        {"text": "France", "correct": false},
+        {"text": "Italie", "correct": false},
+        {"text": "Allemagne", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur de basketball détient le record de points en un match NBA ?",
+      "answers": [
+        {"text": "Wilt Chamberlain", "correct": true},
+        {"text": "Kobe Bryant", "correct": false},
+        {"text": "Michael Jordan", "correct": false},
+        {"text": "LeBron James", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté la première édition de la Coupe du monde de rugby ?",
+      "answers": [
+        {"text": "Nouvelle-Zélande", "correct": true},
+        {"text": "Australie", "correct": false},
+        {"text": "Angleterre", "correct": false},
+        {"text": "France", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel skieur alpin détient le plus grand nombre de médailles olympiques ?",
+      "answers": [
+        {"text": "Kjetil André Aamodt", "correct": true},
+        {"text": "Ingemar Stenmark", "correct": false},
+        {"text": "Marcel Hirscher", "correct": false},
+        {"text": "Jean-Claude Killy", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur de football a remporté le Ballon d’Or 2025 ?",
+      "answers": [
+        {"text": "Lionel Messi", "correct": true},
+        {"text": "Kylian Mbappé", "correct": false},
+        {"text": "Cristiano Ronaldo", "correct": false},
+        {"text": "Robert Lewandowski", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle équipe de NBA a remporté le plus de titres jusqu’en 2025 ?",
+      "answers": [
+        {"text": "Boston Celtics", "correct": true},
+        {"text": "Los Angeles Lakers", "correct": false},
+        {"text": "Chicago Bulls", "correct": false},
+        {"text": "Golden State Warriors", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel joueur de football a marqué le plus de buts en Coupe du monde ?",
+      "answers": [
+        {"text": "Miroslav Klose", "correct": true},
+        {"text": "Ronaldo Nazário", "correct": false},
+        {"text": "Pelé", "correct": false},
+        {"text": "Lionel Messi", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté l’Euro de football 2020 (joué en 2021) ?",
+      "answers": [
+        {"text": "Italie", "correct": true},
+        {"text": "Angleterre", "correct": false},
+        {"text": "Espagne", "correct": false},
+        {"text": "France", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel nageur détient le record du monde du 100 m nage libre (hommes) ?",
+      "answers": [
+        {"text": "César Cielo", "correct": true},
+        {"text": "Caeleb Dressel", "correct": false},
+        {"text": "Michael Phelps", "correct": false},
+        {"text": "Ryan Lochte", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel pays a remporté la Copa América 2025 ?",
+      "answers": [
+        {"text": "Argentine", "correct": true},
+        {"text": "Brésil", "correct": false},
+        {"text": "Chili", "correct": false},
+        {"text": "Uruguay", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel sportif détient le record du monde du saut en hauteur ?",
+      "answers": [
+        {"text": "Javier Sotomayor", "correct": true},
+        {"text": "Mutaz Essa Barshim", "correct": false},
+        {"text": "Stefan Holm", "correct": false},
+        {"text": "Pavel Maslák", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le record du monde du 200 m masculin ?",
+      "answers": [
+        {"text": "19,19 s", "correct": true},
+        {"text": "19,30 s", "correct": false},
+        {"text": "19,58 s", "correct": false},
+        {"text": "19,72 s", "correct": false}
       ]
     }
   ]

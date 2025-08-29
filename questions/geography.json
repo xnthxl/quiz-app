@@ -44,9 +44,143 @@
         { "text": "Amérique", "correct": false },
         { "text": "Europe", "correct": false }
       ]
+    },
+    {
+      "question": "Quel pays est surnommé 'le pays du Soleil Levant' ?",
+      "answers": [
+        { "text": "Japon", "correct": true },
+        { "text": "Chine", "correct": false },
+        { "text": "Corée du Sud", "correct": false },
+        { "text": "Thaïlande", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel fleuve traverse Paris ?",
+      "answers": [
+        { "text": "Seine", "correct": true },
+        { "text": "Loire", "correct": false },
+        { "text": "Rhône", "correct": false },
+        { "text": "Garonne", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de l’Allemagne ?",
+      "answers": [
+        { "text": "Berlin", "correct": true },
+        { "text": "Munich", "correct": false },
+        { "text": "Hambourg", "correct": false },
+        { "text": "Francfort", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède la ville de Sydney ?",
+      "answers": [
+        { "text": "Australie", "correct": true },
+        { "text": "Nouvelle-Zélande", "correct": false },
+        { "text": "Canada", "correct": false },
+        { "text": "États-Unis", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays est traversé par le fleuve Nil ?",
+      "answers": [
+        { "text": "Égypte", "correct": true },
+        { "text": "Soudan", "correct": false },
+        { "text": "Éthiopie", "correct": false },
+        { "text": "Libye", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de la France ?",
+      "answers": [
+        { "text": "Paris", "correct": true },
+        { "text": "Lyon", "correct": false },
+        { "text": "Marseille", "correct": false },
+        { "text": "Bordeaux", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Royaume-Uni ?",
+      "answers": [
+        { "text": "Londres", "correct": true },
+        { "text": "Manchester", "correct": false },
+        { "text": "Édimbourg", "correct": false },
+        { "text": "Birmingham", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand pays du monde par superficie ?",
+      "answers": [
+        { "text": "Russie", "correct": true },
+        { "text": "Canada", "correct": false },
+        { "text": "Chine", "correct": false },
+        { "text": "États-Unis", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède la ville de Rio de Janeiro ?",
+      "answers": [
+        { "text": "Brésil", "correct": true },
+        { "text": "Argentine", "correct": false },
+        { "text": "Chili", "correct": false },
+        { "text": "Pérou", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays est surnommé 'le pays des mille lacs' ?",
+      "answers": [
+        { "text": "Finlande", "correct": true },
+        { "text": "Norvège", "correct": false },
+        { "text": "Suède", "correct": false },
+        { "text": "Islande", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus petit pays du monde ?",
+      "answers": [
+        { "text": "Vatican", "correct": true },
+        { "text": "Monaco", "correct": false },
+        { "text": "Saint-Marin", "correct": false },
+        { "text": "Liechtenstein", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de la Russie ?",
+      "answers": [
+        { "text": "Moscou", "correct": true },
+        { "text": "Saint-Pétersbourg", "correct": false },
+        { "text": "Novossibirsk", "correct": false },
+        { "text": "Kazan", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède les chutes du Niagara ?",
+      "answers": [
+        { "text": "Canada", "correct": true },
+        { "text": "États-Unis", "correct": false },
+        { "text": "Mexique", "correct": false },
+        { "text": "Brésil", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle mer borde la Grèce ?",
+      "answers": [
+        { "text": "Mer Égée", "correct": true },
+        { "text": "Mer Adriatique", "correct": false },
+        { "text": "Mer Ionienne", "correct": false },
+        { "text": "Mer Noire", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la capitale du Japon ?",
+      "answers": [
+        { "text": "Tokyo", "correct": true },
+        { "text": "Kyoto", "correct": false },
+        { "text": "Osaka", "correct": false },
+        { "text": "Hiroshima", "correct": false }
+      ]
     }
   ],
-
   "moyen": [
     {
       "question": "Quel désert est le plus grand du monde ?",
@@ -92,9 +226,143 @@
         { "text": "Melbourne", "correct": false },
         { "text": "Brisbane", "correct": false }
       ]
+    },
+    {
+      "question": "Quel est le plus grand lac d’Afrique ?",
+      "answers": [
+        { "text": "Lac Victoria", "correct": true },
+        { "text": "Lac Tanganyika", "correct": false },
+        { "text": "Lac Malawi", "correct": false },
+        { "text": "Lac Turkana", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus long fleuve d’Amérique du Sud ?",
+      "answers": [
+        { "text": "Amazone", "correct": true },
+        { "text": "Orénoque", "correct": false },
+        { "text": "Paraná", "correct": false },
+        { "text": "São Francisco", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus haut sommet d’Europe ?",
+      "answers": [
+        { "text": "Mont Blanc", "correct": true },
+        { "text": "Mont Elbrouz", "correct": false },
+        { "text": "Mont Rosa", "correct": false },
+        { "text": "Matterhorn", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède la ville de Vienne ?",
+      "answers": [
+        { "text": "Autriche", "correct": true },
+        { "text": "Allemagne", "correct": false },
+        { "text": "Suisse", "correct": false },
+        { "text": "Hongrie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays est surnommé 'le pays des mille collines' ?",
+      "answers": [
+        { "text": "Rwanda", "correct": true },
+        { "text": "Burundi", "correct": false },
+        { "text": "Kenya", "correct": false },
+        { "text": "Ouganda", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand pays d’Amérique du Sud ?",
+      "answers": [
+        { "text": "Brésil", "correct": true },
+        { "text": "Argentine", "correct": false },
+        { "text": "Colombie", "correct": false },
+        { "text": "Venezuela", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus haut sommet d’Asie ?",
+      "answers": [
+        { "text": "Everest", "correct": true },
+        { "text": "K2", "correct": false },
+        { "text": "Kangchenjunga", "correct": false },
+        { "text": "Lhotse", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède la ville de Prague ?",
+      "answers": [
+        { "text": "République tchèque", "correct": true },
+        { "text": "Slovaquie", "correct": false },
+        { "text": "Autriche", "correct": false },
+        { "text": "Pologne", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus long fleuve d’Asie ?",
+      "answers": [
+        { "text": "Yangtsé", "correct": true },
+        { "text": "Mékong", "correct": false },
+        { "text": "Indus", "correct": false },
+        { "text": "Gange", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède la ville de Budapest ?",
+      "answers": [
+        { "text": "Hongrie", "correct": true },
+        { "text": "Autriche", "correct": false },
+        { "text": "République tchèque", "correct": false },
+        { "text": "Slovaquie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand désert d’Asie ?",
+      "answers": [
+        { "text": "Gobi", "correct": true },
+        { "text": "Karakum", "correct": false },
+        { "text": "Taklamakan", "correct": false },
+        { "text": "Thar", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède la ville de Lisbonne ?",
+      "answers": [
+        { "text": "Portugal", "correct": true },
+        { "text": "Espagne", "correct": false },
+        { "text": "Italie", "correct": false },
+        { "text": "France", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays est surnommé 'le pays des pharaons' ?",
+      "answers": [
+        { "text": "Égypte", "correct": true },
+        { "text": "Libye", "correct": false },
+        { "text": "Soudan", "correct": false },
+        { "text": "Tunisie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand archipel du monde ?",
+      "answers": [
+        { "text": "Indonésie", "correct": true },
+        { "text": "Philippines", "correct": false },
+        { "text": "Malaisie", "correct": false },
+        { "text": "Japon", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède la ville de Stockholm ?",
+      "answers": [
+        { "text": "Suède", "correct": true },
+        { "text": "Norvège", "correct": false },
+        { "text": "Finlande", "correct": false },
+        { "text": "Danemark", "correct": false }
+      ]
     }
   ],
-
   "difficile": [
     {
       "question": "Quel est le point le plus bas sur Terre (hors océans) ?",
@@ -139,6 +407,141 @@
         { "text": "Égypte", "correct": false },
         { "text": "Éthiopie", "correct": false },
         { "text": "Afrique du Sud", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus haut sommet du monde ?",
+      "answers": [
+        { "text": "Mont Everest", "correct": true },
+        { "text": "K2", "correct": false },
+        { "text": "Kangchenjunga", "correct": false },
+        { "text": "Lhotse", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus long fleuve d’Amérique du Nord ?",
+      "answers": [
+        { "text": "Mississippi", "correct": true },
+        { "text": "Colorado", "correct": false },
+        { "text": "Saint-Laurent", "correct": false },
+        { "text": "Rio Grande", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède le plus de volcans actifs ?",
+      "answers": [
+        { "text": "Indonésie", "correct": true },
+        { "text": "Japon", "correct": false },
+        { "text": "États-Unis", "correct": false },
+        { "text": "Chili", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand lac d’Amérique du Nord ?",
+      "answers": [
+        { "text": "Lac Supérieur", "correct": true },
+        { "text": "Lac Michigan", "correct": false },
+        { "text": "Lac Huron", "correct": false },
+        { "text": "Lac Ontario", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède la plus grande superficie forestière ?",
+      "answers": [
+        { "text": "Russie", "correct": true },
+        { "text": "Canada", "correct": false },
+        { "text": "Brésil", "correct": false },
+        { "text": "États-Unis", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand désert chaud du monde ?",
+      "answers": [
+        { "text": "Sahara", "correct": true },
+        { "text": "Gobi", "correct": false },
+        { "text": "Kalahari", "correct": false },
+        { "text": "Arabie", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède le plus grand nombre de volcans ?",
+      "answers": [
+        { "text": "Indonésie", "correct": true },
+        { "text": "Japon", "correct": false },
+        { "text": "Islande", "correct": false },
+        { "text": "Chili", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand archipel d’Europe ?",
+      "answers": [
+        { "text": "Norvège", "correct": true },
+        { "text": "Grèce", "correct": false },
+        { "text": "Italie", "correct": false },
+        { "text": "Royaume-Uni", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le pays le plus long du monde ?",
+      "answers": [
+        { "text": "Chili", "correct": true },
+        { "text": "Russie", "correct": false },
+        { "text": "Canada", "correct": false },
+        { "text": "Brésil", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le point le plus haut d’Amérique du Sud ?",
+      "answers": [
+        { "text": "Aconcagua", "correct": true },
+        { "text": "Huascarán", "correct": false },
+        { "text": "Illimani", "correct": false },
+        { "text": "Chimborazo", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède le plus grand delta fluvial du monde ?",
+      "answers": [
+        { "text": "Bangladesh", "correct": true },
+        { "text": "Égypte", "correct": false },
+        { "text": "Inde", "correct": false },
+        { "text": "Vietnam", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand pays arabe ?",
+      "answers": [
+        { "text": "Algérie", "correct": true },
+        { "text": "Arabie Saoudite", "correct": false },
+        { "text": "Égypte", "correct": false },
+        { "text": "Maroc", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays a la plus grande densité de population ?",
+      "answers": [
+        { "text": "Monaco", "correct": true },
+        { "text": "Singapour", "correct": false },
+        { "text": "Malte", "correct": false },
+        { "text": "Bangladesh", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le plus grand lac salé du monde ?",
+      "answers": [
+        { "text": "Mer Caspienne", "correct": true },
+        { "text": "Lac Aral", "correct": false },
+        { "text": "Lac Supérieur", "correct": false },
+        { "text": "Lac Michigan", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel pays possède la plus grande île du monde ?",
+      "answers": [
+        { "text": "Groenland", "correct": true },
+        { "text": "Australie", "correct": false },
+        { "text": "Madagascar", "correct": false },
+        { "text": "Indonésie", "correct": false }
       ]
     }
   ]

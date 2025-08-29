@@ -44,6 +44,141 @@
         {"text": "Arthur Rimbaud", "correct": false},
         {"text": "Victor Hugo", "correct": false}
       ]
+    },
+    {
+      "question": "Qui a écrit 'Le Livre de la jungle' ?",
+      "answers": [
+        {"text": "Rudyard Kipling", "correct": true},
+        {"text": "J.K. Rowling", "correct": false},
+        {"text": "Hans Christian Andersen", "correct": false},
+        {"text": "Victor Hugo", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le personnage principal de 'Les Trois Mousquetaires' ?",
+      "answers": [
+        {"text": "D'Artagnan", "correct": true},
+        {"text": "Athos", "correct": false},
+        {"text": "Porthos", "correct": false},
+        {"text": "Aramis", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Candide' ?",
+      "answers": [
+        {"text": "Voltaire", "correct": true},
+        {"text": "Jean-Jacques Rousseau", "correct": false},
+        {"text": "Montesquieu", "correct": false},
+        {"text": "Victor Hugo", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roman commence par 'Il était une fois…' ?",
+      "answers": [
+        {"text": "Les contes de fées", "correct": true},
+        {"text": "Le Petit Prince", "correct": false},
+        {"text": "Germinal", "correct": false},
+        {"text": "Bel-Ami", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel poète a écrit 'Demain, dès l’aube' ?",
+      "answers": [
+        {"text": "Victor Hugo", "correct": true},
+        {"text": "Paul Verlaine", "correct": false},
+        {"text": "Charles Baudelaire", "correct": false},
+        {"text": "Alphonse de Lamartine", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Germinal' ?",
+      "answers": [
+        {"text": "Émile Zola", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Jules Verne", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de 'Le Rouge et le Noir' ?",
+      "answers": [
+        {"text": "Stendhal", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Gustave Flaubert", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel poète a écrit 'Clair de lune' ?",
+      "answers": [
+        {"text": "Paul Verlaine", "correct": true},
+        {"text": "Charles Baudelaire", "correct": false},
+        {"text": "Arthur Rimbaud", "correct": false},
+        {"text": "Victor Hugo", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Les Aventures de Tom Sawyer' ?",
+      "answers": [
+        {"text": "Mark Twain", "correct": true},
+        {"text": "Charles Dickens", "correct": false},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Robinson Crusoé' ?",
+      "answers": [
+        {"text": "Daniel Defoe", "correct": true},
+        {"text": "Jonathan Swift", "correct": false},
+        {"text": "Jules Verne", "correct": false},
+        {"text": "Victor Hugo", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel écrivain a créé le personnage de Tarzan ?",
+      "answers": [
+        {"text": "Edgar Rice Burroughs", "correct": true},
+        {"text": "Jules Verne", "correct": false},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Oliver Twist' ?",
+      "answers": [
+        {"text": "Charles Dickens", "correct": true},
+        {"text": "Mark Twain", "correct": false},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de 'Le Fantôme de l’Opéra' ?",
+      "answers": [
+        {"text": "Gaston Leroux", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false},
+        {"text": "Jules Verne", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel poète a écrit 'Les Contemplations' ?",
+      "answers": [
+        {"text": "Victor Hugo", "correct": true},
+        {"text": "Charles Baudelaire", "correct": false},
+        {"text": "Arthur Rimbaud", "correct": false},
+        {"text": "Paul Verlaine", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'L’Île au trésor' ?",
+      "answers": [
+        {"text": "Robert Louis Stevenson", "correct": true},
+        {"text": "Jules Verne", "correct": false},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         {"text": "Marcel Proust", "correct": false},
         {"text": "Stendhal", "correct": false}
       ]
+    },
+    {
+      "question": "Qui a écrit 'Manon Lescaut' ?",
+      "answers": [
+        {"text": "Abbé Prévost", "correct": true},
+        {"text": "Stendhal", "correct": false},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roman de Flaubert est célèbre pour son réalisme ?",
+      "answers": [
+        {"text": "Madame Bovary", "correct": true},
+        {"text": "L'Éducation sentimentale", "correct": false},
+        {"text": "Nana", "correct": false},
+        {"text": "Bel-Ami", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Le Père Goriot' ?",
+      "answers": [
+        {"text": "Honoré de Balzac", "correct": true},
+        {"text": "Émile Zola", "correct": false},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel écrivain a écrit 'Les Rougon-Macquart' ?",
+      "answers": [
+        {"text": "Émile Zola", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Stendhal", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de 'La Chartreuse de Parme' ?",
+      "answers": [
+        {"text": "Stendhal", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Émile Zola", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Les Liaisons dangereuses' ?",
+      "answers": [
+        {"text": "Choderlos de Laclos", "correct": true},
+        {"text": "Marivaux", "correct": false},
+        {"text": "Rousseau", "correct": false},
+        {"text": "Voltaire", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel auteur est connu pour 'Les Confessions' ?",
+      "answers": [
+        {"text": "Jean-Jacques Rousseau", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Stendhal", "correct": false},
+        {"text": "Émile Zola", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'L’Assommoir' ?",
+      "answers": [
+        {"text": "Émile Zola", "correct": true},
+        {"text": "Gustave Flaubert", "correct": false},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel auteur a écrit 'Cyrano de Bergerac' ?",
+      "answers": [
+        {"text": "Edmond Rostand", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Jean Racine", "correct": false},
+        {"text": "Molière", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de 'Le Père Noël est une ordure' ?",
+      "answers": [
+        {"text": "Jean-Marie Poiré", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false},
+        {"text": "Molière", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'La Princesse de Clèves' ?",
+      "answers": [
+        {"text": "Madame de La Fayette", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Marivaux", "correct": false},
+        {"text": "Stendhal", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel écrivain a écrit 'La Chartreuse de Parme' ?",
+      "answers": [
+        {"text": "Stendhal", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false},
+        {"text": "Émile Zola", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Bel-Ami' ?",
+      "answers": [
+        {"text": "Guy de Maupassant", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Émile Zola", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel auteur est célèbre pour 'Les Fables' ?",
+      "answers": [
+        {"text": "Jean de La Fontaine", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Émile Zola", "correct": false},
+        {"text": "Stendhal", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roman de Victor Hugo raconte l’histoire de Quasimodo et Esméralda ?",
+      "answers": [
+        {"text": "Notre-Dame de Paris", "correct": true},
+        {"text": "Les Misérables", "correct": false},
+        {"text": "L'Homme qui rit", "correct": false},
+        {"text": "Le Dernier Jour d'un Condamné", "correct": false}
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         {"text": "Les Rougon-Macquart", "correct": false},
         {"text": "Germinal", "correct": false},
         {"text": "Les Misérables", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'La Nausée' ?",
+      "answers": [
+        {"text": "Jean-Paul Sartre", "correct": true},
+        {"text": "Albert Camus", "correct": false},
+        {"text": "Marcel Proust", "correct": false},
+        {"text": "André Gide", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roman de Camus est un exemple de l'absurde ?",
+      "answers": [
+        {"text": "L'Étranger", "correct": true},
+        {"text": "La Peste", "correct": false},
+        {"text": "Le Mythe de Sisyphe", "correct": false},
+        {"text": "Les Justes", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Les Fleurs du mal' ?",
+      "answers": [
+        {"text": "Charles Baudelaire", "correct": true},
+        {"text": "Paul Verlaine", "correct": false},
+        {"text": "Arthur Rimbaud", "correct": false},
+        {"text": "Victor Hugo", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel auteur a écrit 'La Peste' ?",
+      "answers": [
+        {"text": "Albert Camus", "correct": true},
+        {"text": "Jean-Paul Sartre", "correct": false},
+        {"text": "Marcel Proust", "correct": false},
+        {"text": "André Gide", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de 'Les Misérables' ?",
+      "answers": [
+        {"text": "Victor Hugo", "correct": true},
+        {"text": "Émile Zola", "correct": false},
+        {"text": "Gustave Flaubert", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roman de Stendhal est célèbre pour son réalisme psychologique ?",
+      "answers": [
+        {"text": "Le Rouge et le Noir", "correct": true},
+        {"text": "La Chartreuse de Parme", "correct": false},
+        {"text": "Lucien Leuwen", "correct": false},
+        {"text": "Lamiel", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Les Confessions' ?",
+      "answers": [
+        {"text": "Jean-Jacques Rousseau", "correct": true},
+        {"text": "Voltaire", "correct": false},
+        {"text": "Stendhal", "correct": false},
+        {"text": "Émile Zola", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel dramaturge français est connu pour 'Tartuffe' ?",
+      "answers": [
+        {"text": "Molière", "correct": true},
+        {"text": "Jean Racine", "correct": false},
+        {"text": "Pierre Corneille", "correct": false},
+        {"text": "Voltaire", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Germinal' ?",
+      "answers": [
+        {"text": "Émile Zola", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Stendhal", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel poète a écrit 'Une saison en enfer' ?",
+      "answers": [
+        {"text": "Arthur Rimbaud", "correct": true},
+        {"text": "Charles Baudelaire", "correct": false},
+        {"text": "Paul Verlaine", "correct": false},
+        {"text": "Victor Hugo", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de 'Nana' ?",
+      "answers": [
+        {"text": "Émile Zola", "correct": true},
+        {"text": "Gustave Flaubert", "correct": false},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel romancier français a écrit 'Bel-Ami' ?",
+      "answers": [
+        {"text": "Guy de Maupassant", "correct": true},
+        {"text": "Émile Zola", "correct": false},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Les Rougon-Macquart' ?",
+      "answers": [
+        {"text": "Émile Zola", "correct": true},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Stendhal", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel poète a écrit 'Romances sans paroles' ?",
+      "answers": [
+        {"text": "Paul Verlaine", "correct": true},
+        {"text": "Charles Baudelaire", "correct": false},
+        {"text": "Arthur Rimbaud", "correct": false},
+        {"text": "Victor Hugo", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Le Père Goriot' ?",
+      "answers": [
+        {"text": "Honoré de Balzac", "correct": true},
+        {"text": "Émile Zola", "correct": false},
+        {"text": "Victor Hugo", "correct": false},
+        {"text": "Alexandre Dumas", "correct": false}
       ]
     }
   ]

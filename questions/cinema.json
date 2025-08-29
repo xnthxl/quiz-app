@@ -44,6 +44,141 @@
         { "text": "Drame", "correct": false },
         { "text": "Horreur", "correct": false }
       ]
+    },
+    {
+      "question": "Dans quel film rencontre-t-on le personnage Simba ?",
+      "answers": [
+        { "text": "Le Roi Lion", "correct": true },
+        { "text": "Madagascar", "correct": false },
+        { "text": "Zootopie", "correct": false },
+        { "text": "Kung Fu Panda", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui joue le rôle principal dans 'Forrest Gump' ?",
+      "answers": [
+        { "text": "Tom Hanks", "correct": true },
+        { "text": "Matt Damon", "correct": false },
+        { "text": "Brad Pitt", "correct": false },
+        { "text": "Leonardo DiCaprio", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel film entend-on la chanson 'Let It Go' ?",
+      "answers": [
+        { "text": "La Reine des Neiges", "correct": true },
+        { "text": "Raiponce", "correct": false },
+        { "text": "Vaiana", "correct": false },
+        { "text": "Mulan", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le nom du panda dans 'Kung Fu Panda' ?",
+      "answers": [
+        { "text": "Po", "correct": true },
+        { "text": "Bao", "correct": false },
+        { "text": "Tao", "correct": false },
+        { "text": "Li", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel super-héros est surnommé l’Homme-Araignée ?",
+      "answers": [
+        { "text": "Spider-Man", "correct": true },
+        { "text": "Batman", "correct": false },
+        { "text": "Superman", "correct": false },
+        { "text": "Flash", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui incarne Jack Dawson dans 'Titanic' ?",
+      "answers": [
+        { "text": "Leonardo DiCaprio", "correct": true },
+        { "text": "Brad Pitt", "correct": false },
+        { "text": "Matt Damon", "correct": false },
+        { "text": "Ben Affleck", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel film un ogre vert vit dans un marais ?",
+      "answers": [
+        { "text": "Shrek", "correct": true },
+        { "text": "Monstres & Cie", "correct": false },
+        { "text": "Fiona", "correct": false },
+        { "text": "Dragons", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel personnage vit dans une ananas sous la mer ?",
+      "answers": [
+        { "text": "Bob l’éponge", "correct": true },
+        { "text": "Nemo", "correct": false },
+        { "text": "Dory", "correct": false },
+        { "text": "Marin", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film met en scène une voiture rouge appelée Flash McQueen ?",
+      "answers": [
+        { "text": "Cars", "correct": true },
+        { "text": "Planes", "correct": false },
+        { "text": "Herbie", "correct": false },
+        { "text": "Transformers", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est le rival de Woody dans 'Toy Story' ?",
+      "answers": [
+        { "text": "Buzz l’Éclair", "correct": true },
+        { "text": "Zurg", "correct": false },
+        { "text": "Jessie", "correct": false },
+        { "text": "Rex", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel animal est Baloo dans 'Le Livre de la Jungle' ?",
+      "answers": [
+        { "text": "Un ours", "correct": true },
+        { "text": "Un tigre", "correct": false },
+        { "text": "Un singe", "correct": false },
+        { "text": "Un serpent", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le prénom du petit poisson clown dans 'Le Monde de Nemo' ?",
+      "answers": [
+        { "text": "Nemo", "correct": true },
+        { "text": "Marin", "correct": false },
+        { "text": "Dory", "correct": false },
+        { "text": "Bruce", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Harry Potter', quel est le prénom du héros ?",
+      "answers": [
+        { "text": "Harry", "correct": true },
+        { "text": "Ron", "correct": false },
+        { "text": "Draco", "correct": false },
+        { "text": "Severus", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film raconte l’histoire d’un éléphant volant ?",
+      "answers": [
+        { "text": "Dumbo", "correct": true },
+        { "text": "Bambi", "correct": false },
+        { "text": "Tarzan", "correct": false },
+        { "text": "Pocahontas", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est l’ennemi principal de Batman ?",
+      "answers": [
+        { "text": "Le Joker", "correct": true },
+        { "text": "Lex Luthor", "correct": false },
+        { "text": "Thanos", "correct": false },
+        { "text": "Venom", "correct": false }
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         { "text": "Avengers: Endgame", "correct": false },
         { "text": "Matrix", "correct": false }
       ]
+    },
+    {
+      "question": "Quel film a remporté la Palme d'Or au Festival de Cannes en 1994 ?",
+      "answers": [
+        { "text": "Pulp Fiction", "correct": true },
+        { "text": "Forrest Gump", "correct": false },
+        { "text": "The Piano", "correct": false },
+        { "text": "Apocalypse Now", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel acteur incarne Batman dans la trilogie de Christopher Nolan ?",
+      "answers": [
+        { "text": "Christian Bale", "correct": true },
+        { "text": "Ben Affleck", "correct": false },
+        { "text": "Michael Keaton", "correct": false },
+        { "text": "George Clooney", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film de Steven Spielberg raconte l’histoire d’Oskar Schindler ?",
+      "answers": [
+        { "text": "La Liste de Schindler", "correct": true },
+        { "text": "Il faut sauver le soldat Ryan", "correct": false },
+        { "text": "E.T.", "correct": false },
+        { "text": "Jaws", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film d’animation raconte l’histoire d’un rat devenu chef cuisinier à Paris ?",
+      "answers": [
+        { "text": "Ratatouille", "correct": true },
+        { "text": "Rango", "correct": false },
+        { "text": "Brave", "correct": false },
+        { "text": "Les Indestructibles", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui a réalisé 'Pulp Fiction' ?",
+      "answers": [
+        { "text": "Quentin Tarantino", "correct": true },
+        { "text": "Guy Ritchie", "correct": false },
+        { "text": "Ridley Scott", "correct": false },
+        { "text": "David Fincher", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel film Tom Cruise incarne-t-il l’agent Ethan Hunt ?",
+      "answers": [
+        { "text": "Mission: Impossible", "correct": true },
+        { "text": "Top Gun", "correct": false },
+        { "text": "Minority Report", "correct": false },
+        { "text": "Rain Man", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui a remporté l’Oscar du meilleur acteur pour 'The Revenant' ?",
+      "answers": [
+        { "text": "Leonardo DiCaprio", "correct": true },
+        { "text": "Tom Hardy", "correct": false },
+        { "text": "Brad Pitt", "correct": false },
+        { "text": "Eddie Redmayne", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film met en scène une DeLorean utilisée comme machine à voyager dans le temps ?",
+      "answers": [
+        { "text": "Retour vers le futur", "correct": true },
+        { "text": "Timecop", "correct": false },
+        { "text": "Interstellar", "correct": false },
+        { "text": "Looper", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui a réalisé 'La La Land' ?",
+      "answers": [
+        { "text": "Damien Chazelle", "correct": true },
+        { "text": "Tom Hooper", "correct": false },
+        { "text": "Alejandro González Iñárritu", "correct": false },
+        { "text": "Baz Luhrmann", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film d'Alfred Hitchcock est célèbre pour sa scène de la douche ?",
+      "answers": [
+        { "text": "Psychose", "correct": true },
+        { "text": "Fenêtre sur cour", "correct": false },
+        { "text": "Les Oiseaux", "correct": false },
+        { "text": "Sueurs froides", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film met en scène le personnage Hannibal Lecter ?",
+      "answers": [
+        { "text": "Le Silence des agneaux", "correct": true },
+        { "text": "Hannibal", "correct": false },
+        { "text": "Red Dragon", "correct": false },
+        { "text": "Le Sixième Sens", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel biopic musical raconte la vie de Freddie Mercury et du groupe Queen ?",
+      "answers": [
+        { "text": "Bohemian Rhapsody", "correct": true },
+        { "text": "Rocketman", "correct": false },
+        { "text": "Straight Outta Compton", "correct": false },
+        { "text": "Walk the Line", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel réalisateur est à l'origine du film 'Les Dents de la Mer' (Jaws) ?",
+      "answers": [
+        { "text": "Steven Spielberg", "correct": true },
+        { "text": "John Carpenter", "correct": false },
+        { "text": "James Cameron", "correct": false },
+        { "text": "Peter Jackson", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film raconte l'histoire d'Andy Dufresne et Red dans une prison américaine ?",
+      "answers": [
+        { "text": "Les Évadés", "correct": true },
+        { "text": "La Ligne verte", "correct": false },
+        { "text": "Shawshank : Redemption", "correct": false },
+        { "text": "Un prophète", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel film entend-on la célèbre réplique 'Here's looking at you, kid' ?",
+      "answers": [
+        { "text": "Casablanca", "correct": true },
+        { "text": "Citizen Kane", "correct": false },
+        { "text": "Autant en emporte le vent", "correct": false },
+        { "text": "Le Lauréat", "correct": false }
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         { "text": "Luc Besson", "correct": false },
         { "text": "François Truffaut", "correct": false },
         { "text": "Claude Chabrol", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film a remporté 11 Oscars lors de la cérémonie de 2004 ?",
+      "answers": [
+        { "text": "Le Seigneur des anneaux : Le Retour du roi", "correct": true },
+        { "text": "Titanic", "correct": false },
+        { "text": "Ben-Hur", "correct": false },
+        { "text": "Autant en emporte le vent", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui a réalisé '2001 : L'Odyssée de l'espace' ?",
+      "answers": [
+        { "text": "Stanley Kubrick", "correct": true },
+        { "text": "Arthur C. Clarke", "correct": false },
+        { "text": "Ridley Scott", "correct": false },
+        { "text": "Andrei Tarkovski", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui est le réalisateur et co-scénariste de 'Citizen Kane' ?",
+      "answers": [
+        { "text": "Orson Welles", "correct": true },
+        { "text": "Orson Scott", "correct": false },
+        { "text": "Wes Anderson", "correct": false },
+        { "text": "Frank Capra", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel réalisateur italien est l'auteur de 'La Dolce Vita' ?",
+      "answers": [
+        { "text": "Federico Fellini", "correct": true },
+        { "text": "Roberto Rossellini", "correct": false },
+        { "text": "Sergio Leone", "correct": false },
+        { "text": "Michelangelo Antonioni", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film d'Akira Kurosawa a inspiré le western 'Les Sept Mercenaires' ?",
+      "answers": [
+        { "text": "Les Sept Samouraïs", "correct": true },
+        { "text": "Rashomon", "correct": false },
+        { "text": "Kagemusha", "correct": false },
+        { "text": "Ran", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel compositeur a signé la bande originale de 'Star Wars' ?",
+      "answers": [
+        { "text": "John Williams", "correct": true },
+        { "text": "Hans Zimmer", "correct": false },
+        { "text": "Ennio Morricone", "correct": false },
+        { "text": "James Horner", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel terme décrit la technique cinématographique dite 'effet Vertigo' ?",
+      "answers": [
+        { "text": "Dolly zoom (effet Vertigo)", "correct": true },
+        { "text": "Travelling compensé", "correct": false },
+        { "text": "Plan-séquence", "correct": false },
+        { "text": "Champ-contrechamp", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel film prononce-t-on la logique énigmatique du mot 'Rosebud' ?",
+      "answers": [
+        { "text": "Citizen Kane", "correct": true },
+        { "text": "Chinatown", "correct": false },
+        { "text": "Le Troisième Homme", "correct": false },
+        { "text": "Le Parrain", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel classique de 1939 est réputé pour son utilisation du Technicolor et son univers fantastique ?",
+      "answers": [
+        { "text": "Le Magicien d'Oz", "correct": true },
+        { "text": "Autant en emporte le vent", "correct": false },
+        { "text": "Les Aventures de Robin des Bois", "correct": false },
+        { "text": "La Chevauchée fantastique", "correct": false }
+      ]
+    },
+    {
+      "question": "Qui a réalisé 'Apocalypse Now' ?",
+      "answers": [
+        { "text": "Francis Ford Coppola", "correct": true },
+        { "text": "Stanley Kubrick", "correct": false },
+        { "text": "Martin Scorsese", "correct": false },
+        { "text": "Peter Weir", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel réalisateur japonais est connu pour des films comme 'Rashomon' et 'Les Sept Samouraïs' ?",
+      "answers": [
+        { "text": "Akira Kurosawa", "correct": true },
+        { "text": "Hayao Miyazaki", "correct": false },
+        { "text": "Yasujiro Ozu", "correct": false },
+        { "text": "Takashi Miike", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel acteur a incarné Vito Corleone dans 'Le Parrain' ?",
+      "answers": [
+        { "text": "Marlon Brando", "correct": true },
+        { "text": "Al Pacino", "correct": false },
+        { "text": "Robert De Niro", "correct": false },
+        { "text": "James Caan", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quel film de Martin Scorsese apparaît la célèbre réplique 'You talkin' to me?' ?",
+      "answers": [
+        { "text": "Taxi Driver", "correct": true },
+        { "text": "Raging Bull", "correct": false },
+        { "text": "Les Infiltrés", "correct": false },
+        { "text": "Goodfellas", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel film a remporté la Palme d'Or au Festival de Cannes en 2019 ?",
+      "answers": [
+        { "text": "Parasite", "correct": true },
+        { "text": "Once Upon a Time in Hollywood", "correct": false },
+        { "text": "Roma", "correct": false },
+        { "text": "The Square", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le premier long-métrage d’animation entièrement réalisé en images de synthèse ?",
+      "answers": [
+        { "text": "Toy Story", "correct": true },
+        { "text": "Shrek", "correct": false },
+        { "text": "Tron", "correct": false },
+        { "text": "Final Fantasy : Les Créatures de l’esprit", "correct": false }
       ]
     }
   ]

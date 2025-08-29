@@ -44,6 +44,141 @@
         { "text": "Gossip Girl", "correct": false },
         { "text": "The Big Bang Theory", "correct": false }
       ]
+    },
+    {
+      "question": "Quelle série met en scène le détective Sherlock Holmes dans le Londres moderne ?",
+      "answers": [
+        { "text": "Sherlock", "correct": true },
+        { "text": "Elementary", "correct": false },
+        { "text": "House", "correct": false },
+        { "text": "Luther", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quelle série trouve-t-on le personnage de Tyrion Lannister ?",
+      "answers": [
+        { "text": "Game of Thrones", "correct": true },
+        { "text": "Vikings", "correct": false },
+        { "text": "The Witcher", "correct": false },
+        { "text": "The 100", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle série se déroule principalement dans un lycée de Springfield ?",
+      "answers": [
+        { "text": "Les Simpson", "correct": true },
+        { "text": "Futurama", "correct": false },
+        { "text": "South Park", "correct": false },
+        { "text": "Family Guy", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quelle série retrouve-t-on le personnage Eleven ?",
+      "answers": [
+        { "text": "Stranger Things", "correct": true },
+        { "text": "Lost", "correct": false },
+        { "text": "The 100", "correct": false },
+        { "text": "The OA", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle série met en scène les enquêtes de Dexter Morgan ?",
+      "answers": [
+        { "text": "Dexter", "correct": true },
+        { "text": "Breaking Bad", "correct": false },
+        { "text": "Mindhunter", "correct": false },
+        { "text": "Hannibal", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quelle série trouve-t-on les personnages Chandler et Joey ?",
+      "answers": [
+        { "text": "Friends", "correct": true },
+        { "text": "How I Met Your Mother", "correct": false },
+        { "text": "Seinfeld", "correct": false },
+        { "text": "Big Bang Theory", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle série met en scène un groupe de survivants dans un hôpital psychiatrique post-apocalyptique ?",
+      "answers": [
+        { "text": "The Walking Dead", "correct": true },
+        { "text": "The 100", "correct": false },
+        { "text": "Lost", "correct": false },
+        { "text": "Westworld", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quelle série Bryan Cranston joue-t-il Walter White ?",
+      "answers": [
+        { "text": "Breaking Bad", "correct": true },
+        { "text": "Malcolm in the Middle", "correct": false },
+        { "text": "Better Call Saul", "correct": false },
+        { "text": "The X-Files", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle série suit les aventures d’une famille de Griffins ?",
+      "answers": [
+        { "text": "Family Guy", "correct": true },
+        { "text": "Les Simpson", "correct": false },
+        { "text": "South Park", "correct": false },
+        { "text": "Futurama", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quelle série trouve-t-on le personnage de Michael Scott ?",
+      "answers": [
+        { "text": "The Office", "correct": true },
+        { "text": "Parks and Recreation", "correct": false },
+        { "text": "Brooklyn Nine-Nine", "correct": false },
+        { "text": "Scrubs", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle série se déroule sur une île mystérieuse après un crash d’avion ?",
+      "answers": [
+        { "text": "Lost", "correct": true },
+        { "text": "The 100", "correct": false },
+        { "text": "Lost in Space", "correct": false },
+        { "text": "Survivor", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quelle série retrouve-t-on le personnage de Rick Grimes ?",
+      "answers": [
+        { "text": "The Walking Dead", "correct": true },
+        { "text": "Breaking Bad", "correct": false },
+        { "text": "The 100", "correct": false },
+        { "text": "Vikings", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle série suit les aventures d’une équipe de scientifiques dans le désert du Nouveau-Mexique ?",
+      "answers": [
+        { "text": "Breaking Bad", "correct": true },
+        { "text": "Better Call Saul", "correct": false },
+        { "text": "Fargo", "correct": false },
+        { "text": "Lost", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quelle série retrouve-t-on le personnage de Sheldon Cooper ?",
+      "answers": [
+        { "text": "The Big Bang Theory", "correct": true },
+        { "text": "Friends", "correct": false },
+        { "text": "How I Met Your Mother", "correct": false },
+        { "text": "Community", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle série se déroule dans la ville fictive de South Park ?",
+      "answers": [
+        { "text": "South Park", "correct": true },
+        { "text": "Family Guy", "correct": false },
+        { "text": "Les Simpson", "correct": false },
+        { "text": "Futurama", "correct": false }
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         { "text": "Sansa Stark", "correct": false },
         { "text": "Brienne de Tarth", "correct": false }
       ]
+    },
+    {
+      "question": "Quelle série met en scène la ville de Pawnee et son service des parcs ?",
+      "answers": [
+        { "text": "Parks and Recreation", "correct": true },
+        { "text": "The Office", "correct": false },
+        { "text": "Brooklyn Nine-Nine", "correct": false },
+        { "text": "Community", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Stranger Things', quel est le nom du laboratoire secret ?",
+      "answers": [
+        { "text": "Laboratoire Hawkins", "correct": true },
+        { "text": "Laboratoire Springfield", "correct": false },
+        { "text": "Laboratoire Gotham", "correct": false },
+        { "text": "Laboratoire Star City", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle série met en scène un professeur de chimie devenu baron de la drogue ?",
+      "answers": [
+        { "text": "Breaking Bad", "correct": true },
+        { "text": "Better Call Saul", "correct": false },
+        { "text": "Narcos", "correct": false },
+        { "text": "Weeds", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'The Office', qui joue le rôle de Jim Halpert ?",
+      "answers": [
+        { "text": "John Krasinski", "correct": true },
+        { "text": "Steve Carell", "correct": false },
+        { "text": "Rainn Wilson", "correct": false },
+        { "text": "Ed Helms", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle série suit un adolescent nommé Walter White Jr. ?",
+      "answers": [
+        { "text": "Breaking Bad", "correct": true },
+        { "text": "Malcolm in the Middle", "correct": false },
+        { "text": "Friday Night Lights", "correct": false },
+        { "text": "Dexter", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Game of Thrones', qui est le roi du Nord ?",
+      "answers": [
+        { "text": "Jon Snow", "correct": true },
+        { "text": "Robb Stark", "correct": false },
+        { "text": "Ned Stark", "correct": false },
+        { "text": "Bran Stark", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel personnage principal de 'Breaking Bad' est chimiste ?",
+      "answers": [
+        { "text": "Walter White", "correct": true },
+        { "text": "Jesse Pinkman", "correct": false },
+        { "text": "Saul Goodman", "correct": false },
+        { "text": "Gus Fring", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quelle série Rick Grimes est-il le personnage principal ?",
+      "answers": [
+        { "text": "The Walking Dead", "correct": true },
+        { "text": "Lost", "correct": false },
+        { "text": "The 100", "correct": false },
+        { "text": "Vikings", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quelle série trouve-t-on le personnage de Dwight Schrute ?",
+      "answers": [
+        { "text": "The Office", "correct": true },
+        { "text": "Parks and Recreation", "correct": false },
+        { "text": "Brooklyn Nine-Nine", "correct": false },
+        { "text": "Community", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel acteur joue le rôle de Dr. Gregory House dans 'House' ?",
+      "answers": [
+        { "text": "Hugh Laurie", "correct": true },
+        { "text": "Patrick Dempsey", "correct": false },
+        { "text": "David Schwimmer", "correct": false },
+        { "text": "Michael C. Hall", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Sherlock', qui joue le rôle du Dr John Watson ?",
+      "answers": [
+        { "text": "Martin Freeman", "correct": true },
+        { "text": "Benedict Cumberbatch", "correct": false },
+        { "text": "David Tennant", "correct": false },
+        { "text": "Tom Hiddleston", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle série raconte les aventures de Ragnar Lothbrok ?",
+      "answers": [
+        { "text": "Vikings", "correct": true },
+        { "text": "Game of Thrones", "correct": false },
+        { "text": "The Last Kingdom", "correct": false },
+        { "text": "The 100", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans quelle série la ville fictive de Hawkins est-elle centrale ?",
+      "answers": [
+        { "text": "Stranger Things", "correct": true },
+        { "text": "Lost", "correct": false },
+        { "text": "The OA", "correct": false },
+        { "text": "The 100", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel personnage de 'Friends' est un cuisinier italien ?",
+      "answers": [
+        { "text": "Joey Tribbiani", "correct": true },
+        { "text": "Ross Geller", "correct": false },
+        { "text": "Chandler Bing", "correct": false },
+        { "text": "Monica Geller", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'How I Met Your Mother', qui raconte l’histoire aux enfants ?",
+      "answers": [
+        { "text": "Ted Mosby", "correct": true },
+        { "text": "Marshall Eriksen", "correct": false },
+        { "text": "Barney Stinson", "correct": false },
+        { "text": "Robin Scherbatsky", "correct": false }
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         { "text": "Jeffrey Wright", "correct": false },
         { "text": "Ed Harris", "correct": false },
         { "text": "James Marsden", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel acteur interprète Jesse Pinkman dans 'Breaking Bad' ?",
+      "answers": [
+        { "text": "Aaron Paul", "correct": true },
+        { "text": "Bryan Cranston", "correct": false },
+        { "text": "Dean Norris", "correct": false },
+        { "text": "Bob Odenkirk", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Game of Thrones', qui tue le Roi de la Nuit ?",
+      "answers": [
+        { "text": "Arya Stark", "correct": true },
+        { "text": "Jon Snow", "correct": false },
+        { "text": "Bran Stark", "correct": false },
+        { "text": "Daenerys Targaryen", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel acteur joue le rôle de Dexter Morgan dans 'Dexter' ?",
+      "answers": [
+        { "text": "Michael C. Hall", "correct": true },
+        { "text": "Bryan Cranston", "correct": false },
+        { "text": "Jon Hamm", "correct": false },
+        { "text": "Kevin Spacey", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Sherlock', qui joue Sherlock Holmes ?",
+      "answers": [
+        { "text": "Benedict Cumberbatch", "correct": true },
+        { "text": "Martin Freeman", "correct": false },
+        { "text": "David Tennant", "correct": false },
+        { "text": "Tom Hiddleston", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'The Big Bang Theory', qui est la femme de Sheldon Cooper ?",
+      "answers": [
+        { "text": "Amy Farrah Fowler", "correct": true },
+        { "text": "Penny Hofstadter", "correct": false },
+        { "text": "Bernadette Rostenkowski", "correct": false },
+        { "text": "Leslie Winkle", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel acteur joue Jon Snow dans 'Game of Thrones' ?",
+      "answers": [
+        { "text": "Kit Harington", "correct": true },
+        { "text": "Emilia Clarke", "correct": false },
+        { "text": "Peter Dinklage", "correct": false },
+        { "text": "Nikolaj Coster-Waldau", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Westworld', qui joue Dolores Abernathy ?",
+      "answers": [
+        { "text": "Evan Rachel Wood", "correct": true },
+        { "text": "Thandie Newton", "correct": false },
+        { "text": "Tessa Thompson", "correct": false },
+        { "text": "Shannon Woodward", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Lost', qui est le pilote du vol Oceanic 815 ?",
+      "answers": [
+        { "text": "Chet", "correct": true },
+        { "text": "Jack", "correct": false },
+        { "text": "Sawyer", "correct": false },
+        { "text": "Hurley", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel acteur joue Tyrion Lannister dans 'Game of Thrones' ?",
+      "answers": [
+        { "text": "Peter Dinklage", "correct": true },
+        { "text": "Nikolaj Coster-Waldau", "correct": false },
+        { "text": "Liam Cunningham", "correct": false },
+        { "text": "Kit Harington", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'The Walking Dead', qui est le leader du groupe au début ?",
+      "answers": [
+        { "text": "Rick Grimes", "correct": true },
+        { "text": "Daryl Dixon", "correct": false },
+        { "text": "Glenn Rhee", "correct": false },
+        { "text": "Carl Grimes", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Stranger Things', qui est le meilleur ami de Mike Wheeler ?",
+      "answers": [
+        { "text": "Dustin Henderson", "correct": true },
+        { "text": "Lucas Sinclair", "correct": false },
+        { "text": "Will Byers", "correct": false },
+        { "text": "Steve Harrington", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Breaking Bad', qui est l’avocat de Walter White ?",
+      "answers": [
+        { "text": "Saul Goodman", "correct": true },
+        { "text": "Gus Fring", "correct": false },
+        { "text": "Hank Schrader", "correct": false },
+        { "text": "Jesse Pinkman", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel acteur joue Daenerys Targaryen dans 'Game of Thrones' ?",
+      "answers": [
+        { "text": "Emilia Clarke", "correct": true },
+        { "text": "Sophie Turner", "correct": false },
+        { "text": "Lena Headey", "correct": false },
+        { "text": "Maisie Williams", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'The Office', qui joue Michael Scott ?",
+      "answers": [
+        { "text": "Steve Carell", "correct": true },
+        { "text": "John Krasinski", "correct": false },
+        { "text": "Rainn Wilson", "correct": false },
+        { "text": "Ed Helms", "correct": false }
+      ]
+    },
+    {
+      "question": "Dans 'Westworld', quel est le nom du parc expérimental créé pour les invités riches ?",
+      "answers": [
+        { "text": "Delos", "correct": true },
+        { "text": "Nexus", "correct": false },
+        { "text": "Eden", "correct": false },
+        { "text": "Aurora", "correct": false }
       ]
     }
   ]

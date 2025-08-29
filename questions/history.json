@@ -44,6 +44,141 @@
         {"text": "Louis XV", "correct": false},
         {"text": "François Ier", "correct": false}
       ]
+    },
+    {
+      "question": "Qui était Napoléon Bonaparte ?",
+      "answers": [
+        {"text": "Empereur français", "correct": true},
+        {"text": "Roi d’Italie", "correct": false},
+        {"text": "Roi de Prusse", "correct": false},
+        {"text": "Général espagnol", "correct": false}
+      ]
+    },
+    {
+      "question": "En quelle année Christophe Colomb a-t-il découvert l’Amérique ?",
+      "answers": [
+        {"text": "1492", "correct": true},
+        {"text": "1500", "correct": false},
+        {"text": "1482", "correct": false},
+        {"text": "1512", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a été le premier président des États-Unis ?",
+      "answers": [
+        {"text": "George Washington", "correct": true},
+        {"text": "Abraham Lincoln", "correct": false},
+        {"text": "Thomas Jefferson", "correct": false},
+        {"text": "John Adams", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle révolution a eu lieu en 1789 ?",
+      "answers": [
+        {"text": "Révolution française", "correct": true},
+        {"text": "Révolution américaine", "correct": false},
+        {"text": "Révolution russe", "correct": false},
+        {"text": "Révolution industrielle", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit la Déclaration des droits de l’homme et du citoyen ?",
+      "answers": [
+        {"text": "Les révolutionnaires français", "correct": true},
+        {"text": "Napoléon Bonaparte", "correct": false},
+        {"text": "Louis XVI", "correct": false},
+        {"text": "Jean-Jacques Rousseau", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a dirigé l’Empire romain pendant sa plus grande expansion ?",
+      "answers": [
+        {"text": "Auguste", "correct": true},
+        {"text": "Jules César", "correct": false},
+        {"text": "Néron", "correct": false},
+        {"text": "Trajan", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a inventé l’imprimerie en Europe ?",
+      "answers": [
+        {"text": "Gutenberg", "correct": true},
+        {"text": "Galilée", "correct": false},
+        {"text": "Newton", "correct": false},
+        {"text": "Copernic", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roi anglais fut décapité en 1649 ?",
+      "answers": [
+        {"text": "Charles Ier", "correct": true},
+        {"text": "Henri VIII", "correct": false},
+        {"text": "Édouard III", "correct": false},
+        {"text": "Jacques Ier", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle guerre a opposé les Nordistes et les Sudistes aux États-Unis ?",
+      "answers": [
+        {"text": "Guerre de Sécession", "correct": true},
+        {"text": "Guerre d’Indépendance", "correct": false},
+        {"text": "Guerre de 1812", "correct": false},
+        {"text": "Guerre du Viêt Nam", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a fondé l’Empire moghol en Inde ?",
+      "answers": [
+        {"text": "Babur", "correct": true},
+        {"text": "Akbar", "correct": false},
+        {"text": "Shah Jahan", "correct": false},
+        {"text": "Aurangzeb", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roi français a été guillotiné en 1793 ?",
+      "answers": [
+        {"text": "Louis XVI", "correct": true},
+        {"text": "Louis XIV", "correct": false},
+        {"text": "Louis XV", "correct": false},
+        {"text": "Charles X", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a mené la Révolution russe de 1917 ?",
+      "answers": [
+        {"text": "Lénine", "correct": true},
+        {"text": "Staline", "correct": false},
+        {"text": "Trotski", "correct": false},
+        {"text": "Kerensky", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel explorateur portugais a contourné l’Afrique pour atteindre l’Inde ?",
+      "answers": [
+        {"text": "Vasco de Gama", "correct": true},
+        {"text": "Magellan", "correct": false},
+        {"text": "Colomb", "correct": false},
+        {"text": "Cabral", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui était le dernier tsar de Russie ?",
+      "answers": [
+        {"text": "Nicolas II", "correct": true},
+        {"text": "Alexandre III", "correct": false},
+        {"text": "Pierre le Grand", "correct": false},
+        {"text": "Ivan IV", "correct": false}
+      ]
+    },
+    {
+      "question": "Quelle bataille a marqué la fin de Napoléon ?",
+      "answers": [
+        {"text": "Waterloo", "correct": true},
+        {"text": "Austerlitz", "correct": false},
+        {"text": "Marengo", "correct": false},
+        {"text": "Trafalgar", "correct": false}
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         {"text": "Benito Mussolini", "correct": false},
         {"text": "Winston Churchill", "correct": false}
       ]
+    },
+    {
+      "question": "Quelle dynastie a régné en Chine pendant près de 300 ans avant 1912 ?",
+      "answers": [
+        {"text": "Dynastie Qing", "correct": true},
+        {"text": "Dynastie Ming", "correct": false},
+        {"text": "Dynastie Han", "correct": false},
+        {"text": "Dynastie Tang", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a signé la Déclaration d’indépendance des États-Unis ?",
+      "answers": [
+        {"text": "Thomas Jefferson", "correct": true},
+        {"text": "George Washington", "correct": false},
+        {"text": "Benjamin Franklin", "correct": false},
+        {"text": "John Adams", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui était Jeanne d’Arc ?",
+      "answers": [
+        {"text": "Héroïne française de la guerre de Cent Ans", "correct": true},
+        {"text": "Reine d’Angleterre", "correct": false},
+        {"text": "Impératrice allemande", "correct": false},
+        {"text": "Exploratrice espagnole", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel traité a mis fin à la guerre de Cent Ans ?",
+      "answers": [
+        {"text": "Traité de Paris 1453", "correct": true},
+        {"text": "Traité de Versailles", "correct": false},
+        {"text": "Traité de Troyes", "correct": false},
+        {"text": "Traité d’Utrecht", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Le Prince' ?",
+      "answers": [
+        {"text": "Machiavel", "correct": true},
+        {"text": "Montesquieu", "correct": false},
+        {"text": "Rousseau", "correct": false},
+        {"text": "Voltaire", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roi de France a été surnommé 'le Bien-Aimé' ?",
+      "answers": [
+        {"text": "Louis XV", "correct": true},
+        {"text": "Louis XIV", "correct": false},
+        {"text": "Louis XVI", "correct": false},
+        {"text": "Charles X", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a dirigé la révolution cubaine en 1959 ?",
+      "answers": [
+        {"text": "Fidel Castro", "correct": true},
+        {"text": "Che Guevara", "correct": false},
+        {"text": "Batista", "correct": false},
+        {"text": "Hugo Chávez", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roi d’Angleterre a épousé Marie Tudor ?",
+      "answers": [
+        {"text": "Philippe II d’Espagne", "correct": true},
+        {"text": "Henri VIII", "correct": false},
+        {"text": "Édouard VI", "correct": false},
+        {"text": "Jacques Ier", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a dirigé l’Union soviétique après Lénine ?",
+      "answers": [
+        {"text": "Staline", "correct": true},
+        {"text": "Trotski", "correct": false},
+        {"text": "Khrouchtchev", "correct": false},
+        {"text": "Brejnev", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel traité a mis fin à la guerre de 30 ans ?",
+      "answers": [
+        {"text": "Paix de Westphalie", "correct": true},
+        {"text": "Traité de Versailles", "correct": false},
+        {"text": "Traité de Paris", "correct": false},
+        {"text": "Traité de Tordesillas", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui était le président des États-Unis pendant la guerre de Sécession ?",
+      "answers": [
+        {"text": "Abraham Lincoln", "correct": true},
+        {"text": "George Washington", "correct": false},
+        {"text": "Thomas Jefferson", "correct": false},
+        {"text": "Theodore Roosevelt", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit la 'Déclaration d’indépendance américaine' ?",
+      "answers": [
+        {"text": "Thomas Jefferson", "correct": true},
+        {"text": "Benjamin Franklin", "correct": false},
+        {"text": "John Adams", "correct": false},
+        {"text": "George Washington", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a mené l’Empire byzantin à son apogée ?",
+      "answers": [
+        {"text": "Justinien Ier", "correct": true},
+        {"text": "Constantin Ier", "correct": false},
+        {"text": "Héraclius", "correct": false},
+        {"text": "Alexis Ier", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui était le célèbre roi de Macédoine ?",
+      "answers": [
+        {"text": "Alexandre le Grand", "correct": true},
+        {"text": "Philippe II", "correct": false},
+        {"text": "Darius Ier", "correct": false},
+        {"text": "Ptolémée", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel traité a mis fin à la guerre de Sept Ans ?",
+      "answers": [
+        {"text": "Traité de Paris 1763", "correct": true},
+        {"text": "Traité de Versailles", "correct": false},
+        {"text": "Traité de Westphalie", "correct": false},
+        {"text": "Traité de Tordesillas", "correct": false}
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         {"text": "1792", "correct": false},
         {"text": "1776", "correct": false},
         {"text": "1804", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel empire a été dirigé par Charlemagne ?",
+      "answers": [
+        {"text": "Empire carolingien", "correct": true},
+        {"text": "Empire romain", "correct": false},
+        {"text": "Empire ottoman", "correct": false},
+        {"text": "Empire byzantin", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a été le dernier empereur de Chine ?",
+      "answers": [
+        {"text": "Puyi", "correct": true},
+        {"text": "Kangxi", "correct": false},
+        {"text": "Qianlong", "correct": false},
+        {"text": "Guangxu", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a dirigé la révolution haïtienne ?",
+      "answers": [
+        {"text": "Toussaint Louverture", "correct": true},
+        {"text": "Jean-Jacques Dessalines", "correct": false},
+        {"text": "Henri Christophe", "correct": false},
+        {"text": "Napoléon Bonaparte", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel président américain a signé la proclamation d’émancipation ?",
+      "answers": [
+        {"text": "Abraham Lincoln", "correct": true},
+        {"text": "George Washington", "correct": false},
+        {"text": "Thomas Jefferson", "correct": false},
+        {"text": "Theodore Roosevelt", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a dirigé la Russie après la mort de Lénine ?",
+      "answers": [
+        {"text": "Staline", "correct": true},
+        {"text": "Trotski", "correct": false},
+        {"text": "Khrouchtchev", "correct": false},
+        {"text": "Brejnev", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel traité a mis fin à la guerre de Trente Ans ?",
+      "answers": [
+        {"text": "Paix de Westphalie", "correct": true},
+        {"text": "Traité de Versailles", "correct": false},
+        {"text": "Traité de Paris", "correct": false},
+        {"text": "Traité de Tordesillas", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a écrit 'Le Contrat social' ?",
+      "answers": [
+        {"text": "Jean-Jacques Rousseau", "correct": true},
+        {"text": "Montesquieu", "correct": false},
+        {"text": "Voltaire", "correct": false},
+        {"text": "Diderot", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel général a dirigé les forces alliées en Europe pendant la Seconde Guerre mondiale ?",
+      "answers": [
+        {"text": "Dwight D. Eisenhower", "correct": true},
+        {"text": "George Patton", "correct": false},
+        {"text": "Bernard Montgomery", "correct": false},
+        {"text": "Charles de Gaulle", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a fondé l’Empire ottoman ?",
+      "answers": [
+        {"text": "Osman Ier", "correct": true},
+        {"text": "Suleiman", "correct": false},
+        {"text": "Mehmed II", "correct": false},
+        {"text": "Selim Ier", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a été le pharaon d’Égypte pendant la construction des pyramides ?",
+      "answers": [
+        {"text": "Khéops", "correct": true},
+        {"text": "Ramsès II", "correct": false},
+        {"text": "Toutânkhamon", "correct": false},
+        {"text": "Akhenaton", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a dirigé la France pendant la Première Guerre mondiale ?",
+      "answers": [
+        {"text": "Raymond Poincaré", "correct": true},
+        {"text": "Georges Clemenceau", "correct": false},
+        {"text": "Léon Blum", "correct": false},
+        {"text": "Charles de Gaulle", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a dirigé le Royaume-Uni pendant la Seconde Guerre mondiale ?",
+      "answers": [
+        {"text": "Winston Churchill", "correct": true},
+        {"text": "Neville Chamberlain", "correct": false},
+        {"text": "Clement Attlee", "correct": false},
+        {"text": "David Lloyd George", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel roi français a été exilé à Saint-Hélène ?",
+      "answers": [
+        {"text": "Napoléon Ier", "correct": true},
+        {"text": "Louis XVI", "correct": false},
+        {"text": "Louis XVIII", "correct": false},
+        {"text": "Charles X", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a dirigé l’Espagne pendant la guerre civile espagnole ?",
+      "answers": [
+        {"text": "Francisco Franco", "correct": true},
+        {"text": "Miguel Primo de Rivera", "correct": false},
+        {"text": "Juan Carlos Ier", "correct": false},
+        {"text": "Félix López", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a dirigé le Japon pendant la Seconde Guerre mondiale ?",
+      "answers": [
+        {"text": "Empereur Hirohito", "correct": true},
+        {"text": "Hideki Tojo", "correct": false},
+        {"text": "Emperor Meiji", "correct": false},
+        {"text": "Yamamoto Isoroku", "correct": false}
       ]
     }
   ]

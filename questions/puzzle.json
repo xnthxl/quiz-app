@@ -44,6 +44,141 @@
         {"text": "Une étoile", "correct": false},
         {"text": "Une échelle", "correct": false}
       ]
+    },
+    {
+      "question": "Je suis invisible mais vous me sentez. Qui suis-je ?",
+      "answers": [
+        {"text": "Le vent", "correct": true},
+        {"text": "L'air", "correct": false},
+        {"text": "La lumière", "correct": false},
+        {"text": "Le son", "correct": false}
+      ]
+    },
+    {
+      "question": "Plus je suis grand, moins vous me voyez. Qui suis-je ?",
+      "answers": [
+        {"text": "L'obscurité", "correct": true},
+        {"text": "La lumière", "correct": false},
+        {"text": "Le ciel", "correct": false},
+        {"text": "Le brouillard", "correct": false}
+      ]
+    },
+    {
+      "question": "Je peux être brisé mais jamais tenu. Qui suis-je ?",
+      "answers": [
+        {"text": "Une promesse", "correct": true},
+        {"text": "Un verre", "correct": false},
+        {"text": "Un miroir", "correct": false},
+        {"text": "Un oeuf", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis un pont sans eau. Qui suis-je ?",
+      "answers": [
+        {"text": "Un arc-en-ciel", "correct": true},
+        {"text": "Un chemin", "correct": false},
+        {"text": "Un nuage", "correct": false},
+        {"text": "Une route", "correct": false}
+      ]
+    },
+    {
+      "question": "Je peux être rempli mais jamais vidé. Qui suis-je ?",
+      "answers": [
+        {"text": "Le silence", "correct": true},
+        {"text": "Un sac", "correct": false},
+        {"text": "Un vase", "correct": false},
+        {"text": "Une boîte", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis partout et nulle part à la fois. Qui suis-je ?",
+      "answers": [
+        {"text": "Le temps", "correct": true},
+        {"text": "L'espace", "correct": false},
+        {"text": "Le vent", "correct": false},
+        {"text": "La lumière", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis pris mais jamais donné. Qui suis-je ?",
+      "answers": [
+        {"text": "Une photo", "correct": true},
+        {"text": "Un objet", "correct": false},
+        {"text": "Un souffle", "correct": false},
+        {"text": "Une idée", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis souvent suivi mais jamais attrapé. Qui suis-je ?",
+      "answers": [
+        {"text": "Une ombre", "correct": true},
+        {"text": "Le soleil", "correct": false},
+        {"text": "Un chat", "correct": false},
+        {"text": "Le vent", "correct": false}
+      ]
+    },
+    {
+      "question": "Plus je sèche, plus je grandis. Qui suis-je ?",
+      "answers": [
+        {"text": "Un feu", "correct": true},
+        {"text": "Une plante", "correct": false},
+        {"text": "Une serviette", "correct": false},
+        {"text": "Le vent", "correct": false}
+      ]
+    },
+    {
+      "question": "Je peux tourner sans bouger. Qui suis-je ?",
+      "answers": [
+        {"text": "Une clé", "correct": true},
+        {"text": "Une roue", "correct": false},
+        {"text": "Une montre", "correct": false},
+        {"text": "Une boussole", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis léger mais vous ne pouvez me tenir longtemps. Qui suis-je ?",
+      "answers": [
+        {"text": "Le souffle", "correct": true},
+        {"text": "L'air", "correct": false},
+        {"text": "Le vent", "correct": false},
+        {"text": "Le temps", "correct": false}
+      ]
+    },
+    {
+      "question": "Je grandis quand je mange et je meurs quand je bois. Qui suis-je ?",
+      "answers": [
+        {"text": "Le feu", "correct": true},
+        {"text": "Une plante", "correct": false},
+        {"text": "Une flamme", "correct": false},
+        {"text": "Un objet", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis un nombre pair mais pas divisible par 4. Qui suis-je ?",
+      "answers": [
+        {"text": "2", "correct": true},
+        {"text": "6", "correct": false},
+        {"text": "10", "correct": false},
+        {"text": "14", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis invisible mais je peux être entendu. Qui suis-je ?",
+      "answers": [
+        {"text": "Le son", "correct": true},
+        {"text": "Le vent", "correct": false},
+        {"text": "L'air", "correct": false},
+        {"text": "La lumière", "correct": false}
+      ]
+    },
+    {
+      "question": "Je disparais chaque nuit et reviens chaque matin. Qui suis-je ?",
+      "answers": [
+        {"text": "Le soleil", "correct": true},
+        {"text": "La lune", "correct": false},
+        {"text": "Les étoiles", "correct": false},
+        {"text": "L'ombre", "correct": false}
+      ]
     }
   ],
   "moyen": [
@@ -91,6 +226,141 @@
         {"text": "Le temps", "correct": false},
         {"text": "L’air", "correct": false}
       ]
+    },
+    {
+      "question": "Je suis un nombre. Multipliez-moi par 2, ajoutez 10, divisez par 4 et obtenez 9. Qui suis-je ?",
+      "answers": [
+        {"text": "16", "correct": true},
+        {"text": "12", "correct": false},
+        {"text": "18", "correct": false},
+        {"text": "20", "correct": false}
+      ]
+    },
+    {
+      "question": "Si trois chats attrapent trois souris en trois minutes, combien de temps mettront six chats pour attraper six souris ?",
+      "answers": [
+        {"text": "3 minutes", "correct": true},
+        {"text": "6 minutes", "correct": false},
+        {"text": "9 minutes", "correct": false},
+        {"text": "12 minutes", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis pris avant que vous ne puissiez me donner. Qui suis-je ?",
+      "answers": [
+        {"text": "Une photo", "correct": true},
+        {"text": "Un secret", "correct": false},
+        {"text": "Une décision", "correct": false},
+        {"text": "Un souffle", "correct": false}
+      ]
+    },
+    {
+      "question": "Vous me trouvez une fois dans une minute, deux fois dans un moment, et jamais dans un siècle. Qui suis-je ?",
+      "answers": [
+        {"text": "La lettre 'm'", "correct": true},
+        {"text": "La seconde", "correct": false},
+        {"text": "L'heure", "correct": false},
+        {"text": "Le jour", "correct": false}
+      ]
+    },
+    {
+      "question": "Si une boîte contient 5 pommes et que vous en prenez 3, combien en avez-vous ?",
+      "answers": [
+        {"text": "3", "correct": true},
+        {"text": "2", "correct": false},
+        {"text": "5", "correct": false},
+        {"text": "0", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis un mot de 5 lettres et si vous enlevez deux lettres, je reste le même. Qui suis-je ?",
+      "answers": [
+        {"text": "Vide", "correct": true},
+        {"text": "Sonne", "correct": false},
+        {"text": "Épée", "correct": false},
+        {"text": "Rien", "correct": false}
+      ]
+    },
+    {
+      "question": "Je peux être long ou court, chaud ou froid, mais je ne suis jamais vivant. Qui suis-je ?",
+      "answers": [
+        {"text": "Le temps", "correct": true},
+        {"text": "L'eau", "correct": false},
+        {"text": "Une ombre", "correct": false},
+        {"text": "Un vent", "correct": false}
+      ]
+    },
+    {
+      "question": "Plus je suis chaud, plus je monte. Qui suis-je ?",
+      "answers": [
+        {"text": "La vapeur", "correct": true},
+        {"text": "Le feu", "correct": false},
+        {"text": "L'air chaud", "correct": false},
+        {"text": "Le vent", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis rempli d’eau mais je ne coule jamais. Qui suis-je ?",
+      "answers": [
+        {"text": "Une éponge", "correct": true},
+        {"text": "Une rivière", "correct": false},
+        {"text": "Un lac", "correct": false},
+        {"text": "Un verre", "correct": false}
+      ]
+    },
+    {
+      "question": "Je peux être cassé sans être touché. Qui suis-je ?",
+      "answers": [
+        {"text": "Une promesse", "correct": true},
+        {"text": "Un oeuf", "correct": false},
+        {"text": "Un verre", "correct": false},
+        {"text": "Un miroir", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis léger mais vous ne pouvez me tenir plus de quelques secondes. Qui suis-je ?",
+      "answers": [
+        {"text": "Le souffle", "correct": true},
+        {"text": "L'air", "correct": false},
+        {"text": "Le vent", "correct": false},
+        {"text": "Le temps", "correct": false}
+      ]
+    },
+    {
+      "question": "Si deux heures après midi il est trois fois l’âge d’un enfant de 2 ans, quel âge a l’enfant ?",
+      "answers": [
+        {"text": "2 ans", "correct": true},
+        {"text": "3 ans", "correct": false},
+        {"text": "4 ans", "correct": false},
+        {"text": "6 ans", "correct": false}
+      ]
+    },
+    {
+      "question": "Je commence et finis par la lettre E mais je ne contiens qu’une seule lettre. Qui suis-je ?",
+      "answers": [
+        {"text": "Une enveloppe", "correct": true},
+        {"text": "Une ère", "correct": false},
+        {"text": "Une étoile", "correct": false},
+        {"text": "Une échelle", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis souvent suivi mais jamais attrapé. Qui suis-je ?",
+      "answers": [
+        {"text": "Une ombre", "correct": true},
+        {"text": "Le soleil", "correct": false},
+        {"text": "Un chat", "correct": false},
+        {"text": "Le vent", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel est le seul mammifère capable de voler ?",
+      "answers": [
+        {"text": "La chauve-souris", "correct": true},
+        {"text": "L'écureuil volant", "correct": false},
+        {"text": "Le colibri", "correct": false},
+        {"text": "Le dragon de Komodo", "correct": false}
+      ]
     }
   ],
   "difficile": [
@@ -137,6 +407,141 @@
         {"text": "Sonne", "correct": false},
         {"text": "Épée", "correct": false},
         {"text": "Rien", "correct": false}
+      ]
+    },
+    {
+      "question": "Je disparais chaque nuit et reviens chaque matin. Qui suis-je ?",
+      "answers": [
+        {"text": "Le soleil", "correct": true},
+        {"text": "La lune", "correct": false},
+        {"text": "Les étoiles", "correct": false},
+        {"text": "L'ombre", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis léger mais je peux briser des montagnes. Qui suis-je ?",
+      "answers": [
+        {"text": "Le vent", "correct": true},
+        {"text": "L'eau", "correct": false},
+        {"text": "Le feu", "correct": false},
+        {"text": "La glace", "correct": false}
+      ]
+    },
+    {
+      "question": "Si vous me regardez, vous me voyez. Mais si vous me touchez, je disparais. Qui suis-je ?",
+      "answers": [
+        {"text": "Une ombre", "correct": true},
+        {"text": "Le vent", "correct": false},
+        {"text": "Une illusion", "correct": false},
+        {"text": "Une flamme", "correct": false}
+      ]
+    },
+    {
+      "question": "Je peux être rempli mais jamais vidé. Qui suis-je ?",
+      "answers": [
+        {"text": "Le silence", "correct": true},
+        {"text": "Une boîte", "correct": false},
+        {"text": "Un sac", "correct": false},
+        {"text": "Un vase", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis un pont sans eau. Qui suis-je ?",
+      "answers": [
+        {"text": "Un arc-en-ciel", "correct": true},
+        {"text": "Un chemin", "correct": false},
+        {"text": "Une route", "correct": false},
+        {"text": "Un nuage", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis toujours en mouvement mais je ne quitte jamais ma place. Qui suis-je ?",
+      "answers": [
+        {"text": "Une horloge", "correct": true},
+        {"text": "Le vent", "correct": false},
+        {"text": "Une rivière", "correct": false},
+        {"text": "Le temps", "correct": false}
+      ]
+    },
+    {
+      "question": "Plus je suis grand, moins vous me voyez. Qui suis-je ?",
+      "answers": [
+        {"text": "L'obscurité", "correct": true},
+        {"text": "La lumière", "correct": false},
+        {"text": "Le brouillard", "correct": false},
+        {"text": "Le ciel", "correct": false}
+      ]
+    },
+    {
+      "question": "Je peux tourner sans bouger. Qui suis-je ?",
+      "answers": [
+        {"text": "Une clé", "correct": true},
+        {"text": "Une roue", "correct": false},
+        {"text": "Une montre", "correct": false},
+        {"text": "Une boussole", "correct": false}
+      ]
+    },
+    {
+      "question": "Je peux être long ou court, chaud ou froid, mais je ne suis jamais vivant. Qui suis-je ?",
+      "answers": [
+        {"text": "Le temps", "correct": true},
+        {"text": "L'eau", "correct": false},
+        {"text": "Une ombre", "correct": false},
+        {"text": "Un vent", "correct": false}
+      ]
+    },
+    {
+      "question": "Je peux être cassé sans être touché. Qui suis-je ?",
+      "answers": [
+        {"text": "Une promesse", "correct": true},
+        {"text": "Un oeuf", "correct": false},
+        {"text": "Un verre", "correct": false},
+        {"text": "Un miroir", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis pris mais jamais donné. Qui suis-je ?",
+      "answers": [
+        {"text": "Une photo", "correct": true},
+        {"text": "Un secret", "correct": false},
+        {"text": "Une décision", "correct": false},
+        {"text": "Un souffle", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis souvent suivi mais jamais attrapé. Qui suis-je ?",
+      "answers": [
+        {"text": "Une ombre", "correct": true},
+        {"text": "Le soleil", "correct": false},
+        {"text": "Un chat", "correct": false},
+        {"text": "Le vent", "correct": false}
+      ]
+    },
+    {
+      "question": "Plus je suis chaud, plus je monte. Qui suis-je ?",
+      "answers": [
+        {"text": "La vapeur", "correct": true},
+        {"text": "Le feu", "correct": false},
+        {"text": "L'air chaud", "correct": false},
+        {"text": "Le vent", "correct": false}
+      ]
+    },
+    {
+      "question": "Je peux être rempli d’eau mais je ne coule jamais. Qui suis-je ?",
+      "answers": [
+        {"text": "Une éponge", "correct": true},
+        {"text": "Une rivière", "correct": false},
+        {"text": "Un lac", "correct": false},
+        {"text": "Un verre", "correct": false}
+      ]
+    },
+    {
+      "question": "Je suis une ville coupée en deux par un célèbre mur, symbole de la Guerre froide. Qui suis-je ?",
+      "answers": [
+        {"text": "Berlin", "correct": true},
+        {"text": "Vienne", "correct": false},
+        {"text": "Varsovie", "correct": false},
+        {"text": "Budapest", "correct": false}
       ]
     }
   ]

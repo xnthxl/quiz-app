@@ -28,11 +28,17 @@
         <a href="contact.html">Contact</a>
         
     </nav>
-
+    <div id="current-quiz-info" style="display:none">
+        <span id="current-quiz"></span>
+        <span id="current-difficulty"></span>
+    </div>
     <main class="home-container">
+        
         <div class="quiz-container" id="question-container" style="display:none;">
             <div id="score"></div>
+            <div id="question-number" aria-live="polite"></div>
             <h2 id="question">Question</h2>
+            <h2 id="end-score"></h2>
             <div id="answer-buttons"></div>
             <div id="controls">
             <button id="next-btn" class="btn-neon">Suivant</button>

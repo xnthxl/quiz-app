@@ -44,6 +44,141 @@
         {"text": "Paul Cézanne", "correct": false},
         {"text": "Henri Matisse", "correct": false}
       ]
+    },
+    {
+      "question": "Qui a peint 'La Naissance de Vénus' ?",
+      "answers": [
+        {"text": "Sandro Botticelli", "correct": true},
+        {"text": "Raphaël", "correct": false},
+        {"text": "Michel-Ange", "correct": false},
+        {"text": "Leonardo da Vinci", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est célèbre pour ses nénuphars ?",
+      "answers": [
+        {"text": "Claude Monet", "correct": true},
+        {"text": "Paul Cézanne", "correct": false},
+        {"text": "Vincent Van Gogh", "correct": false},
+        {"text": "Henri Matisse", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'Les Tournesols' ?",
+      "answers": [
+        {"text": "Vincent Van Gogh", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Paul Cézanne", "correct": false},
+        {"text": "Pierre-Auguste Renoir", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel artiste a peint 'Impression, soleil levant' ?",
+      "answers": [
+        {"text": "Claude Monet", "correct": true},
+        {"text": "Edgar Degas", "correct": false},
+        {"text": "Vincent Van Gogh", "correct": false},
+        {"text": "Paul Cézanne", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de 'La Ronde de nuit' ?",
+      "answers": [
+        {"text": "Rembrandt", "correct": true},
+        {"text": "Vermeer", "correct": false},
+        {"text": "Rubens", "correct": false},
+        {"text": "Van Gogh", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'Le Jardin des délices' ?",
+      "answers": [
+        {"text": "Hieronymus Bosch", "correct": true},
+        {"text": "Pieter Bruegel", "correct": false},
+        {"text": "Albrecht Dürer", "correct": false},
+        {"text": "Hans Holbein", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre a réalisé 'Bal du moulin de la Galette' ?",
+      "answers": [
+        {"text": "Pierre-Auguste Renoir", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Edgar Degas", "correct": false},
+        {"text": "Paul Cézanne", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est associé aux tableaux de la série 'Les Meules' ?",
+      "answers": [
+        {"text": "Claude Monet", "correct": true},
+        {"text": "Vincent Van Gogh", "correct": false},
+        {"text": "Paul Cézanne", "correct": false},
+        {"text": "Edgar Degas", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'Les Noces de Cana' ?",
+      "answers": [
+        {"text": "Paolo Veronese", "correct": true},
+        {"text": "Titien", "correct": false},
+        {"text": "Raphaël", "correct": false},
+        {"text": "Michel-Ange", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'Le Déjeuner sur l’herbe' ?",
+      "answers": [
+        {"text": "Édouard Manet", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Pierre-Auguste Renoir", "correct": false},
+        {"text": "Edgar Degas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel artiste est célèbre pour ses autoportraits avec chapeau et pipe ?",
+      "answers": [
+        {"text": "Vincent Van Gogh", "correct": true},
+        {"text": "Rembrandt", "correct": false},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Paul Cézanne", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'La Chambre de Van Gogh à Arles' ?",
+      "answers": [
+        {"text": "Vincent Van Gogh", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Paul Cézanne", "correct": false},
+        {"text": "Pierre-Auguste Renoir", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel artiste est célèbre pour ses peintures de danseuses ?",
+      "answers": [
+        {"text": "Edgar Degas", "correct": true},
+        {"text": "Henri Matisse", "correct": false},
+        {"text": "Paul Cézanne", "correct": false},
+        {"text": "Claude Monet", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'La Cène' ?",
+      "answers": [
+        {"text": "Léonard de Vinci", "correct": true},
+        {"text": "Michel-Ange", "correct": false},
+        {"text": "Raphaël", "correct": false},
+        {"text": "Sandro Botticelli", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est célèbre pour ses paysages impressionnistes avec de l’eau ?",
+      "answers": [
+        {"text": "Claude Monet", "correct": true},
+        {"text": "Vincent Van Gogh", "correct": false},
+        {"text": "Paul Cézanne", "correct": false},
+        {"text": "Edgar Degas", "correct": false}
+      ]
     }
   ],
   "moyen": [
@@ -89,6 +224,141 @@
         {"text": "Edgar Degas", "correct": true},
         {"text": "Claude Monet", "correct": false},
         {"text": "Henri Rousseau", "correct": false},
+        {"text": "Paul Cézanne", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est associé au mouvement pointilliste ?",
+      "answers": [
+        {"text": "Georges Seurat", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Vincent Van Gogh", "correct": false},
+        {"text": "Paul Cézanne", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'Les Baigneuses' ?",
+      "answers": [
+        {"text": "Paul Cézanne", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Edgar Degas", "correct": false},
+        {"text": "Henri Matisse", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est célèbre pour ses scènes de danse à l’Opéra de Paris ?",
+      "answers": [
+        {"text": "Edgar Degas", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Pierre-Auguste Renoir", "correct": false},
+        {"text": "Paul Cézanne", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de 'Le Déjeuner sur l’herbe' ?",
+      "answers": [
+        {"text": "Édouard Manet", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Pierre-Auguste Renoir", "correct": false},
+        {"text": "Edgar Degas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel artiste est associé au fauvisme et aux couleurs vives ?",
+      "answers": [
+        {"text": "Henri Matisse", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Paul Cézanne", "correct": false},
+        {"text": "Vincent Van Gogh", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'La Danse' ?",
+      "answers": [
+        {"text": "Henri Matisse", "correct": true},
+        {"text": "Pablo Picasso", "correct": false},
+        {"text": "Edgar Degas", "correct": false},
+        {"text": "Claude Monet", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est célèbre pour ses paysages des montagnes de Provence ?",
+      "answers": [
+        {"text": "Paul Cézanne", "correct": true},
+        {"text": "Vincent Van Gogh", "correct": false},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Pierre-Auguste Renoir", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de 'La Chambre à Arles' ?",
+      "answers": [
+        {"text": "Vincent Van Gogh", "correct": true},
+        {"text": "Paul Cézanne", "correct": false},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Henri Matisse", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est associé à l’expressionnisme allemand ?",
+      "answers": [
+        {"text": "Edvard Munch", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Vincent Van Gogh", "correct": false},
+        {"text": "Paul Cézanne", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'La Grande Vague de Kanagawa' ?",
+      "answers": [
+        {"text": "Hokusai", "correct": true},
+        {"text": "Katsushika", "correct": false},
+        {"text": "Utagawa Hiroshige", "correct": false},
+        {"text": "Takashi Murakami", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est célèbre pour ses fresques religieuses à la chapelle Sixtine ?",
+      "answers": [
+        {"text": "Michel-Ange", "correct": true},
+        {"text": "Raphaël", "correct": false},
+        {"text": "Leonardo da Vinci", "correct": false},
+        {"text": "Donatello", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre a créé la série de peintures 'Les Grandes Baigneuses' ?",
+      "answers": [
+        {"text": "Paul Cézanne", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Pierre-Auguste Renoir", "correct": false},
+        {"text": "Edgar Degas", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de la peinture 'La Gare Saint-Lazare' ?",
+      "answers": [
+        {"text": "Claude Monet", "correct": true},
+        {"text": "Édouard Manet", "correct": false},
+        {"text": "Pierre-Auguste Renoir", "correct": false},
+        {"text": "Vincent Van Gogh", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est célèbre pour ses portraits et scènes de la vie bourgeoise à Paris ?",
+      "answers": [
+        {"text": "Édouard Manet", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Henri Matisse", "correct": false},
+        {"text": "Paul Cézanne", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'Le Moulin de la Galette' ?",
+      "answers": [
+        {"text": "Pierre-Auguste Renoir", "correct": true},
+        {"text": "Edgar Degas", "correct": false},
+        {"text": "Claude Monet", "correct": false},
         {"text": "Paul Cézanne", "correct": false}
       ]
     }
@@ -137,6 +407,141 @@
         {"text": "Michel-Ange", "correct": false},
         {"text": "Raphaël", "correct": false},
         {"text": "Donatello", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'Le Jardin des délices' ?",
+      "answers": [
+        {"text": "Hieronymus Bosch", "correct": true},
+        {"text": "Pieter Bruegel", "correct": false},
+        {"text": "Albrecht Dürer", "correct": false},
+        {"text": "Hans Holbein", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre baroque est connu pour ses œuvres dramatiques et religieuses ?",
+      "answers": [
+        {"text": "Caravage", "correct": true},
+        {"text": "Rembrandt", "correct": false},
+        {"text": "Titien", "correct": false},
+        {"text": "Rubens", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de la fresque 'L'École d'Athènes' ?",
+      "answers": [
+        {"text": "Raphaël", "correct": true},
+        {"text": "Michel-Ange", "correct": false},
+        {"text": "Leonardo da Vinci", "correct": false},
+        {"text": "Donatello", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est célèbre pour ses compositions cubistes abstraites ?",
+      "answers": [
+        {"text": "Pablo Picasso", "correct": true},
+        {"text": "Georges Braque", "correct": false},
+        {"text": "Juan Gris", "correct": false},
+        {"text": "Salvador Dalí", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'Les Demoiselles d'Avignon' ?",
+      "answers": [
+        {"text": "Pablo Picasso", "correct": true},
+        {"text": "Henri Matisse", "correct": false},
+        {"text": "Georges Braque", "correct": false},
+        {"text": "Juan Gris", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est associé au symbolisme ?",
+      "answers": [
+        {"text": "Gustave Moreau", "correct": true},
+        {"text": "Odilon Redon", "correct": false},
+        {"text": "Edvard Munch", "correct": false},
+        {"text": "Henri Rousseau", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'Les Chasseurs dans la neige' ?",
+      "answers": [
+        {"text": "Pieter Bruegel l'Ancien", "correct": true},
+        {"text": "Hieronymus Bosch", "correct": false},
+        {"text": "Albrecht Dürer", "correct": false},
+        {"text": "Hans Holbein", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre italien de la Renaissance a sculpté le David et peint la chapelle Sixtine ?",
+      "answers": [
+        {"text": "Michel-Ange", "correct": true},
+        {"text": "Raphaël", "correct": false},
+        {"text": "Leonardo da Vinci", "correct": false},
+        {"text": "Donatello", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui est l’auteur de 'L'Origine du monde' ?",
+      "answers": [
+        {"text": "Gustave Courbet", "correct": true},
+        {"text": "Édouard Manet", "correct": false},
+        {"text": "Henri Rousseau", "correct": false},
+        {"text": "Paul Cézanne", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre français est associé au mouvement impressionniste et à la peinture de la vie moderne ?",
+      "answers": [
+        {"text": "Édouard Manet", "correct": true},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Pierre-Auguste Renoir", "correct": false},
+        {"text": "Edgar Degas", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre hollandais a créé 'La Ronde de nuit' ?",
+      "answers": [
+        {"text": "Rembrandt", "correct": true},
+        {"text": "Johannes Vermeer", "correct": false},
+        {"text": "Vincent Van Gogh", "correct": false},
+        {"text": "Hieronymus Bosch", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'Le Triomphe de Galatée' ?",
+      "answers": [
+        {"text": "Raphaël", "correct": true},
+        {"text": "Sandro Botticelli", "correct": false},
+        {"text": "Titien", "correct": false},
+        {"text": "Michel-Ange", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel peintre est célèbre pour ses portraits d’Elizabeth I d’Angleterre ?",
+      "answers": [
+        {"text": "Nicholas Hilliard", "correct": true},
+        {"text": "Hans Holbein", "correct": false},
+        {"text": "Albrecht Dürer", "correct": false},
+        {"text": "Peter Paul Rubens", "correct": false}
+      ]
+    },
+    {
+      "question": "Qui a peint 'La Mort de Marat' ?",
+      "answers": [
+        {"text": "Jacques-Louis David", "correct": true},
+        {"text": "Eugène Delacroix", "correct": false},
+        {"text": "Jean-Auguste-Dominique Ingres", "correct": false},
+        {"text": "Édouard Manet", "correct": false}
+      ]
+    },
+    {
+      "question": "Quel artiste est associé aux peintures hyperréalistes modernes ?",
+      "answers": [
+        {"text": "Chuck Close", "correct": true},
+        {"text": "Andy Warhol", "correct": false},
+        {"text": "Jeff Koons", "correct": false},
+        {"text": "Gerhard Richter", "correct": false}
       ]
     }
   ]
