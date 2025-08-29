@@ -77,8 +77,8 @@ body.light-theme .btn,
 body.light-theme .btn-neon, 
 body.light-theme .btn-neon-select, 
 body.light-theme .quiz-card, 
-body.light-theme .contact-form input, 
-body.light-theme .contact-form textarea, 
+body.light-theme #contact-form input, 
+body.light-theme #contact-form textarea, 
 body.light-theme h1, 
 body.light-theme h2, 
 body.light-theme .logo, 
@@ -408,7 +408,7 @@ main {
     margin-top: 20px;
 }
 /* ===================== FORMULAIRES ===================== */
-.contact-form {
+#contact-form {
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -422,13 +422,13 @@ main {
     width: 200px;
 }
 
-.contact-form input,
-.contact-form textarea{
+#contact-form input,
+#contact-form textarea{
     width: 100%;
 }
 
-.contact-form input,
-.contact-form textarea,
+#contact-form input,
+#contact-form textarea,
 #difficulty {
     padding: 8px;
     border: 2px solid var(--color-primary);
@@ -439,8 +439,8 @@ main {
     transition: 0.3s;
 }
 
-.contact-form input:focus,
-.contact-form textarea:focus,
+#contact-form input:focus,
+#contact-form textarea:focus,
 #difficulty:focus {
     outline: none;
     box-shadow: 0 0 20px var(--color-primary), 0 0 40px var(--color-primary);
@@ -633,9 +633,9 @@ footer {
     .home-container p { font-size: 0.9em; }
     .quiz-container { width: 95%; padding: 10px; }
     .quiz-card { padding: 5px; font-size: 0.95em; }
-    .contact-form { width: 100%; }
-    .contact-form input,
-    .contact-form textarea,
+    #contact-form { width: 100%; }
+    #contact-form input,
+    #contact-form textarea,
     #difficulty { font-size: 0.95em; padding: 10px; }
     .quiz-selection {
         grid-template-columns: repeat(2, 1fr);

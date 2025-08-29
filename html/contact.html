@@ -33,15 +33,37 @@
         <h1>Contactez-nous</h1>
         <p>Vous avez des questions ou des suggestions ? Envoyez-nous un message !</p>
 
-        <form class="contact-form" action="https://formspree.io/f/xnnbjlgn" method="post">
-            <input type="text" placeholder="Nom" required>
-            <input type="email" placeholder="Email" required>
-            <textarea placeholder="Votre message" rows="6" required></textarea>
+        <form id="contact-form">
+            <input type="text" name="name" placeholder="Nom" required>
+            <input type="email" name="email" placeholder="Email" required>
+            <textarea name="message" placeholder="Votre message" rows="6" required></textarea>
             <button type="submit" class="btn-neon">Envoyer</button>
         </form>
+
         <script>
-        document.getElementById('contact-form').addEventListener('submit', function(event){
-            alert("Merci ! Votre message a été envoyé.");
+        const form = document.getElementById('contact-form');
+
+        form.addEventListener('submit', async function(event) {
+            event.preventDefault(); // empêche le formulaire de recharger la page
+
+            const data = {
+                name: form.name.value,
+                email: form.email.value,
+                message: form.message.value
+            };
+
+            const response = await fetch('https://formspree.io/f/xnnbjlgn', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data)
+            });
+
+            if (response.ok) {
+                window.location.href = "thanks.html"
+                form.reset();
+            } else {
+                alert("Erreur lors de l'envoi. Veuillez réessayer.");
+            }
         });
         </script>
     </main>
