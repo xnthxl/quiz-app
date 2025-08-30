@@ -173,6 +173,7 @@ body {
     width: 80px;
     height: 50%;
     padding: 10px;
+    background-color: transparent;
 }
 
 .nav-links-container {
@@ -409,7 +410,6 @@ body {
 
 #question {
     font-size: 1.3em;
-    margin: 20px 0;
     padding: 30px 0;
     height: 120px;
     display: flex;
@@ -436,7 +436,7 @@ body {
     display: flex;
     justify-content: center;
     height: 50px;
-    margin-top: 18px;
+    margin: 20px;
 }
 
 #end-score{
@@ -492,6 +492,10 @@ body {
     gap: 20px;
     max-width: 800px;
     margin: 0 auto 50px auto;
+}
+
+.quiz-genre{
+    width: 100%;
 }
 
 .quiz-card {
@@ -608,10 +612,6 @@ footer {
 }
 
 /* ===================== RESPONSIVE ===================== */
-
-
-
-
 @media (max-width: 768px) {
     /* Header */
     .site-header {
@@ -681,7 +681,6 @@ footer {
 
     .quiz-card { padding: 5px; font-size: 0.95em; max-width: none;}
     
-
     #question {
         font-size: clamp(1em, 4vw, 1.3em);
         padding: 20px 10px;
@@ -703,5 +702,8 @@ footer {
     justify-content: space-between;
     align-items: center;
     width: 100%;
+    }
+    #controls{
+        margin: 30px;
     }
 }
