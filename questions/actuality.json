@@ -447,15 +447,6 @@
       ]
     },
     {
-      "question": "Quel pays a été le premier à autoriser l’utilisation d’un vaccin à ARN messager contre la COVID-19 ?",
-      "answers": [
-        { "text": "Royaume-Uni", "correct": true },
-        { "text": "Allemagne", "correct": false },
-        { "text": "États-Unis", "correct": false },
-        { "text": "Chine", "correct": false }
-      ]
-    },
-    {
       "question": "Quel pays a été le premier à commercialiser des voitures électriques à grande échelle dans les années 2020 ?",
       "answers": [
         { "text": "Chine", "correct": true },
@@ -498,6 +489,14 @@
         { "text": "France", "correct": false },
         { "text": "Inde", "correct": false },
         { "text": "Canada", "correct": false }
+      ]
+    },{
+      "question": "Quel pays a été le premier à autoriser l’utilisation d’un vaccin à ARN messager contre la COVID-19 ?",
+      "answers": [
+        { "text": "Royaume-Uni", "correct": true },
+        { "text": "Allemagne", "correct": false },
+        { "text": "États-Unis", "correct": false },
+        { "text": "Chine", "correct": false }
       ]
     },
     {

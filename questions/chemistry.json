@@ -464,12 +464,12 @@
       ]
     },
     {
-      "question": "Qu’est-ce qu’un isomère de constitution (isomère structural) ?",
+      "question": "Quel type de liaison unit les atomes dans une molécule d’eau ?",
       "answers": [
-        { "text": "Deux molécules ayant la même formule brute mais des enchaînements d’atomes différents", "correct": true },
-        { "text": "Deux molécules miroir l’une de l’autre", "correct": false },
-        { "text": "Deux molécules avec la même structure et propriétés", "correct": false },
-        { "text": "Deux ions ayant la même charge", "correct": false }
+        { "text": "Covalente", "correct": true },
+        { "text": "Ionique", "correct": false },
+        { "text": "Hydrogène", "correct": false },
+        { "text": "Métallique", "correct": false }
       ]
     },
     {
@@ -529,7 +529,7 @@
     {
       "question": "Qu’est-ce qu’un complexe de coordination ?",
       "answers": [
-        { "text": "Un assemblage d’atomes d’un métal reliés par des liaisons covalentes uniquement", "correct": false },
+        { "text": "Assemblage d’atomes métalliques liés par covalence", "correct": false },
         { "text": "Un ion métallique central entouré de ligands liés par des liaisons coordonnées", "correct": true },
         { "text": "Un sel ionique simple", "correct": false },
         { "text": "Un polymère organique", "correct": false }

@@ -320,10 +320,10 @@
     {
       "question": "Résolvez l'équation : x/2 + 7 = 10",
       "answers": [
-        {"text": "6", "correct": false},
-        {"text": "6", "correct": false},
-        {"text": "6", "correct": false},
-        {"text": "6", "correct": false}
+        {"text": "6", "correct": true},
+        {"text": "5", "correct": false},
+        {"text": "4", "correct": false},
+        {"text": "3", "correct": false}
       ]
     },
     {
@@ -365,12 +365,12 @@
   ],
   "difficile": [
     {
-      "question": "Résolvez l'équation : 2x^2 - 8 = 0",
+      "question": "Résolvez l'équation : (3x + 5)^2 = 0",
       "answers": [
-        {"text": "2", "correct": true},
-        {"text": "-2", "correct": true},
-        {"text": "4", "correct": false},
-        {"text": "-4", "correct": false}
+        {"text": "-5/3", "correct": true},
+        {"text": "5/3", "correct": false},
+        {"text": "0", "correct": false},
+        {"text": "3", "correct": false}
       ]
     },
     {
@@ -446,12 +446,12 @@
       ]
     },
     {
-      "question": "Résolvez l'équation : 4x^2 - 16 = 0",
+      "question": "Résolvez l'équation : (2x - 4)^2 = 0",
       "answers": [
         {"text": "2", "correct": true},
-        {"text": "-2", "correct": true},
+        {"text": "-2", "correct": false},
         {"text": "4", "correct": false},
-        {"text": "-4", "correct": false}
+        {"text": "0", "correct": false}
       ]
     },
     {
@@ -482,12 +482,12 @@
       ]
     },
     {
-      "question": "Résolvez l'équation : 3x^2 - 12 = 0",
+      "question": "Résolvez l'équation : (x - 3)^2 = 0",
       "answers": [
-        {"text": "2", "correct": true},
-        {"text": "-2", "correct": true},
-        {"text": "3", "correct": false},
-        {"text": "-3", "correct": false}
+        {"text": "3", "correct": true},
+        {"text": "-3", "correct": false},
+        {"text": "0", "correct": false},
+        {"text": "1", "correct": false}
       ]
     },
     {

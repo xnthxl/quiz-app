@@ -240,7 +240,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 30px 20px;
+    padding: 10px 20px;
     width: 100%;
     text-align: center;
 }
@@ -353,13 +353,13 @@ body {
     background-color: var(--color-bg-light);
     border: 2px solid var(--color-accent);
     border-radius: 10px;
-    width: 90%;
+    width: 95%;
     max-width: 400px;
     text-align: center;
     box-shadow: 0 0 20px var(--color-accent), 0 0 40px var(--color-primary);
-    margin: 10px auto 50px auto;
+    margin: 10px 0 50px 0;
     padding: 20px;
-    height: 450px;
+    height: 500px;
 }
 
 .answer-container {
@@ -374,11 +374,11 @@ body {
 }
 
 #answer-buttons button {
-    height: 60px;           
+    height: 90px;           
     min-width: 140px;
     padding: 10px 15px;
     text-align: center;
-    font-size: 1em;
+    font-size: 0.8em;
     border-radius: 10px;
     cursor: pointer;
     transition: 0.3s all;
@@ -668,7 +668,7 @@ footer {
     /* Ajustements divers */
     .home-container h1 { font-size: 2.2em; }
     .home-container p { font-size: 0.9em; }
-    .quiz-container { width: 95%; padding: 10px; }
+    .quiz-container { width: 95%; padding: 10px; height: 450px;}
     #contact-form { width: 100%; }
     #contact-form input,
     #contact-form textarea,
@@ -690,7 +690,7 @@ footer {
         min-width: 100px;
         height: 70px;
         padding: 8px 10px;
-        font-size: clamp(0.9em, 3vw, 1em);
+        font-size: 0.7em;
     }
     body.light-theme .nav-links{
         border: 3px solid var(--color-accent);

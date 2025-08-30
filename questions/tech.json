@@ -5,7 +5,7 @@
       "answers": [
         {"text": "HyperText Markup Language", "correct": true},
         {"text": "HighText Machine Language", "correct": false},
-        {"text": "Hyperlinks and Text Markup Language", "correct": false},
+        {"text": "High Text Markup Language", "correct": false},
         {"text": "Home Tool Markup Language", "correct": false}
       ]
     },
@@ -129,7 +129,7 @@
     {
       "question": "Quel composant gère l’affichage graphique ?",
       "answers": [
-        {"text": "Carte graphique", "correct": true},
+        {"text": "GPU", "correct": true},
         {"text": "CPU", "correct": false},
         {"text": "RAM", "correct": false},
         {"text": "ROM", "correct": false}
@@ -183,12 +183,12 @@
   ],
   "moyen": [
     {
-      "question": "Quel langage de programmation est principalement utilisé pour le développement web côté client ?",
+      "question": "Quelle est la balise pour un lien hypertexte ?",
       "answers": [
-        {"text": "JavaScript", "correct": true},
-        {"text": "Python", "correct": false},
-        {"text": "C++", "correct": false},
-        {"text": "Java", "correct": false}
+        {"text": "<a>", "correct": true},
+        {"text": "<div>", "correct": false},
+        {"text": "<p>", "correct": false},
+        {"text": "<span>", "correct": false}
       ]
     },
     {
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "question": "Quel langage de programmation est le plus utilisé pour l’intelligence artificielle ?",
+      "question": "Quel langage de programmation est le plus utilisé pour l’IA ?",
       "answers": [
         {"text": "Python", "correct": true},
         {"text": "Java", "correct": false},
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "question": "Quel langage est principalement utilisé pour créer des pages web dynamiques côté serveur ?",
+      "question": "Quel langage est utilisé côté serveur pour le web ?",
       "answers": [
         {"text": "PHP", "correct": true},
         {"text": "HTML", "correct": false},
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "question": "Quel composant mémoire conserve les instructions essentielles au démarrage de l’ordinateur ?",
+      "question": "Quel composant contient les instructions de démarrage ?",
       "answers": [
         {"text": "ROM", "correct": true},
         {"text": "RAM", "correct": false},
@@ -367,7 +367,7 @@
     {
       "question": "En informatique, que signifie 'open source' ?",
       "answers": [
-        {"text": "Le code est librement accessible et modifiable", "correct": true},
+        {"text": "Le code est accessible et modifiable", "correct": true},
         {"text": "Le logiciel est gratuit uniquement", "correct": false},
         {"text": "Le logiciel est sécurisé par défaut", "correct": false},
         {"text": "Le logiciel ne nécessite pas d’installation", "correct": false}
@@ -376,10 +376,10 @@
     {
       "question": "Qu'est-ce qu'une base de données relationnelle ?",
       "answers": [
-        {"text": "Une base de données où les informations sont organisées en tables reliées entre elles", "correct": true},
-        {"text": "Une base de données non structurée", "correct": false},
-        {"text": "Un système de fichiers sur disque dur", "correct": false},
-        {"text": "Une interface utilisateur", "correct": false}
+        {"text": "Informations organisées en tables reliées", "correct": true},
+        {"text": "Base non structurée", "correct": false},
+        {"text": "Système de fichiers", "correct": false},
+        {"text": "Interface utilisateur", "correct": false}
       ]
     },
     {
@@ -421,7 +421,7 @@
     {
       "question": "Qu'est-ce que le cloud computing ?",
       "answers": [
-        {"text": "Utilisation de ressources informatiques via Internet", "correct": true},
+        {"text": "L'utilisation de ressources informatiques via Internet", "correct": true},
         {"text": "Stockage local sur disque dur", "correct": false},
         {"text": "Un type de processeur", "correct": false},
         {"text": "Un langage de programmation", "correct": false}
@@ -439,7 +439,7 @@
     {
       "question": "Qu'est-ce qu'un serveur DNS ?",
       "answers": [
-        {"text": "Un serveur qui traduit les noms de domaine en adresses IP", "correct": true},
+        {"text": "Un serveur qui traduit les noms de domaine en IP", "correct": true},
         {"text": "Un serveur qui stocke des fichiers", "correct": false},
         {"text": "Un serveur qui héberge des emails", "correct": false},
         {"text": "Un serveur de jeu en ligne", "correct": false}
@@ -457,7 +457,7 @@
     {
       "question": "Qu'est-ce qu'une architecture client-serveur ?",
       "answers": [
-        {"text": "Une architecture où un client demande des services à un serveur", "correct": true},
+        {"text": "Une architecture où un client demande à un serveur", "correct": true},
         {"text": "Un type de logiciel antivirus", "correct": false},
         {"text": "Un protocole de communication web", "correct": false},
         {"text": "Une méthode de stockage local", "correct": false}
@@ -466,7 +466,7 @@
     {
       "question": "Qu'est-ce que le DevOps ?",
       "answers": [
-        {"text": "Une méthodologie combinant développement et opérations IT", "correct": true},
+        {"text": "Une méthodologie qui associe développement et gestion IT", "correct": true},
         {"text": "Un langage de programmation", "correct": false},
         {"text": "Un système d’exploitation", "correct": false},
         {"text": "Une base de données", "correct": false}
